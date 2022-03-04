@@ -6,304 +6,304 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://bam.kalzumeus.com/archive/moving-money-internationally/",
+          "id": "https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/",
           "author": null,
           "description": "Comments",
-          "link": "https://bam.kalzumeus.com/archive/moving-money-internationally/",
-          "publishedOn": "2022-03-02T23:54:57.000Z",
-          "wordCount": 2424,
-          "title": "Moving Money Internationally",
+          "link": "https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/",
+          "publishedOn": "2022-03-03T23:42:08.000Z",
+          "wordCount": 9046,
+          "title": "How the Weak Can Win – A Primer on Protracted War",
+          "imageUrl": "https://i0.wp.com/acoup.blog/wp-content/uploads/2022/03/Priotracted-War-Splash.png?fit=961%2C451&ssl=1"
+        },
+        {
+          "id": "https://brave.com/talk/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brave.com/talk/",
+          "publishedOn": "2022-03-03T22:10:28.000Z",
+          "wordCount": 1419,
+          "title": "Brave Talk: Unlimited, private video calls, in browser",
+          "imageUrl": "https://brave.com/static-assets/images/talk-og.jpg"
+        },
+        {
+          "id": "https://sfbd.is/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sfbd.is/",
+          "publishedOn": "2022-03-03T21:15:44.000Z",
+          "wordCount": 50,
+          "title": "Show HN: Surfboard – CodeSandbox for Arduino",
           "imageUrl": null
         },
         {
-          "id": "https://technology.riotgames.com/news/getting-guts-berserk",
+          "id": "https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html",
           "author": null,
           "description": "Comments",
-          "link": "https://technology.riotgames.com/news/getting-guts-berserk",
-          "publishedOn": "2022-03-02T22:31:54.000Z",
-          "wordCount": 2790,
-          "title": "Getting into the Guts of Berserk",
-          "imageUrl": "https://technology.riotgames.com/sites/default/files/articles/127/renata-glasc-hero-image.png"
-        },
-        {
-          "id": "https://arxiv.org/abs/2203.00555",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2203.00555",
-          "publishedOn": "2022-03-02T22:10:11.000Z",
-          "wordCount": 570,
-          "title": "DeepNet: Scaling Transformers to 1k Layers",
+          "link": "https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html",
+          "publishedOn": "2022-03-03T21:12:57.000Z",
+          "wordCount": 6178,
+          "title": "Speeding up Go's built-in JSON encoder for large arrays of objects",
           "imageUrl": null
         },
         {
-          "id": "https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/",
+          "id": "https://colin-scott.github.io/personal_website/research/interactive_latency.html",
           "author": null,
           "description": "Comments",
-          "link": "https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/",
-          "publishedOn": "2022-03-02T21:59:27.000Z",
-          "wordCount": 543,
-          "title": "Snowflake acquires Streamlit for $800M to help customers build data-based apps",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-497005546.jpg?w=600"
-        },
-        {
-          "id": "https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/",
-          "publishedOn": "2022-03-02T21:38:02.000Z",
-          "wordCount": 664,
-          "title": "Google mandates workers back to Silicon Valley, other offices from April 4",
-          "imageUrl": "https://www.reuters.com/resizer/8H3jzNfs-bsIIFrdj6VHk3u9KXk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQTIGJP2J5IEJGQNYFW327ISHY.jpg"
-        },
-        {
-          "id": "https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash",
-          "publishedOn": "2022-03-02T21:21:10.000Z",
-          "wordCount": 1845,
-          "title": "Producing graphene in bulk using waste food, plastic and other materials",
-          "imageUrl": "https://news.rice.edu1111_FLASH-B.jpeg"
-        },
-        {
-          "id": "https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/substackinc/5abe1230-305d-4f53-8908-5494a6226272",
-          "publishedOn": "2022-03-02T21:00:48.000Z",
-          "wordCount": 368,
-          "title": "Substack (YC W18) is hiring Analytics Engineers to build the future for writing",
-          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/14b0ab54-347d-4c90-ae45-c46ff2609429-1634149369407.png"
-        },
-        {
-          "id": "https://www.historytoday.com/archive/history-matters/theology-chocolate",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.historytoday.com/archive/history-matters/theology-chocolate",
-          "publishedOn": "2022-03-02T20:15:35.000Z",
-          "wordCount": 1338,
-          "title": "The Theology of Chocolate",
+          "link": "https://colin-scott.github.io/personal_website/research/interactive_latency.html",
+          "publishedOn": "2022-03-03T21:06:40.000Z",
+          "wordCount": 2067,
+          "title": "How “latency numbers everybody should know” decreased from 1990–2020",
           "imageUrl": null
         },
         {
-          "id": "https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate",
+          "id": "https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields",
           "author": null,
           "description": "Comments",
-          "link": "https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate",
-          "publishedOn": "2022-03-02T20:13:17.000Z",
-          "wordCount": 1432,
-          "title": "Not everyone should meditate",
-          "imageUrl": "https://www.joshcsimmons.com/assets/main/ogimage.png"
-        },
-        {
-          "id": "https://www.reuters.com/business/retail-consumer/exclusive-amazon-close-all-its-physical-bookstores-4-star-shops-2022-03-02/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/retail-consumer/exclusive-amazon-close-all-its-physical-bookstores-4-star-shops-2022-03-02/",
-          "publishedOn": "2022-03-02T19:31:57.000Z",
-          "wordCount": 734,
-          "title": "Amazon to close all of its physical bookstores and '4-star' shops",
-          "imageUrl": "https://www.reuters.com/resizer/8gbQApjBE8kAaL5PqatLGSBtPSo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJWMA4DLDBN2JCWOTITN34DHZE.jpg"
-        },
-        {
-          "id": "https://wapm.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wapm.io/",
-          "publishedOn": "2022-03-02T19:22:38.000Z",
-          "wordCount": 338,
-          "title": "Show HN: WAPM – WebAssembly Package Manager",
+          "link": "https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&search_field=all_fields",
+          "publishedOn": "2022-03-03T21:06:04.000Z",
+          "wordCount": 749,
+          "title": "USDA Pomological Watercolor Collection",
           "imageUrl": null
         },
         {
-          "id": "https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the",
+          "id": "https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin",
           "author": null,
           "description": "Comments",
-          "link": "https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the",
-          "publishedOn": "2022-03-02T18:29:28.000Z",
-          "wordCount": 3003,
-          "title": "The decline and fall of Java on the desktop",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca0a6129-8864-434e-ae35-a6b5ffddaf50_1531x632.png"
+          "link": "https://kottke.org/22/03/the-inventor-of-the-screw-in-coffin",
+          "publishedOn": "2022-03-03T21:02:38.000Z",
+          "wordCount": 156,
+          "title": "The inventor of the screw-in coffin",
+          "imageUrl": "https://kottke.org/plus/misc/images/screw-in-coffin.jpg"
         },
         {
-          "id": "https://phqb.github.io/circle_drawing/",
+          "id": "https://onesignal.com/careers",
           "author": null,
           "description": "Comments",
-          "link": "https://phqb.github.io/circle_drawing/",
-          "publishedOn": "2022-03-02T17:56:08.000Z",
-          "wordCount": 147,
-          "title": "Show HN: I made a WebGL-based app that traces images using circles",
+          "link": "https://onesignal.com/careers",
+          "publishedOn": "2022-03-03T21:00:37.000Z",
+          "wordCount": 612,
+          "title": "OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email",
+          "imageUrl": "https://media.onesignal.com/cms/_1200x630_crop_center-center_82_none/onesignal-hiring.png"
+        },
+        {
+          "id": "https://wuffs.org/blog/emulating-mac-compilers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wuffs.org/blog/emulating-mac-compilers",
+          "publishedOn": "2022-03-03T20:36:46.000Z",
+          "wordCount": 6202,
+          "title": "Mpw-Emu: Emulating 1998-Vintage Mac Compilers",
           "imageUrl": null
         },
         {
-          "id": "https://variety.com/2022/digital/news/epic-games-acquires-bandcamp-1235194180/",
+          "id": "https://exputer.com/news/nintendo/switch-emulation-steam-deck/",
           "author": null,
           "description": "Comments",
-          "link": "https://variety.com/2022/digital/news/epic-games-acquires-bandcamp-1235194180/",
-          "publishedOn": "2022-03-02T17:14:18.000Z",
-          "wordCount": 1530,
-          "title": "Epic Games acquires Bandcamp",
-          "imageUrl": "https://variety.com/wp-content/uploads/2022/03/Epic-Games-Bandcamp.jpg?w=1024"
+          "link": "https://exputer.com/news/nintendo/switch-emulation-steam-deck/",
+          "publishedOn": "2022-03-03T20:15:12.000Z",
+          "wordCount": 1068,
+          "title": "Nintendo is removing switch emulation videos on Steam Deck from YouTube",
+          "imageUrl": "https://exputer.com/wp-content/uploads/2022/03/steam-deck-on-train.jpg"
         },
         {
-          "id": "https://www.feistyduck.com/books/bulletproof-tls-and-pki/",
+          "id": "https://romero.com/shop/p/onehumanity",
           "author": null,
           "description": "Comments",
-          "link": "https://www.feistyduck.com/books/bulletproof-tls-and-pki/",
-          "publishedOn": "2022-03-02T17:10:32.000Z",
-          "wordCount": 2015,
-          "title": "Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out",
+          "link": "https://romero.com/shop/p/onehumanity",
+          "publishedOn": "2022-03-03T19:38:14.000Z",
+          "wordCount": 316,
+          "title": "One Humanity – DOOM 2 Level",
+          "imageUrl": "http://static1.squarespace.com/static/5fef3318f8ce9b562500206e/5fef331bf8ce9b56250020ba/6220033c396a644e92d2c345/1646265156094/one-humanity-12.png?format=1500w"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/886516/d835ee6026544345/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/886516/d835ee6026544345/",
+          "publishedOn": "2022-03-03T19:21:56.000Z",
+          "wordCount": 1904,
+          "title": "CPython, C standards, and IEEE 754",
           "imageUrl": null
         },
         {
-          "id": "https://huemint.com/",
+          "id": "https://github.com/TrungNguyen1909/qemu-t8030",
           "author": null,
           "description": "Comments",
-          "link": "https://huemint.com/",
-          "publishedOn": "2022-03-02T16:38:43.000Z",
-          "wordCount": 27,
-          "title": "Show HN: Huemint – Machine learning for color design",
+          "link": "https://github.com/TrungNguyen1909/qemu-t8030",
+          "publishedOn": "2022-03-03T19:18:27.000Z",
+          "wordCount": 2466,
+          "title": "iPhone 11 Emulated on QEMU",
+          "imageUrl": "https://opengraph.githubassets.com/82e1f2d6b044503949e09c42b7f8df4f28a7160c6dfde2c7136ca7cc79653091/TrungNguyen1909/qemu-t8030"
+        },
+        {
+          "id": "https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/",
+          "publishedOn": "2022-03-03T18:20:40.000Z",
+          "wordCount": 1906,
+          "title": "My New Old Macintosh SE/30 Computer",
           "imageUrl": null
         },
         {
-          "id": "https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/",
+          "id": "https://fasterplease.substack.com/p/the-war-on-gifted-education",
           "author": null,
           "description": "Comments",
-          "link": "https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/",
-          "publishedOn": "2022-03-02T15:46:55.000Z",
+          "link": "https://fasterplease.substack.com/p/the-war-on-gifted-education",
+          "publishedOn": "2022-03-03T18:09:35.000Z",
+          "wordCount": 4615,
+          "title": "The war on gifted education",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cbf46fa-24d6-4dda-8eef-502bbe620b47_1080x492.jpeg"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/885729/c495a793abeee387/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/885729/c495a793abeee387/",
+          "publishedOn": "2022-03-03T17:39:05.000Z",
+          "wordCount": 1706,
+          "title": "Better visibility into Linux packet-dropping decisions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb",
+          "publishedOn": "2022-03-03T17:05:05.000Z",
+          "wordCount": 328,
+          "title": "Split the States (2021)",
+          "imageUrl": "https://opengraph.githubassets.com/26eb8829c1d4b419a48cdb47db1f8cef74f1bf23a3c558f4f5d12ddf054efe64/norvig/pytudes"
+        },
+        {
+          "id": "https://hacks.mozilla.org/2022/03/interop-2022/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hacks.mozilla.org/2022/03/interop-2022/",
+          "publishedOn": "2022-03-03T17:02:40.000Z",
+          "wordCount": 1151,
+          "title": "Interop 2022",
+          "imageUrl": "https://hacks.mozilla.org/files/2022/02/interop-2022-dashboard.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30543228",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=30543228",
+          "publishedOn": "2022-03-03T16:39:03.000Z",
+          "wordCount": 3741,
+          "title": "Launch HN: Slai (YC W22) – Build ML models quickly and deploy them as apps",
+          "imageUrl": null
+        },
+        {
+          "id": "http://rachelbythebay.com/w/2022/03/02/wrong/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://rachelbythebay.com/w/2022/03/02/wrong/",
+          "publishedOn": "2022-03-03T15:51:46.000Z",
           "wordCount": null,
-          "title": "Single binary executable packages",
+          "title": "It's now your fault they don't know about it",
           "imageUrl": null
         },
         {
-          "id": "https://gomakethings.com/spas-were-a-mistake/",
+          "id": "https://www.qsl.net/9a4qv/WiFi_Ri.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://gomakethings.com/spas-were-a-mistake/",
-          "publishedOn": "2022-03-02T15:35:37.000Z",
-          "wordCount": 596,
-          "title": "SPAs Were a Mistake",
-          "imageUrl": "https://gomakethings.com/img/og.png"
-        },
-        {
-          "id": "https://www.evryhealth.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.evryhealth.com/",
-          "publishedOn": "2022-03-02T15:33:56.000Z",
-          "wordCount": 313,
-          "title": "Launch HN: Evry Health (YC W18) – Better health insurance for companies",
+          "link": "https://www.qsl.net/9a4qv/WiFi_Ri.htm",
+          "publishedOn": "2022-03-03T14:38:35.000Z",
+          "wordCount": 548,
+          "title": "43 km line of sight with USB WiFi stick (2005)",
           "imageUrl": null
         },
         {
-          "id": "https://mattlabash.substack.com/p/p-j-orourke-1947-2022",
+          "id": "https://news.ycombinator.com/item?id=30540735",
           "author": null,
           "description": "Comments",
-          "link": "https://mattlabash.substack.com/p/p-j-orourke-1947-2022",
-          "publishedOn": "2022-03-02T15:31:32.000Z",
-          "wordCount": 5041,
-          "title": "P. J. O'Rourke, 1947-2022",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b168303-8747-4589-86c7-b4dfdd68c37e_1024x576.jpeg"
-        },
-        {
-          "id": "https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/psychological-operations.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/psychological-operations.html",
-          "publishedOn": "2022-03-02T15:25:39.000Z",
-          "wordCount": null,
-          "title": "Psychological Operations",
+          "link": "https://news.ycombinator.com/item?id=30540735",
+          "publishedOn": "2022-03-03T13:33:28.000Z",
+          "wordCount": 3551,
+          "title": "Launch HN: Requestly (YC W22) – Network debugging proxy for web and mobile",
           "imageUrl": null
         },
         {
-          "id": "https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641",
+          "id": "https://www.pagat.com/beating/doubt.html",
           "author": null,
           "description": "Comments",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641",
-          "publishedOn": "2022-03-02T15:13:19.000Z",
-          "wordCount": null,
-          "title": "On-Chip Batteries for Dust-Sized Computers",
+          "link": "https://www.pagat.com/beating/doubt.html",
+          "publishedOn": "2022-03-03T12:47:03.000Z",
+          "wordCount": 1550,
+          "title": "Rules of Card Games: I Doubt It",
           "imageUrl": null
         },
         {
-          "id": "https://github.com/afroisalreadyinu/miniboss",
+          "id": "https://media.ccc.de/v/33c3-8315-a_world_without_blockchain",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/afroisalreadyinu/miniboss",
-          "publishedOn": "2022-03-02T15:07:52.000Z",
-          "wordCount": 2899,
-          "title": "Show HN: Miniboss, versatile local container management with Python",
-          "imageUrl": "https://opengraph.githubassets.com/96c0a6f831672fb486499c538645623ac1dd8ae8bc20f9be8241ebbc1eefb2a6/afroisalreadyinu/miniboss"
+          "link": "https://media.ccc.de/v/33c3-8315-a_world_without_blockchain",
+          "publishedOn": "2022-03-03T12:39:01.000Z",
+          "wordCount": 271,
+          "title": "How international money transfers work (2016) [video]",
+          "imageUrl": "https://static.media.ccc.de/media/congress/2016/8315-hd_preview.jpg"
         },
         {
-          "id": "https://github.com/gildas-lormeau/SingleFile",
+          "id": "https://news.ycombinator.com/item?id=30539620",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/gildas-lormeau/SingleFile",
-          "publishedOn": "2022-03-02T14:55:17.000Z",
-          "wordCount": 1958,
-          "title": "SingleFile: Save a complete web page into a single HTML file",
-          "imageUrl": "https://repository-images.githubusercontent.com/906022/51e7c500-8e37-11e9-82c6-27fcbafdab5e"
-        },
-        {
-          "id": "https://www.courier.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.courier.com/",
-          "publishedOn": "2022-03-02T14:36:37.000Z",
-          "wordCount": 1790,
-          "title": "Launch HN: Courier (YC S19) – Developer infrastructure for product notifications",
-          "imageUrl": "https://www.courier.com/images/og-image.png"
-        },
-        {
-          "id": "https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html",
-          "publishedOn": "2022-03-02T14:31:17.000Z",
-          "wordCount": 2410,
-          "title": "How does perspective work in pictures?",
-          "imageUrl": "https://aaronhertzmann.com/images/perspective/goat.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/presentations/wasi-system-interface/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.infoq.com/presentations/wasi-system-interface/",
-          "publishedOn": "2022-03-02T14:31:09.000Z",
-          "wordCount": 7047,
-          "title": "WASI: A New Kind of System Interface",
-          "imageUrl": "https://res.infoq.com/presentations/wasi-system-interface/en/headerimage/twitter_card+%2885%29-1643724764113.jpg"
-        },
-        {
-          "id": "https://i2nk.co/mindwave-cat-ears",
-          "author": null,
-          "description": "Comments",
-          "link": "https://i2nk.co/mindwave-cat-ears",
-          "publishedOn": "2022-03-02T11:15:59.000Z",
-          "wordCount": 2012,
-          "title": "EEG Cat Ears (2018)",
+          "link": "https://news.ycombinator.com/item?id=30539620",
+          "publishedOn": "2022-03-03T11:25:02.000Z",
+          "wordCount": 6575,
+          "title": "Show HN: DontBeEvil.rip: Search, for developers (API, expressions, CLI)",
           "imageUrl": null
         },
         {
-          "id": "https://www.neh.gov/article/cult-goethe",
+          "id": "https://quarkus.io/guides/native-reference",
           "author": null,
           "description": "Comments",
-          "link": "https://www.neh.gov/article/cult-goethe",
-          "publishedOn": "2022-03-02T04:38:04.000Z",
-          "wordCount": 4997,
-          "title": "The writers who translated Goethe became some of the best writers in English",
-          "imageUrl": "https://www.neh.gov/sites/default/files/2022-01/2022_Winter_web-images_22.jpg"
+          "link": "https://quarkus.io/guides/native-reference",
+          "publishedOn": "2022-03-03T10:41:25.000Z",
+          "wordCount": 7083,
+          "title": "Native Reference Guide",
+          "imageUrl": "https://quarkus.io/assets/images/quarkus_card.png"
         },
         {
-          "id": "https://www.theguardian.com/artanddesign/2022/feb/27/doomed-ship-of-golds-ghostly-picture-gallery-is-plucked-from-the-seabed",
+          "id": "https://www.csun.io/2022/03/03/how-i-see-numbers.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theguardian.com/artanddesign/2022/feb/27/doomed-ship-of-golds-ghostly-picture-gallery-is-plucked-from-the-seabed",
-          "publishedOn": "2022-02-28T00:32:14.000Z",
-          "wordCount": 1222,
-          "title": "Doomed ship of gold’s ghostly picture gallery is plucked from the seabed",
-          "imageUrl": "https://i.guim.co.uk/img/media/c6834628d89614e9d9f80df116b3b8e5393fdb4b/0_183_2133_1280/master/2133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=cf74e10f63ebe0e07f3dc1a9d4446fec"
+          "link": "https://www.csun.io/2022/03/03/how-i-see-numbers.html",
+          "publishedOn": "2022-03-03T10:24:28.000Z",
+          "wordCount": 708,
+          "title": "How I See Numbers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/",
+          "publishedOn": "2022-03-03T09:05:11.000Z",
+          "wordCount": 1860,
+          "title": "Universal Chiplet Interconnect Express UCIe 1.0 Launched",
+          "imageUrl": "https://www.servethehome.com/wp-content/uploads/2022/03/Universal-Chiplet-Interconnect-Express-UCIe-1.0-Cover.jpg"
+        },
+        {
+          "id": "https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf",
+          "publishedOn": "2022-03-03T08:59:23.000Z",
+          "wordCount": 13166,
+          "title": "AppleScript (2006) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Harold_Hering",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Harold_Hering",
+          "publishedOn": "2022-03-02T20:09:46.000Z",
+          "wordCount": 1143,
+          "title": "Harold Hering",
+          "imageUrl": null
         }
       ]
     },
@@ -313,204 +313,204 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
-          "id": "https://tinhte.vn/thread/3482968/",
-          "author": "vn_ninja",
-          "description": "Trang Facebook của tổ chức phi chính phủ Anti-Corruption Action Center mới đây đã liệt kê ra những hành động mà các công ty và tổ chức lớn trên thế giới đã thực hiện với nước Nga để phản đối cuộc...",
-          "link": "https://tinhte.vn/thread/cac-cong-ty-cong-nghe-cam-van-nga-nhu-the-nao.3482968/",
-          "publishedOn": "2022-03-03T00:41:41.000Z",
-          "wordCount": 1797,
-          "title": "Các công ty công nghệ cấm vận Nga như thế nào?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886873_cover_Ukraine_tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482774/",
-          "author": "cuhiep",
-          "description": "[ATTACH]\n \nTranscend vừa ra mắt thẻ SD để gắn vừa khít, không lòi đuôi vào khe thẻ máy MacBook 14\" và 16\" 2021. Như vậy anh em lỡ mua máy 14\" hay 16\" mà thiếu bộ nhớ lưu trữ nay có thể mua để mở...",
-          "link": "https://tinhte.vn/thread/transcend-ra-mat-the-sd-nang-cap-dung-luong-bo-nho-cho-macbook-14-2-va-16-2-512gb-gia-90-usd.3482774/",
-          "publishedOn": "2022-03-03T00:40:49.000Z",
-          "wordCount": 532,
-          "title": "Transcend ra mắt thẻ SD nâng cấp dung lượng bộ nhớ cho MacBook 14\"2 và 16\"2. 512GB giá 90 USD.",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886212_Transcend_JetDrive_lite_330.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482476/",
-          "author": "Lê Huyền Vân",
-          "description": "Nokia G21 là điện thoại phổ thông mới được Nokia trưng bày tại MWC 2022. Điểm nổi bật của G21 đến từ camera 50MP và viên pin dung lượng lớn.\n \n[MEDIA]\nMời anh em xem video trên tay.\n \n[ATTACH]\nCó...",
-          "link": "https://tinhte.vn/thread/tren-tay-nokia-g21-mat-lung-nham-pin-5000mah-nhan-dien-khuon-mat-co-khau-trang.3482476/",
-          "publishedOn": "2022-03-03T00:39:53.000Z",
-          "wordCount": 1869,
-          "title": "Trên tay Nokia G21: Mặt lưng nhám, pin 5000mAh, nhận diện khuôn mặt có khẩu trang",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5885728_cover_Nokia_G21_mwc22.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3479187/",
-          "author": "Mikeknowsme",
-          "description": "Thời gian gần đây các hãng smartphone ít kèm theo sạc bên trong hộp máy nữa, chính vì thế người dùng chúng ta thường có nhu cầu tìm kiếm các sản phẩm sạc nhanh. Qua đó mình đã tìm được một cục sạc...",
-          "link": "https://tinhte.vn/thread/tren-tay-sac-nhanh-innostyle-minicube-33w-gan-ii-ho-tro-pd-va-pps-kich-thuoc-rat-nho.3479187/",
-          "publishedOn": "2022-03-03T00:39:47.000Z",
-          "wordCount": 2041,
-          "title": "Trên tay sạc nhanh Innostyle MiniCube 33W GAN II: hỗ trợ PD và PPS, kích thước rất nhỏ",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/02/5878448_cover_trentay_innostyle_minicube_33w_tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3483018/",
-          "author": "Mikeknowsme",
-          "description": "Apple chính thức có sự kiện Mùa Xuân vào ngày 8 Tháng 3 sắp tới lúc 10h sáng PST tức 0h ngày 9 Tháng 3 theo giờ Việt Nam.\n \nĐây là sự kiện online mà Apple có thể sẽ ra mắt iPad Air mới, iPhone SE...",
-          "link": "https://tinhte.vn/thread/apple-to-chuc-su-kien-vao-ngay-8-thang-3-toi.3483018/",
-          "publishedOn": "2022-03-03T00:38:52.000Z",
-          "wordCount": 675,
-          "title": "Apple tổ chức sự kiện vào ngày 8 Tháng 3 tới",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886976_cover_apple_event.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482556/",
-          "author": "ndminhduc",
-          "description": "Phiên bản kiểu dáng 360 độ của Galaxy Book2 Pro vẫn đem lại một thiết kế mỏng & nhẹ với khối lượng khoảng 1,41 kg cho kích thước màn hình 15,6\". Máy cũng trang bị phần cứng mới nhất từ Intel với...",
-          "link": "https://tinhte.vn/thread/tren-tay-galaxy-book2-pro-360-man-hinh-15-6-intel-core-gen-12-but-s-pen-mong-nhe.3482556/",
-          "publishedOn": "2022-03-03T00:36:58.000Z",
-          "wordCount": 2266,
-          "title": "Trên tay Galaxy Book2 Pro 360: màn hình 15,6\"; Intel Core gen 12, bút S Pen, mỏng & nhẹ",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886817_cover_Samsung_Galaxy_Book2_Pro_360.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482775/",
+          "id": "https://tinhte.vn/thread/3483184/",
           "author": "_vphlinh_",
-          "description": "Tesla cho biết, hệ thống trạm sạc xe điện Superchargers của hãng đặt tại khu vực gần biên giới Ukraine sẽ cung cấp dịch vụ sạc xe điện miễn phí để hỗ trợ dòng người di dân khỏi nước này trong bối...",
-          "link": "https://tinhte.vn/thread/tesla-cung-cap-dich-vu-sac-xe-dien-mien-phi-tai-cac-tram-sac-o-khu-vuc-gan-bien-gioi-ukraine.3482775/",
-          "publishedOn": "2022-03-03T00:34:14.000Z",
-          "wordCount": 1332,
-          "title": "Tesla cung cấp dịch vụ sạc xe điện miễn phí tại các trạm sạc ở khu vực gần biên giới Ukraine",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886238_cover_tesla.jpg"
+          "description": "Video thực hiện drop test trên series Galaxy S22 do kênh YouTube Allstate Protection Plans cho thấy, có vẻ như dòng smartphone mới này của Samsung dễ bể và dễ bị hư hại hơn so với các mẫu...",
+          "link": "https://tinhte.vn/thread/drop-test-dong-galaxy-s22-de-roi-vo-va-de-hu-hong-hon-dong-iphone-13.3483184/",
+          "publishedOn": "2022-03-04T00:45:10.000Z",
+          "wordCount": 2812,
+          "title": "Drop test: Dòng Galaxy S22 dễ rơi vỡ và dễ hư hỏng hơn dòng iPhone 13",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887444_cover_droptests22.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3481910/",
-          "author": "qsangp",
-          "description": "[MEDIA]\nNJ68 Max là chiếc phím cơ 65% đến từ thương hiệu keydous rất nổi tiếng trong cộng đồng chơi phím, một người bạn nhờ mình mod (modify = thay đổi) lại để chiếc phím gõ ngon hơn.\n \nTổng quan...",
-          "link": "https://tinhte.vn/thread/minh-da-custom-lai-nj68-max-chiec-phim-co-65-rat-dang-trai-nghiem.3481910/",
-          "publishedOn": "2022-03-03T00:32:41.000Z",
-          "wordCount": 3156,
-          "title": "Mình đã custom lại NJ68 Max: chiếc phím cơ 65% rất đáng trải nghiệm",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/02/5883606_2048_DSC07336.jpg"
+          "id": "https://tinhte.vn/thread/3482559/",
+          "author": "ndminhduc",
+          "description": "Galaxy Book2 phiên bản tiêu chuẩn được Samsung phát hành với kích thước 15,6\" cùng nền tảng vi xử lý Intel Core Gen 12. Những trang bị cho chiếc máy này sẽ hướng đến người dùng cần một thiết bị...",
+          "link": "https://tinhte.vn/thread/mwc22-tren-tay-galaxy-book2-15-6-trong-luong-nhe-da-dang-cau-hinh-voi-intel-core-gen-12.3482559/",
+          "publishedOn": "2022-03-04T00:44:32.000Z",
+          "wordCount": 1414,
+          "title": "MWC22: Trên tay Galaxy Book2 15,6\": trọng lượng nhẹ, đa dạng cấu hình với Intel Core Gen 12",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888111_cover_Samsung_Galaxy_Book2_tinhte.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3482789/",
+          "id": "https://tinhte.vn/thread/3483457/",
+          "author": "vn_ninja",
+          "description": "Microsoft mới đây đã tung ra bản Windows 11 Build 22567 cho người dùng Insider kênh Dev Channel với một vài tính năng mới có thể sẽ xuất hiện trong bản cập nhật lớn của năm nay.\n \nWindows Update...",
+          "link": "https://tinhte.vn/thread/windows-11-build-22567-moi-hop-thoai-open-with-moi-pair-dien-thoai-android-o-man-hinh-thiet-lap.3483457/",
+          "publishedOn": "2022-03-04T00:42:59.000Z",
+          "wordCount": 865,
+          "title": "Windows 11 Build 22567 mới: hộp thoại Open with mới, pair điện thoại Android ở màn hình thiết lập…",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888411_cover_Windows_11_22567_Open_With_tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482539/",
+          "author": "MinhTriND",
+          "description": "Rất nhanh sau khi được ra mắt tại thị trường Indonesia hồi tháng trước, Honda Vario 160 đã được một số đại lý tư nhân ở Sài Gòn nhập về. Honda cung cấp cho khách hàng mua Vario 160 2 tuỳ chọn là...",
+          "link": "https://tinhte.vn/thread/tren-tay-honda-vario-160-tai-viet-nam-chua-co-gia-ban.3482539/",
+          "publishedOn": "2022-03-04T00:40:37.000Z",
+          "wordCount": 2215,
+          "title": "Trên tay Honda Vario 160 tại Việt Nam, chưa có giá bán",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888031_Cover-tren-tay-vario-160-2022-tinhte_.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482989/",
+          "author": "lexcuong",
+          "description": "Về bản chất chúng ta nên định kỳ vệ sinh toàn bộ máy giặt để giúp máy giặt được hoạt động tốt hơn và được bền bỉ hơn. Nhưng đa phần mình nghĩ anh em sẽ không tự làm được mà toàn phải cần đến sự...",
+          "link": "https://tinhte.vn/thread/lam-sach-luoi-loc-cua-van-cap-nuoc-may-giat-dinh-ky-don-gian-tiet-kiem-chi-phi.3482989/",
+          "publishedOn": "2022-03-04T00:37:19.000Z",
+          "wordCount": 4108,
+          "title": "Làm sạch lưới lọc của van cấp nước máy giặt định kỳ: Đơn giản, tiết kiệm chi phí",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886928_Cover_Lam-Sach-Luoi-Loc-Cua-Van-Cap-Nuoc-May-Giat.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483020/",
+          "author": "Mikeknowsme",
+          "description": "Như vậy Apple cũng đã chính thức có sự kiện đầu năm 2022 này và trong sự kiện này mình rất mong đợi một số sản phẩm phần cứng mới từ hãng chẳng hạn như iPhone, iPad và Mac mới.\n \nMình chưa hiểu...",
+          "link": "https://tinhte.vn/thread/mong-doi-gi-o-su-kien-apple-8-thang-3-sap-toi.3483020/",
+          "publishedOn": "2022-03-04T00:36:39.000Z",
+          "wordCount": 1629,
+          "title": "Mong đợi gì ở sự kiện Apple 8 Tháng 3 sắp tới",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887214_cover_timcook_sukien_Apple.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482743/",
+          "author": "AudioPsycho",
+          "description": "Mời anh em đăng ký tham gia buồi offline chia sẻ và trải nghiệm loa đi động vào sáng thứ 7 này tại cafe Tinh tế. Anh em sẽ có cơ hội trải nghiệm các loa di động đang bán trên thị trường cũng như...",
+          "link": "https://tinhte.vn/thread/sang-thu-7-nay-offline-loa-di-dong-o-cafe-tinh-te.3482743/",
+          "publishedOn": "2022-03-04T00:27:48.000Z",
+          "wordCount": 984,
+          "title": "Sáng thứ 7 này, Offline loa di động ở Cafe Tinh tế",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888132_3600345_Camera_Tinh_Te_Camera_Tinh_Te_DSC_5179.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482809/",
+          "author": "P.W",
+          "description": "Thứ 6 tuần này anh em fan DC sẽ được tận mắt chứng kiến Robert Pattinson thủ vai Batman trong bộ phim cùng tên của đạo diễn Matt Reeves. Nhưng trước đó thì suốt từ ngày 23/2, phim đã được công...",
+          "link": "https://tinhte.vn/thread/tong-hop-danh-gia-the-batman-nguoi-thi-che-y-tuong-toi-ke-thi-khen-dinh-cao.3482809/",
+          "publishedOn": "2022-03-04T00:17:34.000Z",
+          "wordCount": 2767,
+          "title": "Tổng hợp đánh giá The Batman: Người thì chê \"ý tưởng tồi\", kẻ thì khen \"đỉnh cao\"",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887260_Cover_Batman.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3480910/",
+          "author": "AmbitiousMan",
+          "description": "Visionox ra mắt màn hình LTPO AMOLED có thể hạ tần số quét xuống 1Hz\n \nTheo ITHome, Visionox giới thiệu màn hình AMOLED đầu tiên của Trung Quốc có thể hạ tần số quét xuống 1Hz, dao động cho đến...",
+          "link": "https://tinhte.vn/thread/visionox-ra-mat-man-hinh-ltpo-amoled-co-the-ha-tan-so-quet-xuong-1hz.3480910/",
+          "publishedOn": "2022-03-04T00:14:50.000Z",
+          "wordCount": 1337,
+          "title": "Visionox ra mắt màn hình LTPO AMOLED có thể hạ tần số quét xuống 1Hz",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/02/5879721_Visionox_LTPO_OLED_1Hz.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483226/",
+          "author": "Chang ♡",
+          "description": "Jack Sweeney - một thiếu niên Florida từng theo dõi trực tuyến máy bay riêng của Elon Musk đã chuyển mục tiêu mới sang các nhà tài phiệt và tỷ phú người Nga. Chàng trai 19 tuổi này đã từ chối lời...",
+          "link": "https://tinhte.vn/thread/thieu-nien-tung-theo-doi-may-bay-phan-luc-cua-elon-musk-hien-dang-theo-doi-cac-nha-tai-phiet-nga.3483226/",
+          "publishedOn": "2022-03-04T00:06:03.000Z",
+          "wordCount": 1772,
+          "title": "Thiếu niên từng theo dõi máy bay phản lực của Elon Musk hiện đang theo dõi các nhà tài phiệt Nga",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887540_theo-doi-may-bay-ty-phu-elon-musk-sinh-vien-19-tuoi-co-ngay-viec-lam-4-010710.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483280/",
+          "author": "ndminhduc",
+          "description": "Huawei MatePad Paper là một chiếc tablet khá độc đáo mà Huawei giới thiệu tại MWC 2022, bao gồm một cover bằng da bọc ngoài máy, với thiết kế ngàm đóng mở cover kiêm luôn vị trí giữ bút cảm ứng...",
+          "link": "https://tinhte.vn/thread/mwc22-tren-tay-huawei-matepad-paper.3483280/",
+          "publishedOn": "2022-03-03T23:59:29.000Z",
+          "wordCount": 1667,
+          "title": "#MWC22: Trên tay Huawei Matepad Paper",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888191_cover_matepadpaper.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483181/",
+          "author": "lequockhanh1987",
+          "description": "Suzuki không chỉ là hãng sản xuất duy nhất đối mặt với câu hỏi liệu họ đã làm hết sức chưa để làm cho chiếc xe của mình có thể chiến đấu sòng phẳng với các hãng khác. Yamaha cũng phải đối mặt với...",
+          "link": "https://tinhte.vn/thread/motogp-2022-yamaha-love-is-blue-tinh-yeu-la-noi-buon.3483181/",
+          "publishedOn": "2022-03-03T23:26:47.000Z",
+          "wordCount": 1265,
+          "title": "[MotoGP 2022] Yamaha: Love is Blue (Tình yêu là nỗi buồn)",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887327_cover_motogp2022yamaha.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482553/",
+          "author": "ndminhduc",
+          "description": "Khi nhắc đến một trong những dòng điện thoại bền nhất để sở hữu, chúng ta sẽ có những chiếc điện thoại của CAT - một hãng điện thoại lâu đời, chuyên sản xuất những mẫu điện thoại đạt chuẩn quân...",
+          "link": "https://tinhte.vn/thread/mwc22-tren-tay-cat-s62-pro-smartphone-sieu-ben-dat-chuan-quan-doi-tich-hop-cam-bien-do-nhiet.3482553/",
+          "publishedOn": "2022-03-03T22:57:59.000Z",
+          "wordCount": 1468,
+          "title": "#MWC22: Trên tay CAT S62 Pro - Smartphone siêu bền đạt chuẩn quân đội, tích hợp cảm biến đo nhiệt",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888082_cover_cat.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3482554/",
+          "author": "ndminhduc",
+          "description": "POCO ra mắt hai dòng máy mới trưng bày tại MWC 2022. Đáng chú ý là phiên bản X4 Pro 5G với mặt lưng mang thiết kế độc đáo cùng một số trang bị đáng chú ý như màn hình AMOLED, loa kép, sạc nhanh...",
+          "link": "https://tinhte.vn/thread/tren-tay-poco-x4-pro-5g-mat-lung-noi-bat-voi-cum-camera-an-tuong-sac-67w.3482554/",
+          "publishedOn": "2022-03-03T22:25:10.000Z",
+          "wordCount": 1152,
+          "title": "Trên tay POCO X4 Pro 5G: mặt lưng nổi bật với cụm camera ấn tượng, sạc 67W",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887765_cover_POCO_X4_Pro_5G.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483031/",
+          "author": "Lê Huyền Vân",
+          "description": "Mình vốn rất thích những chiếc điện thoại thuộc dòng Nova của Huawei, nó luôn mang đến sự nổi bật, trẻ trung và thời trang cùng sự sáng tạo và hoàn thiện thiết kế. Huawei Nova 9 có thiết kế bắt...",
+          "link": "https://tinhte.vn/thread/tren-tay-huawei-nova-9-body-mong-va-nhe-ve-ngoai-thu-hut-voi-mat-lung-gradient.3483031/",
+          "publishedOn": "2022-03-03T22:19:15.000Z",
+          "wordCount": 1069,
+          "title": "Trên tay Huawei Nova 9: Body mỏng và nhẹ, vẻ ngoài thu hút với mặt lưng gradient",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887792_cover_huawei_nova_9_mwc22.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483218/",
+          "author": "Lê Phú Khương",
+          "description": "Peak Design (PD) chắc nhiều anh em không còn xa lạ nữa, và cọng dây mình trên tay trong bài viết này là một trong những sản phẩm mình rất thích trong hệ sinh thái phụ kiện của hãng này. Dây đeo cổ...",
+          "link": "https://tinhte.vn/thread/tren-tay-day-may-anh-peak-design-slide-lite-dep-cong-nang-tot-gia-1-4-trieu-dong.3483218/",
+          "publishedOn": "2022-03-03T18:10:06.000Z",
+          "wordCount": 2223,
+          "title": "Trên tay dây máy ảnh Peak Design Slide Lite: Đẹp, công năng tốt, giá 1.4 triệu đồng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887514_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483049/",
+          "author": "Lê Huyền Vân",
+          "description": "Thay vì dạng tay cầm rời rời điện thoại, thì chiếc máy chơi game cầm tay này là một thiết bị all in one với màn hình cảm ứng và tay cầm điều khiển. Tên đầy đủ của máy là Snapdragon G3x Handheld...",
+          "link": "https://tinhte.vn/thread/tren-tay-chiec-may-choi-game-razer-chua-ban-ra.3483049/",
+          "publishedOn": "2022-03-03T18:06:59.000Z",
+          "wordCount": 1299,
+          "title": "Trên tay chiếc máy chơi game Razer chưa bán ra",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887586_cover_may_choi_game_razer_mwc22.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483136/",
+          "author": "Didu",
+          "description": "Một người dùng YouTube đã thành công trong việc độ lại chiếc Mac mini dùng chip M1 với kích thước nhỏ hơn rất nhiều, mà không gây ảnh hưởng tới hiệu năng. Người anh em này cũng post cách thực hiện...",
+          "link": "https://tinhte.vn/thread/mot-nguoi-dung-da-do-lai-mac-mini-nho-hon-co-magsafe.3483136/",
+          "publishedOn": "2022-03-03T17:39:26.000Z",
+          "wordCount": 1537,
+          "title": "Một người dùng đã độ lại Mac mini nhỏ hơn, có MagSafe",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887262_mac-mini-quinn-nelson.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3483255/",
           "author": "Minh Dự.",
           "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
-          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-02-03.3482789/",
-          "publishedOn": "2022-03-03T00:31:39.000Z",
-          "wordCount": 1576,
-          "title": "Tổng hợp deal khuyến mãi 02/03",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886342_Cover_Tong_Hop_Khuyen_Mai.jpg"
+          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-03-03.3483255/",
+          "publishedOn": "2022-03-03T12:57:09.000Z",
+          "wordCount": 1033,
+          "title": "Tổng hợp deal khuyến mãi 03/03",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5887679_Cover_Tong_Hop_Khuyen_Mai.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3482351/",
-          "author": "thanhtung6868",
-          "description": "Ford Everest hoàn toàn mới đã chính thức ra mắt toàn cầu, thế hệ mới này tiếp tục nâng cao trang bị tiện nghi và hướng đến sự cao cấp trong khoang nội thất. Ngoại hình Everest mới theo ngôn ngữ...",
-          "link": "https://tinhte.vn/thread/ford-everest-2022-chinh-thuc-ra-mat-tiep-tuc-la-chiec-suv-hien-dai-nhieu-tien-nghi.3482351/",
-          "publishedOn": "2022-03-03T00:30:57.000Z",
-          "wordCount": 3138,
-          "title": "Ford Everest 2022 chính thức ra mắt, tiếp tục là chiếc SUV hiện đại nhiều tiện nghi",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5884621_cover_ford_everest_2022_chinh_thuc_ra_mat_xe_tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482744/",
-          "author": "Rubi Lee",
-          "description": "13 ngày sau khi bốc cháy ngoài Đại Tây Dương, người quản lý con tàu và hải quân Bồ Đào Nha đã xác nhận con tàu chở hàng nghìn chiếc ô tô sang trọng từ Đức đến Mỹ đã bị chìm vào hôm thứ 3. Trong...",
-          "link": "https://tinhte.vn/thread/tau-cho-4-000-sieu-xe-porsche-audi-boc-chay-ngoai-dai-tay-duong-da-bi-chim.3482744/",
-          "publishedOn": "2022-03-03T00:27:49.000Z",
-          "wordCount": 1986,
-          "title": "Tàu chở 4.000 siêu xe Porsche, Audi,... bốc cháy ngoài Đại Tây Dương đã bị chìm",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886162_felicity-ace-cover.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482862/",
-          "author": "bk9sw",
-          "description": "ClearVPN - dịch vụ VPN của MacPaw - hãng nổi tiếng với phần mềm CleanMyMac, đang tặng cho người dùng 1 năm miễn phí. Dưới đây là các bước để anh em nhận khuyến mãi này và mình cũng đã dùng thử:...",
-          "link": "https://tinhte.vn/thread/clearvpn-dang-tang-mien-phi-1-nam-dich-vu-anh-em-vao-nhan-ngay.3482862/",
-          "publishedOn": "2022-03-03T00:27:22.000Z",
-          "wordCount": 1963,
-          "title": "ClearVPN đang tặng miễn phí 1 năm dịch vụ, anh em vào nhận ngay",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886545_cover_clearVPN.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482707/",
-          "author": "Rubi Lee",
-          "description": "Nhằm để phục vụ cho việc khảo sát vùng nước dưới lớp băng dày ở Nam Cực, các nhà nghiên cứu Nhật Bản đã dùng đến 8 con hải cẩu với các thiết bị giám sát nặng 580g trên đầu. Được khai thác cho một...",
-          "link": "https://tinhte.vn/thread/nhat-ban-dung-hai-cau-de-thu-thap-du-lieu-o-nam-cuc.3482707/",
-          "publishedOn": "2022-03-03T00:26:22.000Z",
-          "wordCount": 765,
-          "title": "Nhật Bản dùng hải cẩu để thu thập dữ liệu ở Nam Cực",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886033_hai-cau-cover.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482739/",
-          "author": "thanhtung6868",
-          "description": "Trong khuôn khổ sự kiện Triển lãm Di động Toàn cầu 2022 (MWC 2022), VinFast và Pininfarina đã công bố chi tiết ngoại thất và nội thất hai mẫu xe điện thông minh VF 8 và VF 9. Đây là 2 mẫu xe được...",
-          "link": "https://tinhte.vn/thread/mwc22-vinfast-va-pininfarina-cong-bo-chi-tiet-thiet-ke-xe-dien-vf-8-va-vf-9.3482739/",
-          "publishedOn": "2022-03-03T00:23:25.000Z",
-          "wordCount": 2232,
-          "title": "#MWC22: VinFast và Pininfarina công bố chi tiết thiết kế xe điện VF 8 và VF 9",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886158_cover_mwc22_vinfast_va_Pininfarina_cong_bo_chi_tiet_thiet_ke_xe_dien_vf8_va_vf9_tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482324/",
-          "author": "P.W",
-          "description": "[IMG]\n \nHẳn phải có nguyên do, series game bán chạy nhất trong lịch sử hệ sinh thái máy game PlayStation chính là tác phẩm đua xe của người Nhật Bản, Gran Turismo. Tính đến năm ngoái, Gran Turismo...",
-          "link": "https://tinhte.vn/thread/danh-gia-gran-turismo-7-ngan-thu-ao-tim.3482324/",
-          "publishedOn": "2022-03-03T00:08:48.000Z",
-          "wordCount": 4944,
-          "title": "Đánh giá Gran Turismo 7: Ngàn Thu Áo Tím",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5884545_Cover_GT7.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482851/",
-          "author": "_vphlinh_",
-          "description": "Tại MWC 2022, Lenovo đã giới thiệu chiếc tablet mới nhất của hãng, Tab M10 Plus (Gen 3), với sự khác nhau giữa các phiên bản hỗ trợ kết nối Wi-Fi và LTE. Theo đó, phiên bản hỗ trợ kết nối Wi-Fi...",
-          "link": "https://tinhte.vn/thread/mwc22-lenovo-ra-mat-tab-m10-plus-gen-3-gia-ban-khoang-hon-4-3-trieu-dong.3482851/",
-          "publishedOn": "2022-03-02T23:32:49.000Z",
-          "wordCount": 1012,
-          "title": "#MWC22: Lenovo ra mắt Tab M10 Plus Gen 3, giá bán khoảng hơn 4,3 triệu đồng",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886500_cover_tab10.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482770/",
-          "author": "Hassler",
-          "description": "Hôm nay mình tiếp tục chia sẻ đến cho anh em quyển Sổ tay hướng dẫn phục hồi sau covid đối với những người đã khỏi bệnh nhưng có các triệu chứng hoặc nguy cơ của covid kéo dài. Cả quyển sổ tay này...",
-          "link": "https://tinhte.vn/thread/chia-se-so-tay-ho-tro-phuc-hoi-sau-covid-p-1-dinh-nghia-hau-covid-kho-tho.3482770/",
-          "publishedOn": "2022-03-02T22:31:30.000Z",
-          "wordCount": 846,
-          "title": "Chia sẻ Sổ tay hỗ trợ phục hồi sau covid P.1 (Định nghĩa hậu covid, Khó thở)",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886187_cover_So_tay_phuc_hoi_sau_covid.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482794/",
-          "author": "P.W",
-          "description": "Bên cạnh việc rò rỉ những dữ liệu liên quan tới mã nguồn của công nghệ nâng cấp hình ảnh và đồ họa game bằng nhân deep learning, một trong những công nghệ đồ họa game quan trọng nhất của Nvidia...",
-          "link": "https://tinhte.vn/thread/tiep-vu-nvidia-bi-hack-ro-ri-ca-cau-hinh-may-nintendo-switch-2-ho-tro-ray-tracing-va-dlss.3482794/",
-          "publishedOn": "2022-03-02T16:26:28.000Z",
+          "id": "https://tinhte.vn/thread/3482798/",
+          "author": "Chill With Dan",
+          "description": "Sau đây là những tổng hợp những sản phẩm nổi bật tại MWC 2022 ngày thứ 2.\n \n[MEDIA]\nPoco X4 Pro 5G\n \n[ATTACH]\nMặt lưng tạo các hiệu ứng tia lạ mắt, cụm camera sau lớn, 108MP. Cạnh viền vuông vức...",
+          "link": "https://tinhte.vn/thread/tong-hop-cac-san-pham-noi-bat-tai-mwc-2022-ngay-2.3482798/",
+          "publishedOn": "2022-03-03T12:17:04.000Z",
           "wordCount": 1539,
-          "title": "Tiếp vụ Nvidia bị hack: Rò rỉ cả cấu hình máy Nintendo Switch 2, hỗ trợ ray tracing và DLSS",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5886322_Cover_Switch.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482479/",
-          "author": "Lê Huyền Vân",
-          "description": "Nokia G50 nổi bật với cụm camera hình tròn, mặt lưng sáng bóng và mà hình có kích thước lớn đến gần 7inch nhưng tổng thể vấn rất gọn gàng.\n \n[MEDIA]\nMời anh em xem video trên tay để biết chi tiết....",
-          "link": "https://tinhte.vn/thread/tren-tay-nokia-g50-man-hinh-6-82inch-camera-hinh-tron-chay-chip-snapdragon-va-pin-5000mah.3482479/",
-          "publishedOn": "2022-03-02T15:10:38.000Z",
-          "wordCount": 1827,
-          "title": "Trên tay Nokia G50: Màn hình 6.82inch, camera hình tròn, chạy chip Snapdragon và pin 5000mAh",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5885732_cover_nokia_G50_mwc22.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3482558/",
-          "author": "Lê Huyền Vân",
-          "description": "Khu vực triển lãm của Samsung chiếm diện tích tương đối lớn và được đặt ở giữ Hall 3. Khác với nhiều hãng, Samsung không chọn cách bày tất cả các sản phẩm ra bên ngoài mà hãng làm một không gian...",
-          "link": "https://tinhte.vn/thread/mot-vong-quanh-khu-vuc-samsung-tai-mwc22-chon-mat-lung-cho-galaxy-z-flip3-xem-galaxy-book-pro-360.3482558/",
-          "publishedOn": "2022-03-02T13:27:59.000Z",
-          "wordCount": 1221,
-          "title": "Một vòng quanh khu vực Samsung tại MWC22: Chọn mặt lưng cho Galaxy Z Flip3; Xem Galaxy Book Pro 360",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5885771_cover_samsung_mwc22.jpg"
+          "title": "Tổng hợp các sản phẩm nổi bật tại MWC 2022 (ngày 2)",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/03/5888072_cover2.jpg"
         }
       ]
     },
@@ -519,6 +519,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363972",
+          "author": "Patrick Brosset",
+          "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element/",
+          "publishedOn": "2022-03-03T15:35:32.000Z",
+          "wordCount": 2472,
+          "title": "Say Hello to selectmenu, a Fully Style-able select Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364001",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
+          "publishedOn": "2022-03-03T15:33:57.000Z",
+          "wordCount": 884,
+          "title": "Build Membership Businesses with Memberful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
+        },
         {
           "id": "https://css-tricks.com/?p=364350",
           "author": "Chris Coyier",
@@ -535,7 +555,7 @@
           "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
           "publishedOn": "2022-03-02T15:57:32.000Z",
-          "wordCount": 1206,
+          "wordCount": 1301,
           "title": "How to Make a “Raise the Curtains” Effect in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
         },
@@ -545,7 +565,7 @@
           "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
           "publishedOn": "2022-03-01T17:41:13.000Z",
-          "wordCount": 2489,
+          "wordCount": 2574,
           "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
         },
@@ -648,26 +668,6 @@
           "wordCount": 815,
           "title": "CSS Database Queries? Sure We Can!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363532",
-          "author": "Daniel Yuschick",
-          "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
-          "publishedOn": "2022-02-23T15:15:33.000Z",
-          "wordCount": 1808,
-          "title": "5 Accessibility Quick Wins You Can Implement Today",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363998",
-          "author": "Chris Coyier",
-          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
-          "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 588,
-          "title": "Before I go: When it comes to complaining about web browsers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
         }
       ]
     },
@@ -677,12 +677,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
+          "author": "hello@smashingmagazine.com (Stephanie Stimac)",
+          "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
+          "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
+          "publishedOn": "2022-03-03T10:30:00.000Z",
+          "wordCount": 3800,
+          "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
           "description": "What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.",
           "link": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "publishedOn": "2022-03-02T13:30:00.000Z",
-          "wordCount": 5309,
+          "wordCount": 5299,
           "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg",
@@ -697,7 +712,7 @@
           "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
           "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
           "publishedOn": "2022-03-01T13:00:00.000Z",
-          "wordCount": 3514,
+          "wordCount": 3518,
           "title": "New CSS Features In 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
@@ -727,7 +742,7 @@
           "description": "Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.",
           "link": "https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/",
           "publishedOn": "2022-02-28T09:30:00.000Z",
-          "wordCount": 2427,
+          "wordCount": 2420,
           "title": "March For Equality (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74ffb821-71d4-4625-8d1d-085de28b17ef/mar-22-spring-is-coming-preview-opt.png",
@@ -745,11 +760,11 @@
           "wordCount": 2648,
           "title": "A Recipe For A Good Design System",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8246a3cc-f74f-4d3a-93ff-8f8aa95fef1a/recipe-good-design-system.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8246a3cc-f74f-4d3a-93ff-8f8aa95fef1a/recipe-good-design-system.jpg"
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77873ca3-a5cc-4a2f-82d9-0443c334ecba/design-systems-dev-backlight.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
@@ -772,7 +787,7 @@
           "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
           "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3482,
+          "wordCount": 3486,
           "title": "Using The WordPress Editor And CPTs To Configure Plugins",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
@@ -817,7 +832,7 @@
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
           "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5931,
+          "wordCount": 5947,
           "title": "Testing Pipeline 101 For Frontend Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
@@ -832,7 +847,7 @@
           "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
           "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
           "publishedOn": "2022-02-18T10:30:00.000Z",
-          "wordCount": 6649,
+          "wordCount": 6657,
           "title": "Thoughts On Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
@@ -847,7 +862,7 @@
           "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
           "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3744,
+          "wordCount": 3734,
           "title": "Falling In Love With The Web: Inspiring Websites And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
@@ -862,7 +877,7 @@
           "description": "In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.",
           "link": "https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/",
           "publishedOn": "2022-02-15T10:00:00.000Z",
-          "wordCount": 3924,
+          "wordCount": 3943,
           "title": "Implications Of WordPress Joining The Block Protocol",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e6ffb6e-3386-4823-a9ef-b3cd63f1f398/implications-wordpress-joining-block-protocol.jpg",
@@ -877,7 +892,7 @@
           "description": "Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.",
           "link": "https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/",
           "publishedOn": "2022-02-14T13:30:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4408,
           "title": "Everything You Want To Know About Creating Voice User Interfaces",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1470bd2f-c151-4408-8f43-0a7d76a67249/voice-user-interfaces-guide.jpg",
@@ -892,7 +907,7 @@
           "description": "This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.",
           "link": "https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/",
           "publishedOn": "2022-02-11T12:00:00.000Z",
-          "wordCount": 1697,
+          "wordCount": 1714,
           "title": "Web Design Done Well: Perfectly Pointless",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg",
@@ -907,7 +922,7 @@
           "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
           "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
           "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3418,
+          "wordCount": 3417,
           "title": "Fitts’ Law In The Touch Era",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
@@ -922,7 +937,7 @@
           "description": "Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.",
           "link": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "publishedOn": "2022-02-08T10:00:00.000Z",
-          "wordCount": 5255,
+          "wordCount": 5262,
           "title": "Statoscope: A Course Of Intensive Therapy For Your Bundle",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8c91f031-fdf7-4b31-8a09-b7e0b0d01cc7/statoscope-course-intensive-therapy-bundle.jpg",
@@ -952,7 +967,7 @@
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
           "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3777,
+          "wordCount": 3779,
           "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
@@ -967,7 +982,7 @@
           "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
           "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
           "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2562,
+          "wordCount": 2563,
           "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
@@ -975,36 +990,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
-          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4504,
-          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.",
-          "link": "https://smashingmagazine.com/2022/02/touch-design-release/",
-          "publishedOn": "2022-02-01T13:00:00.000Z",
-          "wordCount": 2331,
-          "title": "Meet “Touch Design For Mobile Interfaces”, A New Smashing Book",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png"
         }
       ]
     },
@@ -1013,6 +998,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62208eb2c4d0d306772f3282",
+          "author": "Njoku Samson Ebere",
+          "description": "In this tutorial, we will be learning how to build and deploy an image management application backend.  It will be able to store a record of an image in the database, get the image's record back from the database, update the record, and even delete the record completely as",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-backend-application/",
+          "publishedOn": "2022-03-03T20:46:30.000Z",
+          "wordCount": 4482,
+          "title": "How to Build and Deploy a Backend App with Express, Postgres, Github, and Heroku",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-417273.jpg"
+        },
+        {
+          "id": "62210a36c4d0d306772f3898",
+          "author": "Beau Carnes",
+          "description": "Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. We just published a complete course on the freeCodeCamp.org YouTube channel that will teach you how to use Redux. Nikhil Thadani developed this course. Nikhil has created many technical courses on",
+          "link": "https://www.freecodecamp.org/news/redux-tutorial-for-beginners/",
+          "publishedOn": "2022-03-03T18:38:46.000Z",
+          "wordCount": 439,
+          "title": "Redux Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/redux.png"
+        },
+        {
+          "id": "6220c90cc4d0d306772f359a",
+          "author": "Kolade Chris",
+          "description": "In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in",
+          "link": "https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/",
+          "publishedOn": "2022-03-03T18:21:33.000Z",
+          "wordCount": 869,
+          "title": "Python List Length – How to Get the Size of a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/calendar-g2ed8847ef_1280.jpg"
+        },
+        {
+          "id": "62208d02c4d0d306772f324e",
+          "author": "Zaira Hira",
+          "description": "When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'.  With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors, in this article.",
+          "link": "https://www.freecodecamp.org/news/pip-command-not-found-mac-and-linux-error-solved/",
+          "publishedOn": "2022-03-03T18:14:36.000Z",
+          "wordCount": 756,
+          "title": "pip Command Not Found – Mac and Linux Error Solved",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pip.png"
+        },
+        {
+          "id": "621fce2dc4d0d306772f2fbf",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you want to run any Java program on your Windows PC, you won't be able to do it without installing the Java Development Kit (JDK for short).  The JDK also contains the Java Runtime Environment (or JRE) which is the core of a Java program.  If you",
+          "link": "https://www.freecodecamp.org/news/how-to-install-java-on-windows/",
+          "publishedOn": "2022-03-03T18:07:41.000Z",
+          "wordCount": 1133,
+          "title": "How to Install Java on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fCC-Cover-Image.jpg"
+        },
+        {
+          "id": "6220562bc4d0d306772f31f5",
+          "author": "Ashutosh Krishna",
+          "description": "Sometimes you'll need to know the location of an IP address, whether it's your own or that of a site you're using.  One use-case for this is when you want to send login information to users for your website.  In this article, we're going to see how you",
+          "link": "https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/",
+          "publishedOn": "2022-03-03T17:55:34.000Z",
+          "wordCount": 832,
+          "title": "How to Get Location Information of an IP Address Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/location-ip.png"
+        },
+        {
+          "id": "62168995c4d0d306772ef0d1",
+          "author": "Shaun Hamilton",
+          "description": "You can now solve the classic Project Euler programming problems using the Rust language. Each of these problems comes with a user-friendly test suite. Here's the full Project Euler Rust GitHub repository [https://github.com/freeCodeCamp/euler-rust]. If you do not know Rust, and want to learn it, you can start with  freeCodeCamp's",
+          "link": "https://www.freecodecamp.org/news/project-euler-problems-in-rust/",
+          "publishedOn": "2022-03-03T17:09:14.000Z",
+          "wordCount": 958,
+          "title": "How to Solve Project Euler Problems in Rust",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/euler-rust-local-ext-9-1.png"
+        },
         {
           "id": "621e55eac4d0d306772f23d6",
           "author": "Dionysia Lemonaki",
@@ -1042,76 +1097,6 @@
           "wordCount": 483,
           "title": "How to Create an eCommerce Website Using WooCommerce",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/woocomerce.png"
-        },
-        {
-          "id": "621f860dc4d0d306772f2cf9",
-          "author": "Beau Carnes",
-          "description": "GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn",
-          "link": "https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/",
-          "publishedOn": "2022-03-02T15:05:24.000Z",
-          "wordCount": 513,
-          "title": "DevOps with GitLab CI Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/qomm1soQ.png"
-        },
-        {
-          "id": "621e97a4c4d0d306772f290b",
-          "author": "Daniel Rosa",
-          "description": "In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up",
-          "link": "https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/",
-          "publishedOn": "2022-03-02T00:18:51.000Z",
-          "wordCount": 1507,
-          "title": "How to Install Node.js and npm on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-digital-buggu-171198--1-.jpg"
-        },
-        {
-          "id": "621903c6c4d0d306772efc76",
-          "author": "Paul Akinyemi",
-          "description": "In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build",
-          "link": "https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/",
-          "publishedOn": "2022-03-01T23:35:30.000Z",
-          "wordCount": 2772,
-          "title": "How to Build a Wordle Clone in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-skitterphoto-695571.jpg"
-        },
-        {
-          "id": "621d6316c4d0d306772f1f16",
-          "author": "David Clinton",
-          "description": "The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with",
-          "link": "https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/",
-          "publishedOn": "2022-03-01T21:06:01.000Z",
-          "wordCount": 2251,
-          "title": "IoT Deployment – How to Secure and Deploy Internet of Things Devices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-designecologist-1779487.jpg"
-        },
-        {
-          "id": "621dfc8cc4d0d306772f220f",
-          "author": "Kolade Chris",
-          "description": "The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way",
-          "link": "https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/",
-          "publishedOn": "2022-03-01T20:46:50.000Z",
-          "wordCount": 887,
-          "title": "npm Uninstall – How to Remove a Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shut-down-g5ad24366d_1280.jpg"
-        },
-        {
-          "id": "621e4f3ec4d0d306772f239d",
-          "author": "Reed Barger",
-          "description": "If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to",
-          "link": "https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/",
-          "publishedOn": "2022-03-01T20:41:00.000Z",
-          "wordCount": 1887,
-          "title": "The React useEffect Hook for Absolute Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-useeffect-absolute-beginners.png"
-        },
-        {
-          "id": "621c8bcfc4d0d306772f1263",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to",
-          "link": "https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/",
-          "publishedOn": "2022-03-01T20:30:51.000Z",
-          "wordCount": 1447,
-          "title": "Python .pop() – How to Pop from a List or an Array in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-olia-danilevich-4974912.jpg"
         }
       ]
     }
