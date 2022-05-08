@@ -1,85 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T00:49:39.603Z</id>
+    <id>urn:2022-05-08T00:51:25.514Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T00:49:39.603Z</updated>
+    <updated>2022-05-08T00:51:25.514Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Heroku: We’ve Heard Your Feedback]]></title>
-        <id>https://blog.heroku.com/we-heard-your-feedback</id>
-        <link href="https://blog.heroku.com/we-heard-your-feedback"/>
-        <updated>2022-05-07T00:29:50.000Z</updated>
+        <title type="html"><![CDATA[New Assembly Like Programming Language?]]></title>
+        <id>https://github.com/wellang/well</id>
+        <link href="https://github.com/wellang/well"/>
+        <updated>2022-05-08T00:03:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roboto but Make It Flex]]></title>
-        <id>https://material.io/blog/roboto-flex</id>
-        <link href="https://material.io/blog/roboto-flex"/>
-        <updated>2022-05-07T00:03:26.000Z</updated>
+        <title type="html"><![CDATA[Web Development for Beginners – A Curriculum]]></title>
+        <id>https://github.com/microsoft/Web-Dev-For-Beginners</id>
+        <link href="https://github.com/microsoft/Web-Dev-For-Beginners"/>
+        <updated>2022-05-07T23:40:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MenuetOS]]></title>
-        <id>http://www.menuetos.net/index.htm</id>
-        <link href="http://www.menuetos.net/index.htm"/>
-        <updated>2022-05-06T23:54:08.000Z</updated>
+        <title type="html"><![CDATA[Sorry iPhone Fans, Android Users Are Safer Drivers]]></title>
+        <id>https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers</id>
+        <link href="https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers"/>
+        <updated>2022-05-07T23:38:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The diminishing returns of productivity culture]]></title>
-        <id>https://annehelen.substack.com/p/the-diminishing-returns-of-productivity</id>
-        <link href="https://annehelen.substack.com/p/the-diminishing-returns-of-productivity"/>
-        <updated>2022-05-06T22:59:14.000Z</updated>
+        <title type="html"><![CDATA[California Targets Loud Exhaust with Sound Activated Cameras]]></title>
+        <id>https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/</id>
+        <link href="https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/"/>
+        <updated>2022-05-07T23:28:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skiing Mt. Everest]]></title>
-        <id>https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/</id>
-        <link href="https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/"/>
-        <updated>2022-05-06T22:11:50.000Z</updated>
+        <title type="html"><![CDATA[Robots Are Writing Poetry, and Many People Can’t Tell the Difference]]></title>
+        <id>https://thewalrus.ca/ai-poetry/</id>
+        <link href="https://thewalrus.ca/ai-poetry/"/>
+        <updated>2022-05-07T21:47:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’ve spent my Easter break customizing Neovim]]></title>
-        <id>https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/</id>
-        <link href="https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/"/>
-        <updated>2022-05-06T21:55:15.000Z</updated>
+        <title type="html"><![CDATA[AtoB (YC S20) is hiring to build Stripe for Transportation]]></title>
+        <id>https://careers.atob.com</id>
+        <link href="https://careers.atob.com"/>
+        <updated>2022-05-07T21:01:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An approximation to determine the source of the WOW! Signal]]></title>
-        <id>https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A</id>
-        <link href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A"/>
-        <updated>2022-05-06T21:38:30.000Z</updated>
+        <title type="html"><![CDATA[Unauthorized gem takeover for some gems]]></title>
+        <id>https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79</id>
+        <link href="https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79"/>
+        <updated>2022-05-07T20:48:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meticulous is building the future of testing, join us]]></title>
-        <id>https://news.ycombinator.com/item?id=31289574</id>
-        <link href="https://news.ycombinator.com/item?id=31289574"/>
-        <updated>2022-05-06T21:00:57.000Z</updated>
+        <title type="html"><![CDATA[Apple's Director of Machine Learning Resigns Due to Return to Office Work]]></title>
+        <id>https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/</id>
+        <link href="https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"/>
+        <updated>2022-05-07T20:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some CUDA programming fun with Julia]]></title>
+        <id>https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html</id>
+        <link href="https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html"/>
+        <updated>2022-05-07T20:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go]]></title>
+        <id>https://github.com/pojntfx/weron</id>
+        <link href="https://github.com/pojntfx/weron"/>
+        <updated>2022-05-07T19:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xilem: An Architecture for UI in Rust]]></title>
+        <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
+        <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
+        <updated>2022-05-07T19:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deletionpedia: Rescuing articles from Wikipedia's deletionism]]></title>
+        <id>https://deletionpedia.org/en/Main_Page</id>
+        <link href="https://deletionpedia.org/en/Main_Page"/>
+        <updated>2022-05-07T18:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Perceptual Helmets]]></title>
+        <id>http://www.connolly-cleary.com/Home/helmets.html</id>
+        <link href="http://www.connolly-cleary.com/Home/helmets.html"/>
+        <updated>2022-05-07T17:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a browser-based RTS game]]></title>
+        <id>https://www.battle-of-flags.com</id>
+        <link href="https://www.battle-of-flags.com"/>
+        <updated>2022-05-07T16:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okular – Universal document viewer]]></title>
+        <id>https://okular.kde.org/</id>
+        <link href="https://okular.kde.org/"/>
+        <updated>2022-05-07T14:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore Government Tech Stack]]></title>
+        <id>https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html</id>
+        <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
+        <updated>2022-05-07T13:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your phone may soon replace many of your passwords]]></title>
+        <id>https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/</id>
+        <link href="https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/"/>
+        <updated>2022-05-07T13:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made Ankify that converts notes to Anki cards]]></title>
+        <id>https://ankify.krxiang.com/</id>
+        <link href="https://ankify.krxiang.com/"/>
+        <updated>2022-05-07T13:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a virtual bookshelf]]></title>
+        <id>https://petargyurov.com/bookshelf/</id>
+        <link href="https://petargyurov.com/bookshelf/"/>
+        <updated>2022-05-07T11:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland TR-808 Cowbell Rebuild]]></title>
+        <id>http://www.frisnit.com/roland-tr-808-cowbell-rebuild/</id>
+        <link href="http://www.frisnit.com/roland-tr-808-cowbell-rebuild/"/>
+        <updated>2022-05-07T11:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Feed Best Practices]]></title>
+        <id>https://kevincox.ca/2022/05/06/rss-feed-best-practices/</id>
+        <link href="https://kevincox.ca/2022/05/06/rss-feed-best-practices/"/>
+        <updated>2022-05-07T10:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eve Online is getting Microsoft Excel support]]></title>
+        <id>https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel</id>
+        <link href="https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel"/>
+        <updated>2022-05-07T08:48:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -96,30 +236,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mercedes-Benz says Level 3 self-driving option ready to roll]]></title>
-        <id>https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/</id>
-        <link href="https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/"/>
-        <updated>2022-05-06T19:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The joys and sorrows of maintaining a personal website]]></title>
-        <id>https://cheapskatesguide.org/articles/joys-and-sorrows.html</id>
-        <link href="https://cheapskatesguide.org/articles/joys-and-sorrows.html"/>
-        <updated>2022-05-06T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The piranha problem in social psychology / behavioral economics (2017)]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/"/>
-        <updated>2022-05-06T17:20:13.000Z</updated>
+        <title type="html"><![CDATA[When is a ‘tank’ not a tank?]]></title>
+        <id>https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/</id>
+        <link href="https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/"/>
+        <updated>2022-05-06T18:54:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -136,70 +256,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recognize Digits Using ML in Elixir]]></title>
-        <id>https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/</id>
-        <link href="https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/"/>
-        <updated>2022-05-06T17:07:52.000Z</updated>
+        <title type="html"><![CDATA[Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability]]></title>
+        <id>https://arxiv.org/abs/1904.05234</id>
+        <link href="https://arxiv.org/abs/1904.05234"/>
+        <updated>2022-05-06T16:14:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying Database Performance for Developers]]></title>
-        <id>https://www.crunchydata.com/blog/demystifying-database-performance-for-developers</id>
-        <link href="https://www.crunchydata.com/blog/demystifying-database-performance-for-developers"/>
-        <updated>2022-05-06T17:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a Merkle Tree for an Immutable Verifiable Log]]></title>
-        <id>https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/</id>
-        <link href="https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/"/>
-        <updated>2022-05-06T16:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faecal transplants reverse hallmarks of ageing]]></title>
-        <id>https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing</id>
-        <link href="https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing"/>
-        <updated>2022-05-06T16:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half Baked]]></title>
-        <id>https://seths.blog/2022/05/half-baked/?via=thomas.me</id>
-        <link href="https://seths.blog/2022/05/half-baked/?via=thomas.me"/>
-        <updated>2022-05-06T16:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Kubernetes clusters in increasingly absurd languages]]></title>
-        <id>https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages</id>
-        <link href="https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages"/>
-        <updated>2022-05-06T15:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do you waste so much time on the internet?]]></title>
-        <id>https://zan.bearblog.dev/why-i-waste-time/</id>
-        <link href="https://zan.bearblog.dev/why-i-waste-time/"/>
-        <updated>2022-05-06T15:00:31.000Z</updated>
+        <title type="html"><![CDATA['Rater' is paid $10 hourly to teach Google's algorithm]]></title>
+        <id>https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html</id>
+        <link href="https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html"/>
+        <updated>2022-05-06T14:39:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -217,10 +287,30 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Efficiency is the enemy?]]></title>
-        <id>https://fs.blog/slack/</id>
-        <link href="https://fs.blog/slack/"/>
-        <updated>2022-05-06T14:10:50.000Z</updated>
+        <title type="html"><![CDATA[How many Linux commands can 7 year old learn?]]></title>
+        <id>https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/</id>
+        <link href="https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/"/>
+        <updated>2022-05-06T13:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seed-firing drones are planting 40k trees every day to fight deforestation]]></title>
+        <id>https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones</id>
+        <link href="https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones"/>
+        <updated>2022-05-06T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning modern Linux: A handbook for the cloud native practitioner]]></title>
+        <id>https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/</id>
+        <link href="https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/"/>
+        <updated>2022-05-06T11:45:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -237,30 +327,10 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where do space, time and gravity come from?]]></title>
-        <id>https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/</id>
-        <link href="https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/"/>
-        <updated>2022-05-06T08:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP RFC: Deprecate ${} string interpolation]]></title>
-        <id>https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation</id>
-        <link href="https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation"/>
-        <updated>2022-05-06T04:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Crime Pays but Botany Doesn’t” crosses citizen science with environmentalism]]></title>
-        <id>https://www.outsideonline.com/culture/books-media/botany-joey-santore-youtube-crime-pays/</id>
-        <link href="https://www.outsideonline.com/culture/books-media/botany-joey-santore-youtube-crime-pays/"/>
-        <updated>2022-05-06T04:28:32.000Z</updated>
+        <title type="html"><![CDATA[Exporting Data from Old Gear Through LCD Sniffing]]></title>
+        <id>https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/</id>
+        <link href="https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/"/>
+        <updated>2022-05-06T06:27:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -277,16 +347,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Tetris, but silly]]></title>
-        <id>https://unit520.net/deadtrees/</id>
-        <link href="https://unit520.net/deadtrees/"/>
-        <updated>2022-05-05T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Destructure an Array in JavaScript]]></title>
         <id>62715143c1c601068f4eb5fe</id>
         <link href="https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/"/>
@@ -294,26 +354,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
         <author>
             <name>Madison Kanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byredo’s New Diffuser Works Like a Speaker, Only for Fragrances]]></title>
-        <id>https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/</id>
-        <link href="https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/"/>
-        <updated>2022-05-05T10:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari _img_ tag solving the wrong problem]]></title>
-        <id>https://lapcatsoftware.com/articles/img1.html</id>
-        <link href="https://lapcatsoftware.com/articles/img1.html"/>
-        <updated>2022-05-05T10:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -327,30 +367,10 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Faster Lexer in Go]]></title>
-        <id>https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/</id>
-        <link href="https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/"/>
-        <updated>2022-05-05T06:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congestion Control Arrives in Tor 0.4.7-stable]]></title>
-        <id>https://blog.torproject.org/congestion-contrl-047/</id>
-        <link href="https://blog.torproject.org/congestion-contrl-047/"/>
-        <updated>2022-05-05T05:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sokrates – a lightweight (yet powerful) software documentation and analysis tool]]></title>
-        <id>https://www.sokrates.dev/</id>
-        <link href="https://www.sokrates.dev/"/>
-        <updated>2022-05-05T05:31:55.000Z</updated>
+        <title type="html"><![CDATA[Extreme depth-of-field light field camera thanks to an extinct marine arthropod]]></title>
+        <id>http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html</id>
+        <link href="http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html"/>
+        <updated>2022-05-05T08:30:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -459,16 +479,6 @@ Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A wild turkey is attacking people in D.C.]]></title>
-        <id>https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703</id>
-        <link href="https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703"/>
-        <updated>2022-05-02T21:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Realistic Reflections With CSS]]></title>
         <id>https://css-tricks.com/?p=365491</id>
         <link href="https://css-tricks.com/creating-realistic-reflections-with-css/"/>
@@ -477,16 +487,6 @@ Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You
 Creating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integer vs. Linear Programming in Python]]></title>
-        <id>https://mlabonne.github.io/blog/linearoptimization/</id>
-        <link href="https://mlabonne.github.io/blog/linearoptimization/"/>
-        <updated>2022-05-02T07:15:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -738,16 +738,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Data-Fetching In An Authenticated Next.js App]]></title>
-        <id>https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/</id>
-        <link href="https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/"/>
-        <updated>2022-04-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
         </author>
     </entry>
 </feed>

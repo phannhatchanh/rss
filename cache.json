@@ -6,304 +6,304 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://blog.heroku.com/we-heard-your-feedback",
+          "id": "https://github.com/wellang/well",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.heroku.com/we-heard-your-feedback",
-          "publishedOn": "2022-05-07T00:29:50.000Z",
-          "wordCount": 827,
-          "title": "Heroku: We’ve Heard Your Feedback",
-          "imageUrl": "https://www.herokucdn.com/images/og.png"
+          "link": "https://github.com/wellang/well",
+          "publishedOn": "2022-05-08T00:03:21.000Z",
+          "wordCount": 548,
+          "title": "New Assembly Like Programming Language?",
+          "imageUrl": "https://opengraph.githubassets.com/a73196f9638f2a36abda20f227b213510d7d7c001e108f019fc4480e37023f60/wellang/well"
         },
         {
-          "id": "https://material.io/blog/roboto-flex",
+          "id": "https://github.com/microsoft/Web-Dev-For-Beginners",
           "author": null,
           "description": "Comments",
-          "link": "https://material.io/blog/roboto-flex",
-          "publishedOn": "2022-05-07T00:03:26.000Z",
-          "wordCount": 15,
-          "title": "Roboto but Make It Flex",
-          "imageUrl": "https://lh3.googleusercontent.com/qmb5EeODK-y-7RxfsGit8BGQv1llmWemEOJvQaAJC62hqZWKk2eRsqIrLcT5Nqw_5Apect2kcvg20bYxYXv4-put6Wo5PQva7nk1JU3zl6UQ6pRFPg"
-        },
-        {
-          "id": "http://www.menuetos.net/index.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.menuetos.net/index.htm",
-          "publishedOn": "2022-05-06T23:54:08.000Z",
-          "wordCount": 507,
-          "title": "MenuetOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://annehelen.substack.com/p/the-diminishing-returns-of-productivity",
-          "author": null,
-          "description": "Comments",
-          "link": "https://annehelen.substack.com/p/the-diminishing-returns-of-productivity",
-          "publishedOn": "2022-05-06T22:59:14.000Z",
-          "wordCount": 3471,
-          "title": "The diminishing returns of productivity culture",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feacbdd87-c2a3-4a78-812f-6ab9ad05e0bb_1946x1286.png"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/history/the-godfather-of-extreme-skiing-7744831/",
-          "publishedOn": "2022-05-06T22:11:50.000Z",
-          "wordCount": 1913,
-          "title": "Skiing Mt. Everest",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/pS2NLZbisgarcF1ZubarCEz_Whc=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Extreme-Skiing-631.jpg"
-        },
-        {
-          "id": "https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/",
-          "publishedOn": "2022-05-06T21:55:15.000Z",
-          "wordCount": 1797,
-          "title": "I’ve spent my Easter break customizing Neovim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A",
-          "publishedOn": "2022-05-06T21:38:30.000Z",
-          "wordCount": 3772,
-          "title": "An approximation to determine the source of the WOW! Signal",
-          "imageUrl": "https://static.cambridge.org/covers/IJA_0_0_0/international_journal of astrobiology.jpg?send-full-size-image=true"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=31289574",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=31289574",
-          "publishedOn": "2022-05-06T21:00:57.000Z",
-          "wordCount": 618,
-          "title": "Meticulous is building the future of testing, join us",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/",
-          "publishedOn": "2022-05-06T19:49:08.000Z",
-          "wordCount": 1386,
-          "title": "Mercedes-Benz says Level 3 self-driving option ready to roll",
-          "imageUrl": "https://www.thedetroitbureau.com/wp-content/uploads/2022/05/Mercedes-EQS-with-Drive-Pilot-inside.jpg"
-        },
-        {
-          "id": "https://cheapskatesguide.org/articles/joys-and-sorrows.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cheapskatesguide.org/articles/joys-and-sorrows.html",
-          "publishedOn": "2022-05-06T17:29:43.000Z",
-          "wordCount": null,
-          "title": "The joys and sorrows of maintaining a personal website",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/",
-          "publishedOn": "2022-05-06T17:20:13.000Z",
-          "wordCount": 9131,
-          "title": "The piranha problem in social psychology / behavioral economics (2017)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/",
-          "publishedOn": "2022-05-06T17:07:52.000Z",
-          "wordCount": 3552,
-          "title": "Recognize Digits Using ML in Elixir",
-          "imageUrl": "https://fly.io/phoenix-files/2022-05-05/training.jpg"
-        },
-        {
-          "id": "https://www.crunchydata.com/blog/demystifying-database-performance-for-developers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.crunchydata.com/blog/demystifying-database-performance-for-developers",
-          "publishedOn": "2022-05-06T17:01:39.000Z",
-          "wordCount": 1950,
-          "title": "Demystifying Database Performance for Developers",
-          "imageUrl": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/108d897e-70ab-465b-1ed7-1b04ca1d9900/public"
-        },
-        {
-          "id": "https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/",
-          "publishedOn": "2022-05-06T16:45:08.000Z",
-          "wordCount": 3254,
-          "title": "Implementing a Merkle Tree for an Immutable Verifiable Log",
-          "imageUrl": "https://aly.arriqaaq.com/content/images/2022/05/Merkle.png"
-        },
-        {
-          "id": "https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing",
-          "publishedOn": "2022-05-06T16:35:45.000Z",
-          "wordCount": 1768,
-          "title": "Faecal transplants reverse hallmarks of ageing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://seths.blog/2022/05/half-baked/?via=thomas.me",
-          "author": null,
-          "description": "Comments",
-          "link": "https://seths.blog/2022/05/half-baked/?via=thomas.me",
-          "publishedOn": "2022-05-06T16:01:04.000Z",
-          "wordCount": 523,
-          "title": "Half Baked",
-          "imageUrl": "https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061315.jpg"
-        },
-        {
-          "id": "https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages",
-          "author": null,
-          "description": "Comments",
-          "link": "https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages",
-          "publishedOn": "2022-05-06T15:26:24.000Z",
+          "link": "https://github.com/microsoft/Web-Dev-For-Beginners",
+          "publishedOn": "2022-05-07T23:40:16.000Z",
           "wordCount": 1743,
-          "title": "Deploying Kubernetes clusters in increasingly absurd languages",
+          "title": "Web Development for Beginners – A Curriculum",
+          "imageUrl": "https://repository-images.githubusercontent.com/311525798/ff247c80-234c-11eb-854a-7715ece536af"
+        },
+        {
+          "id": "https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers",
+          "publishedOn": "2022-05-07T23:38:23.000Z",
+          "wordCount": 1120,
+          "title": "Sorry iPhone Fans, Android Users Are Safer Drivers",
+          "imageUrl": "https://d3tg988c3hqr9r.cloudfront.net/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7n7vfqlomamo%2F75PRdfdYfBhwjHP9kx8t12%2Fc217c6a3e554ef18546aafab44634a49%2FLeading_mobile_telematics_provider_Cambridge_Mobile_Telematics_recently_purchased_rival_TrueMotion___Twenty20&w=640&q=75"
+        },
+        {
+          "id": "https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/",
+          "publishedOn": "2022-05-07T23:28:44.000Z",
+          "wordCount": 941,
+          "title": "California Targets Loud Exhaust with Sound Activated Cameras",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cars-congest-the-10-highway-in-los-angeles-late-16-october-news-photo-1651774151.jpg?crop=0.800xw:1.00xh;0.101xw,0&resize=1200:*"
+        },
+        {
+          "id": "https://thewalrus.ca/ai-poetry/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thewalrus.ca/ai-poetry/",
+          "publishedOn": "2022-05-07T21:47:01.000Z",
+          "wordCount": 5180,
+          "title": "Robots Are Writing Poetry, and Many People Can’t Tell the Difference",
+          "imageUrl": "https://walrus-assets.s3.amazonaws.com/img/Starnino_RobotPoetry_1800.jpg"
+        },
+        {
+          "id": "https://careers.atob.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://careers.atob.com",
+          "publishedOn": "2022-05-07T21:01:12.000Z",
+          "wordCount": 514,
+          "title": "AtoB (YC S20) is hiring to build Stripe for Transportation",
+          "imageUrl": "https://super-static-assets.s3.amazonaws.com/79b93ad7-9959-4fb6-bb72-118c89df9dfe/images/38649883-a7d4-4dde-8be5-e3b2edf784f4.png"
+        },
+        {
+          "id": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79",
+          "publishedOn": "2022-05-07T20:48:35.000Z",
+          "wordCount": 604,
+          "title": "Unauthorized gem takeover for some gems",
+          "imageUrl": "https://github.githubassets.com/images/modules/open_graph/github-logo.png"
+        },
+        {
+          "id": "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/",
+          "publishedOn": "2022-05-07T20:33:43.000Z",
+          "wordCount": 2999,
+          "title": "Apple's Director of Machine Learning Resigns Due to Return to Office Work",
+          "imageUrl": "https://images.macrumors.com/t/r5ouVyBJMgzwyrvKhiXHd6Aok78=/2000x/article-new/2022/05/apple-park-at-night-1.jpg"
+        },
+        {
+          "id": "https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html",
+          "publishedOn": "2022-05-07T20:24:05.000Z",
+          "wordCount": 1024,
+          "title": "Some CUDA programming fun with Julia",
           "imageUrl": null
         },
         {
-          "id": "https://zan.bearblog.dev/why-i-waste-time/",
+          "id": "https://github.com/pojntfx/weron",
           "author": null,
           "description": "Comments",
-          "link": "https://zan.bearblog.dev/why-i-waste-time/",
-          "publishedOn": "2022-05-06T15:00:31.000Z",
-          "wordCount": 278,
-          "title": "Why do you waste so much time on the internet?",
+          "link": "https://github.com/pojntfx/weron",
+          "publishedOn": "2022-05-07T19:48:46.000Z",
+          "wordCount": 4069,
+          "title": "Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go",
+          "imageUrl": "https://opengraph.githubassets.com/23545a3f1219fc02d896381a88899a0681408eaef9da6a40d213d42531f8c90e/pojntfx/weron"
+        },
+        {
+          "id": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html",
+          "publishedOn": "2022-05-07T19:09:11.000Z",
+          "wordCount": 5656,
+          "title": "Xilem: An Architecture for UI in Rust",
           "imageUrl": null
         },
         {
-          "id": "https://fs.blog/slack/",
+          "id": "https://deletionpedia.org/en/Main_Page",
           "author": null,
           "description": "Comments",
-          "link": "https://fs.blog/slack/",
-          "publishedOn": "2022-05-06T14:10:50.000Z",
-          "wordCount": 2238,
-          "title": "Efficiency is the enemy?",
-          "imageUrl": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2021/05/Efficiency-is-the-Enemy.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/",
-          "publishedOn": "2022-05-06T08:10:10.000Z",
-          "wordCount": 8118,
-          "title": "Where do space, time and gravity come from?",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/05/TJY_Space_Time_1200_Social.jpg"
-        },
-        {
-          "id": "https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation",
-          "publishedOn": "2022-05-06T04:36:37.000Z",
-          "wordCount": 1081,
-          "title": "PHP RFC: Deprecate ${} string interpolation",
+          "link": "https://deletionpedia.org/en/Main_Page",
+          "publishedOn": "2022-05-07T18:15:46.000Z",
+          "wordCount": 525,
+          "title": "Deletionpedia: Rescuing articles from Wikipedia's deletionism",
           "imageUrl": null
         },
         {
-          "id": "https://www.outsideonline.com/culture/books-media/botany-joey-santore-youtube-crime-pays/",
+          "id": "http://www.connolly-cleary.com/Home/helmets.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.outsideonline.com/culture/books-media/botany-joey-santore-youtube-crime-pays/",
-          "publishedOn": "2022-05-06T04:28:32.000Z",
-          "wordCount": 2362,
-          "title": "“Crime Pays but Botany Doesn’t” crosses citizen science with environmentalism",
-          "imageUrl": "https://www.outsideonline.com/wp-content/uploads/2022/02/joey-santore-botany_h.jpg?width=1200"
-        },
-        {
-          "id": "https://unit520.net/deadtrees/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://unit520.net/deadtrees/",
-          "publishedOn": "2022-05-05T16:33:13.000Z",
-          "wordCount": 2,
-          "title": "Show HN: Tetris, but silly",
+          "link": "http://www.connolly-cleary.com/Home/helmets.html",
+          "publishedOn": "2022-05-07T17:35:44.000Z",
+          "wordCount": 626,
+          "title": "Meta-Perceptual Helmets",
           "imageUrl": null
         },
         {
-          "id": "https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/",
+          "id": "https://www.battle-of-flags.com",
           "author": null,
           "description": "Comments",
-          "link": "https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/",
-          "publishedOn": "2022-05-05T10:41:59.000Z",
-          "wordCount": 1245,
-          "title": "Byredo’s New Diffuser Works Like a Speaker, Only for Fragrances",
-          "imageUrl": "https://robbreport.com/wp-content/uploads/2022/01/byredo02.jpg?w=1000"
-        },
-        {
-          "id": "https://lapcatsoftware.com/articles/img1.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lapcatsoftware.com/articles/img1.html",
-          "publishedOn": "2022-05-05T10:01:15.000Z",
-          "wordCount": 577,
-          "title": "Safari _img_ tag solving the wrong problem",
+          "link": "https://www.battle-of-flags.com",
+          "publishedOn": "2022-05-07T16:45:54.000Z",
+          "wordCount": 130,
+          "title": "Show HN: I made a browser-based RTS game",
           "imageUrl": null
         },
         {
-          "id": "https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/",
+          "id": "https://okular.kde.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/",
-          "publishedOn": "2022-05-05T06:13:16.000Z",
-          "wordCount": 2242,
-          "title": "A Faster Lexer in Go",
+          "link": "https://okular.kde.org/",
+          "publishedOn": "2022-05-07T14:07:29.000Z",
+          "wordCount": 612,
+          "title": "Okular – Universal document viewer",
+          "imageUrl": "https://okular.kde.org/images/screenies/okular-main.png"
+        },
+        {
+          "id": "https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html",
+          "publishedOn": "2022-05-07T13:49:32.000Z",
+          "wordCount": 771,
+          "title": "Singapore Government Tech Stack",
           "imageUrl": null
         },
         {
-          "id": "https://blog.torproject.org/congestion-contrl-047/",
+          "id": "https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.torproject.org/congestion-contrl-047/",
-          "publishedOn": "2022-05-05T05:49:37.000Z",
-          "wordCount": 2403,
-          "title": "Congestion Control Arrives in Tor 0.4.7-stable",
-          "imageUrl": "https://blog.torproject.org/congestion-contrl-047/lead.png"
-        },
-        {
-          "id": "https://www.sokrates.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sokrates.dev/",
-          "publishedOn": "2022-05-05T05:31:55.000Z",
-          "wordCount": 13,
-          "title": "Sokrates – a lightweight (yet powerful) software documentation and analysis tool",
+          "link": "https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/",
+          "publishedOn": "2022-05-07T13:35:55.000Z",
+          "wordCount": 1638,
+          "title": "Your phone may soon replace many of your passwords",
           "imageUrl": null
         },
         {
-          "id": "https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703",
+          "id": "https://ankify.krxiang.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703",
-          "publishedOn": "2022-05-02T21:50:21.000Z",
-          "wordCount": 285,
-          "title": "A wild turkey is attacking people in D.C.",
-          "imageUrl": "https://images.wsj.net/im-535031/social"
+          "link": "https://ankify.krxiang.com/",
+          "publishedOn": "2022-05-07T13:33:11.000Z",
+          "wordCount": 67,
+          "title": "Show HN: I made Ankify that converts notes to Anki cards",
+          "imageUrl": null
         },
         {
-          "id": "https://mlabonne.github.io/blog/linearoptimization/",
+          "id": "https://petargyurov.com/bookshelf/",
           "author": null,
           "description": "Comments",
-          "link": "https://mlabonne.github.io/blog/linearoptimization/",
-          "publishedOn": "2022-05-02T07:15:22.000Z",
-          "wordCount": 3980,
-          "title": "Integer vs. Linear Programming in Python",
-          "imageUrl": "https://mlabonne.github.io/blog/images/ortools/thumbnail.png"
+          "link": "https://petargyurov.com/bookshelf/",
+          "publishedOn": "2022-05-07T11:35:16.000Z",
+          "wordCount": 274,
+          "title": "I made a virtual bookshelf",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.frisnit.com/roland-tr-808-cowbell-rebuild/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.frisnit.com/roland-tr-808-cowbell-rebuild/",
+          "publishedOn": "2022-05-07T11:21:31.000Z",
+          "wordCount": 998,
+          "title": "Roland TR-808 Cowbell Rebuild",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+          "publishedOn": "2022-05-07T10:40:22.000Z",
+          "wordCount": 2614,
+          "title": "RSS Feed Best Practices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel",
+          "publishedOn": "2022-05-07T08:48:12.000Z",
+          "wordCount": 685,
+          "title": "Eve Online is getting Microsoft Excel support",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/VnwI7OdqWR-eokCli2G5EfcE64U=/0x50:2560x1390/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23440918/ss_81c6a1141dcf30f9cc045e57fff00aead34bdeb3.jpg"
+        },
+        {
+          "id": "https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/",
+          "publishedOn": "2022-05-06T18:54:31.000Z",
+          "wordCount": 30538,
+          "title": "When is a ‘tank’ not a tank?",
+          "imageUrl": "https://i0.wp.com/acoup.blog/wp-content/uploads/2022/05/1920px-Mounted_Soldier_System_MSS.jpg?fit=1200%2C670&ssl=1"
+        },
+        {
+          "id": "https://arxiv.org/abs/1904.05234",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/1904.05234",
+          "publishedOn": "2022-05-06T16:14:47.000Z",
+          "wordCount": 734,
+          "title": "Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html",
+          "publishedOn": "2022-05-06T14:39:49.000Z",
+          "wordCount": 4494,
+          "title": "'Rater' is paid $10 hourly to teach Google's algorithm",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/0aTlq6CTULOGBEfoD6XOhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/a2d01060-b36b-11ec-b895-8aa44bf2cf51"
+        },
+        {
+          "id": "https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/",
+          "publishedOn": "2022-05-06T13:58:01.000Z",
+          "wordCount": 1331,
+          "title": "How many Linux commands can 7 year old learn?",
+          "imageUrl": "/images/tjg_code_3.png"
+        },
+        {
+          "id": "https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones",
+          "publishedOn": "2022-05-06T13:08:50.000Z",
+          "wordCount": 799,
+          "title": "Seed-firing drones are planting 40k trees every day to fight deforestation",
+          "imageUrl": "https://static.euronews.com/articles/stories/06/35/06/34/1000x563_cmsv2_3ad468db-0f7f-5086-a023-968f13f2c569-6350634.jpg"
+        },
+        {
+          "id": "https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/",
+          "publishedOn": "2022-05-06T11:45:27.000Z",
+          "wordCount": 1073,
+          "title": "Learning modern Linux: A handbook for the cloud native practitioner",
+          "imageUrl": "https://www.oreilly.com/library/cover/9781098108939/"
+        },
+        {
+          "id": "https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/",
+          "publishedOn": "2022-05-06T06:27:14.000Z",
+          "wordCount": 2837,
+          "title": "Exporting Data from Old Gear Through LCD Sniffing",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/05/hadimg_dotmatrix_lcdsniff_feat.jpg"
+        },
+        {
+          "id": "http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html",
+          "publishedOn": "2022-05-05T08:30:19.000Z",
+          "wordCount": 2040,
+          "title": "Extreme depth-of-field light field camera thanks to an extinct marine arthropod",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzSyXt_KCvZrsY7ch3knIOoJPpGqnWbD4koUVShQ3tlsorVVqS9ZcCyewwx_yUufnYb146WrXq5jJg8kUqjbTFcnJ3RFm1OyUeUQpKWzKGgDUGufvWXQDRvW7YZ9Wb-uy2Y6Za3t55-JH-2lscjK5G15F7cpGsbcFbOu7VWaoy805RwR3D7PrIRnygOFHdzHTkBGacfusxcgDgengKQlXZnyqDb0lQgnL5DLMXgk0d8sW0R1Szw2w=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -445,7 +445,7 @@
           "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
           "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2997,
+          "wordCount": 2979,
           "title": "How To Give Effective Feedback Remotely",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
@@ -505,7 +505,7 @@
           "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
           "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
           "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2302,
           "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
@@ -520,7 +520,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2024,
+          "wordCount": 2022,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -535,7 +535,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4780,
+          "wordCount": 4783,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -580,7 +580,7 @@
           "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
           "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "publishedOn": "2022-04-25T09:30:00.000Z",
-          "wordCount": 3396,
+          "wordCount": 3403,
           "title": "What If Our Sliders Actually Slid?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
@@ -595,7 +595,7 @@
           "description": "Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.",
           "link": "https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/",
           "publishedOn": "2022-04-22T09:30:00.000Z",
-          "wordCount": 4181,
+          "wordCount": 4185,
           "title": "Testing The CLI The Way People Use It",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg",
@@ -610,7 +610,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3317,
+          "wordCount": 3321,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -640,7 +640,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1709,
+          "wordCount": 1714,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -655,7 +655,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2531,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -700,7 +700,7 @@
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7274,
+          "wordCount": 7278,
           "title": "Designing A Better Carousel UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
@@ -715,7 +715,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4143,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -730,7 +730,7 @@
           "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
           "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
           "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2345,
+          "wordCount": 2337,
           "title": "Boost Resource Loading With fetchpriority, A New Priority Hint",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
@@ -738,21 +738,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-          "author": "hello@smashingmagazine.com (Caleb Olojo)",
-          "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
-          "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-          "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1951,
-          "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg"
         }
       ]
     },
