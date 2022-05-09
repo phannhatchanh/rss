@@ -1,225 +1,275 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T00:51:25.514Z</id>
+    <id>urn:2022-05-09T00:55:00.874Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-08T00:51:25.514Z</updated>
+    <updated>2022-05-09T00:55:00.874Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[New Assembly Like Programming Language?]]></title>
-        <id>https://github.com/wellang/well</id>
-        <link href="https://github.com/wellang/well"/>
-        <updated>2022-05-08T00:03:21.000Z</updated>
+        <title type="html"><![CDATA[Forget personalisation, it’s impossible and it doesn’t work]]></title>
+        <id>https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/</id>
+        <link href="https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/"/>
+        <updated>2022-05-08T22:39:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Development for Beginners – A Curriculum]]></title>
-        <id>https://github.com/microsoft/Web-Dev-For-Beginners</id>
-        <link href="https://github.com/microsoft/Web-Dev-For-Beginners"/>
-        <updated>2022-05-07T23:40:16.000Z</updated>
+        <title type="html"><![CDATA[A Case for an Open Source CS Curriculum [pdf]]]></title>
+        <id>https://homes.cs.washington.edu/~tom/talks/edslides.pdf</id>
+        <link href="https://homes.cs.washington.edu/~tom/talks/edslides.pdf"/>
+        <updated>2022-05-08T21:58:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorry iPhone Fans, Android Users Are Safer Drivers]]></title>
-        <id>https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers</id>
-        <link href="https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers"/>
-        <updated>2022-05-07T23:38:23.000Z</updated>
+        <title type="html"><![CDATA[“I don't know the numbers”: a math puzzle]]></title>
+        <id>https://alexanderell.is/posts/numbers-game/</id>
+        <link href="https://alexanderell.is/posts/numbers-game/"/>
+        <updated>2022-05-08T21:49:07.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California Targets Loud Exhaust with Sound Activated Cameras]]></title>
-        <id>https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/</id>
-        <link href="https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/"/>
-        <updated>2022-05-07T23:28:44.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Pointless – Endless drawing canvas desktop app]]></title>
+        <id>https://github.com/kkoomen/pointless</id>
+        <link href="https://github.com/kkoomen/pointless"/>
+        <updated>2022-05-08T21:30:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robots Are Writing Poetry, and Many People Can’t Tell the Difference]]></title>
-        <id>https://thewalrus.ca/ai-poetry/</id>
-        <link href="https://thewalrus.ca/ai-poetry/"/>
-        <updated>2022-05-07T21:47:01.000Z</updated>
+        <title type="html"><![CDATA[Use fzf for tmux session switching]]></title>
+        <id>https://waylonwalker.com/tmux-fzf-session-jump/</id>
+        <link href="https://waylonwalker.com/tmux-fzf-session-jump/"/>
+        <updated>2022-05-08T21:00:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AtoB (YC S20) is hiring to build Stripe for Transportation]]></title>
-        <id>https://careers.atob.com</id>
-        <link href="https://careers.atob.com"/>
-        <updated>2022-05-07T21:01:12.000Z</updated>
+        <title type="html"><![CDATA[Compiling an OpenBSD kernel 50% faster]]></title>
+        <id>https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster</id>
+        <link href="https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster"/>
+        <updated>2022-05-08T20:37:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unauthorized gem takeover for some gems]]></title>
-        <id>https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79</id>
-        <link href="https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79"/>
-        <updated>2022-05-07T20:48:35.000Z</updated>
+        <title type="html"><![CDATA[Kiss Linux (2020)]]></title>
+        <id>https://web.archive.org/web/20200528200318/https://k1ss.org/</id>
+        <link href="https://web.archive.org/web/20200528200318/https://k1ss.org/"/>
+        <updated>2022-05-08T20:27:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple's Director of Machine Learning Resigns Due to Return to Office Work]]></title>
-        <id>https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/</id>
-        <link href="https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"/>
-        <updated>2022-05-07T20:33:43.000Z</updated>
+        <title type="html"><![CDATA[Regex Vis – regular expression visualizer]]></title>
+        <id>https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24</id>
+        <link href="https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24"/>
+        <updated>2022-05-08T19:06:48.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some CUDA programming fun with Julia]]></title>
-        <id>https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html</id>
-        <link href="https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html"/>
-        <updated>2022-05-07T20:24:05.000Z</updated>
+        <title type="html"><![CDATA[RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]]]></title>
+        <id>https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf</id>
+        <link href="https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf"/>
+        <updated>2022-05-08T18:57:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go]]></title>
-        <id>https://github.com/pojntfx/weron</id>
-        <link href="https://github.com/pojntfx/weron"/>
-        <updated>2022-05-07T19:48:46.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Wordle in Python using literate programming]]></title>
+        <id>https://jiby.tech/project/literate_wordle/wordle.html</id>
+        <link href="https://jiby.tech/project/literate_wordle/wordle.html"/>
+        <updated>2022-05-08T17:53:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xilem: An Architecture for UI in Rust]]></title>
-        <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
-        <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
-        <updated>2022-05-07T19:09:11.000Z</updated>
+        <title type="html"><![CDATA[Feeling uncomfortable when leaving phone at home shouldn't be normal]]></title>
+        <id>https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/</id>
+        <link href="https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/"/>
+        <updated>2022-05-08T17:51:07.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deletionpedia: Rescuing articles from Wikipedia's deletionism]]></title>
-        <id>https://deletionpedia.org/en/Main_Page</id>
-        <link href="https://deletionpedia.org/en/Main_Page"/>
-        <updated>2022-05-07T18:15:46.000Z</updated>
+        <title type="html"><![CDATA[Vitamin D and Depression (2020)]]></title>
+        <id>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/"/>
+        <updated>2022-05-08T17:34:58.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta-Perceptual Helmets]]></title>
-        <id>http://www.connolly-cleary.com/Home/helmets.html</id>
-        <link href="http://www.connolly-cleary.com/Home/helmets.html"/>
-        <updated>2022-05-07T17:35:44.000Z</updated>
+        <title type="html"><![CDATA[Tidbyt hardware display device: a review]]></title>
+        <id>https://macwright.com/2022/03/11/tidbyt-review.html</id>
+        <link href="https://macwright.com/2022/03/11/tidbyt-review.html"/>
+        <updated>2022-05-08T17:31:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made a browser-based RTS game]]></title>
-        <id>https://www.battle-of-flags.com</id>
-        <link href="https://www.battle-of-flags.com"/>
-        <updated>2022-05-07T16:45:54.000Z</updated>
+        <title type="html"><![CDATA[Emerging evidence that mindfulness can sometimes increase selfish tendencies]]></title>
+        <id>https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person</id>
+        <link href="https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person"/>
+        <updated>2022-05-08T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Okular – Universal document viewer]]></title>
-        <id>https://okular.kde.org/</id>
-        <link href="https://okular.kde.org/"/>
-        <updated>2022-05-07T14:07:29.000Z</updated>
+        <title type="html"><![CDATA[Courier (YC S19) is hiring software engineers to fix bad product notifications]]></title>
+        <id>https://jobs.lever.co/trycourier</id>
+        <link href="https://jobs.lever.co/trycourier"/>
+        <updated>2022-05-08T17:01:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Singapore Government Tech Stack]]></title>
-        <id>https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html</id>
-        <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
-        <updated>2022-05-07T13:49:32.000Z</updated>
+        <title type="html"><![CDATA[What happens if Twitter gets encrypted DMs?]]></title>
+        <id>https://getsession.org/blog</id>
+        <link href="https://getsession.org/blog"/>
+        <updated>2022-05-08T16:44:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your phone may soon replace many of your passwords]]></title>
-        <id>https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/</id>
-        <link href="https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/"/>
-        <updated>2022-05-07T13:35:55.000Z</updated>
+        <title type="html"><![CDATA[Tell HN: I was permanently banned from eBay in one hour]]></title>
+        <id>https://news.ycombinator.com/item?id=31305341</id>
+        <link href="https://news.ycombinator.com/item?id=31305341"/>
+        <updated>2022-05-08T16:11:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I made Ankify that converts notes to Anki cards]]></title>
-        <id>https://ankify.krxiang.com/</id>
-        <link href="https://ankify.krxiang.com/"/>
-        <updated>2022-05-07T13:33:11.000Z</updated>
+        <title type="html"><![CDATA[Show HN: CaskDB – project to teach you building a key value store]]></title>
+        <id>https://github.com/avinassh/py-caskdb</id>
+        <link href="https://github.com/avinassh/py-caskdb"/>
+        <updated>2022-05-08T15:25:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a virtual bookshelf]]></title>
-        <id>https://petargyurov.com/bookshelf/</id>
-        <link href="https://petargyurov.com/bookshelf/"/>
-        <updated>2022-05-07T11:35:16.000Z</updated>
+        <title type="html"><![CDATA[PowerToys – open-source Windows utilities]]></title>
+        <id>https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows</id>
+        <link href="https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows"/>
+        <updated>2022-05-08T15:12:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roland TR-808 Cowbell Rebuild]]></title>
-        <id>http://www.frisnit.com/roland-tr-808-cowbell-rebuild/</id>
-        <link href="http://www.frisnit.com/roland-tr-808-cowbell-rebuild/"/>
-        <updated>2022-05-07T11:21:31.000Z</updated>
+        <title type="html"><![CDATA[VSCode – Markdown Edition]]></title>
+        <id>https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/</id>
+        <link href="https://blog.dendron.so/notes/upyp4ow9fkpwvu50n8wsvnp/"/>
+        <updated>2022-05-08T14:38:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RSS Feed Best Practices]]></title>
-        <id>https://kevincox.ca/2022/05/06/rss-feed-best-practices/</id>
-        <link href="https://kevincox.ca/2022/05/06/rss-feed-best-practices/"/>
-        <updated>2022-05-07T10:40:22.000Z</updated>
+        <title type="html"><![CDATA[Scapy: Low level packet hacking toolkit for Python]]></title>
+        <id>https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/</id>
+        <link href="https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/"/>
+        <updated>2022-05-08T14:15:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eve Online is getting Microsoft Excel support]]></title>
-        <id>https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel</id>
-        <link href="https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel"/>
-        <updated>2022-05-07T08:48:12.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Automedia – a tool for managing bitrot and formats in media libraries]]></title>
+        <id>https://github.com/mmastrac/automedia</id>
+        <link href="https://github.com/mmastrac/automedia"/>
+        <updated>2022-05-08T13:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple assignment and tuple unpacking improve Python code readability (2018)]]></title>
+        <id>https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/</id>
+        <link href="https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/"/>
+        <updated>2022-05-08T12:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixabay has royalty free music you can use for free]]></title>
+        <id>https://pixabay.com/</id>
+        <link href="https://pixabay.com/"/>
+        <updated>2022-05-08T11:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned from the recent job hunt]]></title>
+        <id>https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/</id>
+        <link href="https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/"/>
+        <updated>2022-05-08T09:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashlookup-Forensic-Analyser]]></title>
+        <id>https://github.com/hashlookup/hashlookup-forensic-analyser</id>
+        <link href="https://github.com/hashlookup/hashlookup-forensic-analyser"/>
+        <updated>2022-05-07T16:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of noise on construction sites of high-rise buildings]]></title>
+        <id>https://content.iospress.com/download/work/wor0553?id=work%2Fwor0553</id>
+        <link href="https://content.iospress.com/download/work/wor0553?id=work%2Fwor0553"/>
+        <updated>2022-05-07T00:04:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -236,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is a ‘tank’ not a tank?]]></title>
-        <id>https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/</id>
-        <link href="https://acoup.blog/2022/05/06/collections-when-is-a-tank-not-a-tank/"/>
-        <updated>2022-05-06T18:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Learn Python in 2022]]></title>
         <id>627036b7c1c601068f4eb2b6</id>
         <link href="https://www.freecodecamp.org/news/how-to-learn-python/"/>
@@ -256,20 +296,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability]]></title>
-        <id>https://arxiv.org/abs/1904.05234</id>
-        <link href="https://arxiv.org/abs/1904.05234"/>
-        <updated>2022-05-06T16:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Rater' is paid $10 hourly to teach Google's algorithm]]></title>
-        <id>https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html</id>
-        <link href="https://finance.yahoo.com/news/google-raters-paid-to-teach-algorithm-204308901.html"/>
-        <updated>2022-05-06T14:39:49.000Z</updated>
+        <title type="html"><![CDATA[Behold GoldenEye 007 with four screens – dream come true or travesty?]]></title>
+        <id>https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history</id>
+        <link href="https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history"/>
+        <updated>2022-05-06T14:31:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -287,30 +317,10 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How many Linux commands can 7 year old learn?]]></title>
-        <id>https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/</id>
-        <link href="https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/"/>
-        <updated>2022-05-06T13:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seed-firing drones are planting 40k trees every day to fight deforestation]]></title>
-        <id>https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones</id>
-        <link href="https://www.euronews.com/green/2022/05/04/this-australian-start-up-wants-to-fight-deforestation-with-an-army-of-drones"/>
-        <updated>2022-05-06T13:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning modern Linux: A handbook for the cloud native practitioner]]></title>
-        <id>https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/</id>
-        <link href="https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/"/>
-        <updated>2022-05-06T11:45:27.000Z</updated>
+        <title type="html"><![CDATA[Umami: Own Your Website Analytics]]></title>
+        <id>https://umami.is/</id>
+        <link href="https://umami.is/"/>
+        <updated>2022-05-06T13:30:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -327,10 +337,10 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exporting Data from Old Gear Through LCD Sniffing]]></title>
-        <id>https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/</id>
-        <link href="https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/"/>
-        <updated>2022-05-06T06:27:14.000Z</updated>
+        <title type="html"><![CDATA[Japanese Words in Neuromancer]]></title>
+        <id>https://jrogel.com/neuromancer-japanese-words/</id>
+        <link href="https://jrogel.com/neuromancer-japanese-words/"/>
+        <updated>2022-05-06T06:44:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -364,16 +374,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme depth-of-field light field camera thanks to an extinct marine arthropod]]></title>
-        <id>http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html</id>
-        <link href="http://image-sensors-world.blogspot.com/2022/05/extreme-depth-of-field-light-field.html"/>
-        <updated>2022-05-05T08:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
