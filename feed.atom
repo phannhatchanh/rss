@@ -1,146 +1,567 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T00:58:08.151Z</id>
+    <id>urn:2022-05-27T00:55:19.806Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-26T00:58:08.151Z</updated>
+    <updated>2022-05-27T00:55:19.806Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Nếu định vị trên điện thoại Android của bạn sai, hãy thử những cách sau]]></title>
-        <id>https://tinhte.vn/thread/3521672/</id>
-        <link href="https://tinhte.vn/thread/neu-dinh-vi-tren-dien-thoai-android-cua-ban-sai-hay-thu-nhung-cach-sau.3521672/"/>
-        <updated>2022-05-26T00:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Ở thời đại di chuyển nhiều như ngày nay, bản đồ hay định vị là những tính năng rất cần thiết. Mỗi người khi sử dụng smartphone hầu như ít nhiều đều sử dụng những dịch vụ liên quan đến định vị, đến...]]></summary>
-        <author>
-            <name>Lê Huyền Vân</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trên tay Lenovo Tab P11 Plus: Thiết kế hoàn thiện tốt, cấu hình cơ bản cho học tập, giải trí]]></title>
-        <id>https://tinhte.vn/thread/3521663/</id>
-        <link href="https://tinhte.vn/thread/tren-tay-lenovo-tab-p11-plus-thiet-ke-hoan-thien-tot-cau-hinh-co-ban-cho-hoc-tap-giai-tri.3521663/"/>
-        <updated>2022-05-26T00:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo Tab P11 Plus là một chiếc tablet android với ngoại hình đơn giản nhưng đẹp, thiết kế gọn gàng mang lại cảm giác cầm nắm tốt, mức giá dễ tiếp cận để phục vụ cho nhu cầu giải trí lẫn học tập....]]></summary>
-        <author>
-            <name>Lê Huyền Vân</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech ra mắt MX Mechanical: Bàn phím cơ không dây chuyên cho công việc đầu tiên của hãng]]></title>
-        <id>https://tinhte.vn/thread/3522774/</id>
-        <link href="https://tinhte.vn/thread/logitech-ra-mat-mx-mechanical-ban-phim-co-khong-day-chuyen-cho-cong-viec-dau-tien-cua-hang.3522774/"/>
-        <updated>2022-05-26T00:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Logitech ra mắt MX Mechanical, chiếc bàn phím cơ cao cấp dành cho công việc đầu tiên của hãng. Nó có thiết kế mỏng, gọn, 3 kiểu switch cho người dùng lựa chọn và hệ thống đèn LED trắng thông minh....]]></summary>
-        <author>
-            <name>Trần Hoàng Long.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhóm kỹ sư của Tesla công bố nghiên cứu pin dung lượng cao, vòng đời lý thuyết 100 năm]]></title>
-        <id>https://tinhte.vn/thread/3522402/</id>
-        <link href="https://tinhte.vn/thread/nhom-ky-su-cua-tesla-cong-bo-nghien-cuu-pin-dung-luong-cao-vong-doi-ly-thuyet-100-nam.3522402/"/>
-        <updated>2022-05-26T00:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Đó là những nghiên cứu của nhóm kỹ sư thuộc trung tâm Tesla Advanced Battery Research đặt tại Canada, hợp tác cùng phòng nghiên cứu công nghệ pin của Jeff Dahn tại đại học Dalhousie, Halifax,...]]></summary>
-        <author>
-            <name>P.W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Người đàn ông bị kẹt tại sân bay 18 năm - câu chuyện thật đằng sau bộ phim The Terminal]]></title>
-        <id>https://tinhte.vn/thread/3522279/</id>
-        <link href="https://tinhte.vn/thread/nguoi-dan-ong-bi-ket-tai-san-bay-18-nam-cau-chuyen-that-dang-sau-bo-phim-the-terminal.3522279/"/>
-        <updated>2022-05-26T00:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Có thể anh em đã xem bộ phim The Terminal (2004) - một bộ phim nổi tiếng của đạo diễn Steven Spielberg cùng nam tài tử Tom Hanks. Bộ phim này kể về một người đàn ông Đông Âu bị mắc kẹt tại sân bay...]]></summary>
-        <author>
-            <name>bk9sw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một vài hình ảnh anh em Tinh tế tham gia Vietnam Trail Marathon ở Mộc Châu]]></title>
-        <id>https://tinhte.vn/thread/3521670/</id>
-        <link href="https://tinhte.vn/thread/mot-vai-hinh-anh-anh-em-tinh-te-tham-gia-vietnam-trail-marathon-o-moc-chau.3521670/"/>
-        <updated>2022-05-26T00:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Đợt cuối tuần vừa rồi, Tinh tế bọn mình rủ nhau bay một chuyến ra Bắc để tham gia giải chạy Vietnam Trail Marathon ở Mộc Châu. Đây là lần đầu tiên mình tham gia một giải chạy Marathon và chuyến đi...]]></summary>
-        <author>
-            <name>Lê Huyền Vân</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hai tuần với Zenbook 14X OLED: Có phải chỉ là chiếc máy để Asus "bình dân hóa" màn hình xịn?]]></title>
-        <id>https://tinhte.vn/thread/3519508/</id>
-        <link href="https://tinhte.vn/thread/hai-tuan-voi-zenbook-14x-oled-co-phai-chi-la-chiec-may-de-asus-binh-dan-hoa-man-hinh-xin.3519508/"/>
-        <updated>2022-05-26T00:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Tưởng tượng một tình huống như thế này: Một ngày vợ gọi mình về vì gia đình có việc đột xuất, không thể trì hoãn. Mình phải làm gì? Bước 1: Đặt vé máy bay. Bước 2: Dọn sạch sẽ quần áo, đồ đạc cá...]]></summary>
-        <author>
-            <name>P.W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vấn đề rác thải điện tử đang trở nên nghiêm trọng hơn bao giờ hết]]></title>
-        <id>https://tinhte.vn/thread/3522101/</id>
-        <link href="https://tinhte.vn/thread/van-de-rac-thai-dien-tu-dang-tro-nen-nghiem-trong-hon-bao-gio-het.3522101/"/>
-        <updated>2022-05-26T00:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Anh em nghe nhiều về những lời kêu gọi bảo vệ môi trường, hạn chế khí thải, carbon, hướng đến cuộc sống xanh và lành mạnh hơn, nhưng anh em có biết rằng rác thải điện tử cũng là 1 nhân tố có sức...]]></summary>
+        <title type="html"><![CDATA[Bất ngờ chưa, AMD Ryzen 7000 trình diễn ở 5.5 GHz trong trạng thái không ép xung!]]></title>
+        <id>https://tinhte.vn/thread/3522518/</id>
+        <link href="https://tinhte.vn/thread/bat-ngo-chua-amd-ryzen-7000-trinh-dien-o-5-5-ghz-trong-trang-thai-khong-ep-xung.3522518/"/>
+        <updated>2022-05-27T00:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Lisa Su – CEO của AMD – lúc chia sẻ ở buổi Keynote trước thềm Computex 2022 cũng đã trình diễn khả năng của vi xử lý Ryzen 7000 trên nền tảng AM5 mới. Con chip chạy thử nghiệm game Ghostwire:...]]></summary>
         <author>
             <name>mig0</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Đánh giá Galaxy Tab S8 Plus: Chiếc tablet Android cân bằng nhất hiện tại]]></title>
-        <id>https://tinhte.vn/thread/3522716/</id>
-        <link href="https://tinhte.vn/thread/danh-gia-galaxy-tab-s8-plus-chiec-tablet-android-can-bang-nhat-hien-tai.3522716/"/>
-        <updated>2022-05-26T00:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Mình đã dùng chiếc tablet này của Samsung được một thời gian khá lâu rồi, và mình thực sự thích nó, trong số 3 chiếc tablet mà Samsung đã ra mắt, thậm chí mình còn thích nó hơn cả chiếc Tab S8...]]></summary>
+        <title type="html"><![CDATA[Review Xe số Honda Future Fi 125cc đời 2020, con xe tiết kiệm xăng]]></title>
+        <id>https://tinhte.vn/thread/3347531/</id>
+        <link href="https://tinhte.vn/thread/review-xe-so-honda-future-fi-125cc-doi-2020-con-xe-tiet-kiem-xang.3347531/"/>
+        <updated>2022-05-27T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Đây là review về Xe số Honda Future Fi 125cc đời 2020, con xe tiết kiệm xăng của mình. Mình mua nó với giá Mình mua nó với giá 35 triệu 500 ngàn vào cuối tháng 12/2020 tại Đồng Nai....]]></summary>
         <author>
-            <name>Pnghuy</name>
+            <name>denis_tien</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazfit ra mắt T-Rex 2 với rất nhiều nâng cấp đáng giá cả phần cứng lẫn phần mềm]]></title>
-        <id>https://tinhte.vn/thread/3522527/</id>
-        <link href="https://tinhte.vn/thread/amazfit-ra-mat-t-rex-2-voi-rat-nhieu-nang-cap-dang-gia-ca-phan-cung-lan-phan-mem.3522527/"/>
-        <updated>2022-05-26T00:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Tiếp nối sự thành công của dòng T-Rex và T-Rex Pro, mới đây Amazfit đã ra mắt T-Rex 2 với những nâng cấp rất lớn ở cả phần cứng lẫn phần mềm.
+        <title type="html"><![CDATA[Bình Thuận và những điểm đến thiên nhiên độc đáo.]]></title>
+        <id>https://tinhte.vn/thread/3522976/</id>
+        <link href="https://tinhte.vn/thread/binh-thuan-va-nhung-diem-den-thien-nhien-doc-dao.3522976/"/>
+        <updated>2022-05-27T00:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Với chiều dài đường biển gần 200km, kéo dài từ Bà Rìa Vũng Tàu tới vùng Biển Cà Ná. Tỉnh Bình Thuận có khá nhiều điểm đến xinh đẹp và độc đáo mà mình đã được may mắn ghé qua. Mình lưu lại đây các...]]></summary>
+        <author>
+            <name>hoasen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mở cửa máy rửa chén ngay sau khi máy rửa xong để chén khô nhanh hơn]]></title>
+        <id>https://tinhte.vn/thread/3522706/</id>
+        <link href="https://tinhte.vn/thread/mo-cua-may-rua-chen-ngay-sau-khi-may-rua-xong-de-chen-kho-nhanh-hon.3522706/"/>
+        <updated>2022-05-27T00:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Lý do là trong quá trình rửa chén thì máy dùng nước nóng để rửa nên khi nó rửa xong mà bạn mở cửa máy ra thì lúc này sự bay hơi nước sẽ diễn ra nhanh hơn và giúp cho chén dĩa mau khô hơn. Tức là...]]></summary>
+        <author>
+            <name>Lê Huyền Vân</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review Airpods Pro: Trải nghiệm của một ông bố bỉm sữa]]></title>
+        <id>https://tinhte.vn/thread/3326787/</id>
+        <link href="https://tinhte.vn/thread/review-airpods-pro-trai-nghiem-cua-mot-ong-bo-bim-sua.3326787/"/>
+        <updated>2022-05-27T00:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Đây là review về Airpods Pro: Trải nghiệm của một ông bố bỉm sữa của mình. Mình mua nó với giá 3.690.000 VNĐ. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy...]]></summary>
+        <author>
+            <name>duyennd1207</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy S23, S24 sẽ chỉ dùng chip Snapdragon, không dùng Exynos?]]></title>
+        <id>https://tinhte.vn/thread/3523164/</id>
+        <link href="https://tinhte.vn/thread/galaxy-s23-s24-se-chi-dung-chip-snapdragon-khong-dung-exynos.3523164/"/>
+        <updated>2022-05-27T00:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Chúng ta đã nghe thông tin về việc Samsung có thể đang trong quá trình phát triển một con chip độc quyền dành riêng cho các thiết bị Galaxy vào năm 2025. Và báo cáo mới từ tờ naver của Hàn Quốc...]]></summary>
+        <author>
+            <name>vn_ninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dịch vụ công: Nộp phạt nguội online, không cần quay về nơi vi phạm giao thông đường bộ]]></title>
+        <id>https://tinhte.vn/thread/3520986/</id>
+        <link href="https://tinhte.vn/thread/dich-vu-cong-nop-phat-nguoi-online-khong-can-quay-ve-noi-vi-pham-giao-thong-duong-bo.3520986/"/>
+        <updated>2022-05-27T00:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Theo Thông tư 15/2022/TT-BCA của Bộ Công an có hiệu lực từ ngày 21/5, anh em không cần phải quay lại nơi vi phạm giao thông để đóng phạt, điều này có nghĩa là nếu chúng ta bị dính lỗi phạt nguội...]]></summary>
+        <author>
+            <name>Nam Air</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cách đấu công tắc thông minh và công tắc cơ sài song song]]></title>
+        <id>https://tinhte.vn/thread/3522344/</id>
+        <link href="https://tinhte.vn/thread/cach-dau-cong-tac-thong-minh-va-cong-tac-co-sai-song-song.3522344/"/>
+        <updated>2022-05-27T00:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Cảnh báo nguy hiểm. Nếu anh em không tự tin làm đúng những gì nhìn thấy hãy nhờ người có chuyên môn để tránh bị điện giật.
  
-1. Ngoại hình
+Mời anh em coi clip của mình cho dễ làm
+[MEDIA]
+Công tắc thông minh là...]]></summary>
+        <author>
+            <name>AllLove</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phong tỏa quá lâu, đại học Thượng Hải phải cho sinh viên thi bơi online để hoàn thành môn học]]></title>
+        <id>https://tinhte.vn/thread/3523004/</id>
+        <link href="https://tinhte.vn/thread/phong-toa-qua-lau-dai-hoc-thuong-hai-phai-cho-sinh-vien-thi-boi-online-de-hoan-thanh-mon-hoc.3523004/"/>
+        <updated>2022-05-27T00:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Trong 1 số thông tin được đưa lên mạng xã hội tại Trung Quốc cho thấy sinh viên tại trường đại học Thượng Hải đã phải thi trả môn học bơi bằng hình thức không giống ai đó là thi online. Lý do bởi...]]></summary>
+        <author>
+            <name>Hassler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thương hiệu OEM là gì? hiểu đúng, hiểu đủ về thuật ngữ nhà sản xuất phụ kiện gốc]]></title>
+        <id>https://tinhte.vn/thread/3490404/</id>
+        <link href="https://tinhte.vn/thread/thuong-hieu-oem-la-gi-hieu-dung-hieu-du-ve-thuat-ngu-nha-san-xuat-phu-kien-goc.3490404/"/>
+        <updated>2022-05-27T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Thương hiệu OEM là viết tắt của cụm từ tiếng Anh Original Equipment Manufacturing, thường được dịch sang tiếng Việt là nhà sản xuất phụ kiện gốc.
  
-[IMG]
-T-Rex 2 được nâng cấp nhiều về...]]></summary>
+Thương hiệu OEM chỉ những doanh nghiệp sản xuất...]]></summary>
+        <author>
+            <name>Quyền.Vũ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chia sẻ với anh em chiếc tản nhiệt giá rẻ hiệu năng ngon mà mình đang xài]]></title>
+        <id>https://tinhte.vn/thread/3522801/</id>
+        <link href="https://tinhte.vn/thread/chia-se-voi-anh-em-chiec-tan-nhiet-gia-re-hieu-nang-ngon-ma-minh-dang-xai.3522801/"/>
+        <updated>2022-05-27T00:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Đây là chiếc tản nhiệt khí giá 600k mà mình đang xài, thấy hiệu năng của nó tốt trong tầm giá nên chia sẻ với anh em. Thiết kế của Deepcool AK400 khiến mình bị thu hút. Trước đến giờ mình vẫn...]]></summary>
+        <author>
+            <name>bk9sw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the odds that some idiot will name his mutex ether-rot-mutex (2017)]]></title>
+        <id>http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html</id>
+        <link href="http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html"/>
+        <updated>2022-05-26T23:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rash of parts thefts is leaving Freightliner trucks inoperable]]></title>
+        <id>https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck</id>
+        <link href="https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck"/>
+        <updated>2022-05-26T23:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech bán ra MX Master 3S: Tăng độ nhạy, giảm độ ồn, thêm màu mới, giá không đổi]]></title>
+        <id>https://tinhte.vn/thread/3522968/</id>
+        <link href="https://tinhte.vn/thread/logitech-ban-ra-mx-master-3s-tang-do-nhay-giam-do-on-them-mau-moi-gia-khong-doi.3522968/"/>
+        <updated>2022-05-26T23:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Logitech ra mắt MX Master 3S - thế hệ tiếp nối của MX Master 3 đã 2 năm tuổi với những nâng cấp đáng giá như:
+ 
+[ATTACH]
+Độ nhạy chuột được tăng lên gấp đôi, từ 4000 DPI lên 8000 DPI.
+ 
+[ATTACH]...]]></summary>
         <author>
             <name>Trần Hoàng Long.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Infographic] Top 10 mỏ vàng có sản lượng khai thác lớn nhất thế giới]]></title>
-        <id>https://tinhte.vn/thread/3522163/</id>
-        <link href="https://tinhte.vn/thread/infographic-top-10-mo-vang-co-san-luong-khai-thac-lon-nhat-the-gioi.3522163/"/>
-        <updated>2022-05-26T00:38:13.000Z</updated>
-        <summary type="html"><![CDATA[10 mỏ vàng lớn nhất nằm trên 9 quốc gia khác nhau ở Bắc Mỹ, Châu Đại Dương, Châu Phi và Châu Á. Với tổng sản lượng khoảng 13 triệu ounce ~ 400 tấn tương đương 12% sản lượng vàng toàn cầu vào năm...]]></summary>
+        <title type="html"><![CDATA[I was blackmailed – any YouTuber could be next (2020)]]></title>
+        <id>https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/</id>
+        <link href="https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/"/>
+        <updated>2022-05-26T22:45:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
         <author>
-            <name>BaroTo</name>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Đánh giá chi tiết DJI Mini 3 Pro - chiếc flycam đáng mua nhất trong năm 2022]]></title>
-        <id>https://tinhte.vn/thread/3521833/</id>
-        <link href="https://tinhte.vn/thread/danh-gia-chi-tiet-dji-mini-3-pro-chiec-flycam-dang-mua-nhat-trong-nam-2022.3521833/"/>
-        <updated>2022-05-26T00:37:05.000Z</updated>
-        <summary type="html"><![CDATA[DJI Mini 3 Pro đem lại cho mình rất nhiều cảm xúc, nghe tin VJshop Đà Nẵng có hàng là mình bay thẳng ra đó mua luôn, chuyến đi nhiều hình đẹp, mua được máy xịn, quá đã.
- 
-[ATTACH]
-Một lần nửa cảm...]]></summary>
+        <title type="html"><![CDATA[Sử dụng tâm lý học: Bậc thầy PR Edward Bernays đã đánh lừa người Mỹ tiêu thụ trứng và thịt xông khói]]></title>
+        <id>https://tinhte.vn/thread/3522940/</id>
+        <link href="https://tinhte.vn/thread/su-dung-tam-ly-hoc-bac-thay-pr-edward-bernays-da-danh-lua-nguoi-my-tieu-thu-trung-va-thit-xong-khoi.3522940/"/>
+        <updated>2022-05-26T22:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Nếu bạn nghĩ thịt xông khói và trứng tạo nên một bữa sáng ngon lành, thuốc lá như một cơ hội bình đẳng cho cả đàn ông và phụ nữ, còn bia là một thức uống cho những người tiêu thụ đồ uống có cồn...]]></summary>
+        <author>
+            <name>blueJune</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola sẽ ra mắt điện thoại có camera độ phân giải 200MP vào mùa hè năm nay]]></title>
+        <id>https://tinhte.vn/thread/3522679/</id>
+        <link href="https://tinhte.vn/thread/motorola-se-ra-mat-dien-thoai-co-camera-do-phan-giai-200mp-vao-mua-he-nam-nay.3522679/"/>
+        <updated>2022-05-26T21:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm Snapdragon 8+ Gen 1 đã giúp các hãng điện thoại tiến một bước xa hơn trong cuộc chạy đua về camera trên thiết bị di động. Ngày càng có nhiều điện thoại có khả năng quay 8K, trang bị cảm...]]></summary>
         <author>
             <name>Nhà Của Cáo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So sánh Samsung Galaxy Tab S8 Ultra và iPad Pro M1 12.9: máy nào đáp ứng công việc tốt hơn?]]></title>
-        <id>https://tinhte.vn/thread/3521845/</id>
-        <link href="https://tinhte.vn/thread/so-sanh-samsung-galaxy-tab-s8-ultra-va-ipad-pro-m1-12-9-may-nao-dap-ung-cong-viec-tot-hon.3521845/"/>
-        <updated>2022-05-26T00:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Mình đã sử dụng iPad Pro M1 12.9 inch để thay thế cho Macbook được gần nửa năm, mọi thứ đều đang vận hành ổn và mình sẽ có 1 bài chia sẻ về việc này sau. Nhân dịp mượn được 1 cái Galaxy Tab S8...]]></summary>
+        <title type="html"><![CDATA[DjangoCon US 2022: Call for Proposals]]></title>
+        <id>https://pretalx.com/djangocon-2022/cfp</id>
+        <link href="https://pretalx.com/djangocon-2022/cfp"/>
+        <updated>2022-05-26T21:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlloyDB for PostgreSQL Columnar Engine]]></title>
+        <id>https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine</id>
+        <link href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"/>
+        <updated>2022-05-26T21:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's done in hardware so it's cheap (2012)]]></title>
+        <id>https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html</id>
+        <link href="https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html"/>
+        <updated>2022-05-26T21:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release (YC W20) Is Hiring – Mid Level Full Stack Engineers]]></title>
+        <id>https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js</id>
+        <link href="https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js"/>
+        <updated>2022-05-26T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FriendDA]]></title>
+        <id>https://friendda.org/</id>
+        <link href="https://friendda.org/"/>
+        <updated>2022-05-26T20:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux 9]]></title>
+        <id>https://almalinux.org/blog/almalinux-9-now-available/</id>
+        <link href="https://almalinux.org/blog/almalinux-9-now-available/"/>
+        <updated>2022-05-26T20:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ẩn sau lớp bồ hóng và phân chim dày đặc là những bức điêu khắc tuyệt đẹp từ thời Ai Cập cổ đại]]></title>
+        <id>https://tinhte.vn/thread/3522991/</id>
+        <link href="https://tinhte.vn/thread/an-sau-lop-bo-hong-va-phan-chim-day-dac-la-nhung-buc-dieu-khac-tuyet-dep-tu-thoi-ai-cap-co-dai.3522991/"/>
+        <updated>2022-05-26T20:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Mới đây, các nhà khảo cổ vừa phát hiện 46 bức điêu khắc tuyệt đẹp về các nữ thần Ai Cập thời cổ đại đã bị chôn vùi suốt ngần ấy năm dưới những lớp bồ hóng và phân chim. Theo đó, những điêu khắc...]]></summary>
+        <author>
+            <name>_vphlinh_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Graph Paper]]></title>
+        <id>https://virtual-graph-paper.com/</id>
+        <link href="https://virtual-graph-paper.com/"/>
+        <updated>2022-05-26T19:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The billable hour is a trap into which more and more of us are falling]]></title>
+        <id>https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling/</id>
+        <link href="https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling/"/>
+        <updated>2022-05-26T19:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack JavaScript Development]]></title>
+        <id>https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/</id>
+        <link href="https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/"/>
+        <updated>2022-05-26T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String.Split() Example with RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/"/>
+        <updated>2022-05-26T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you use RegEx to match patterns in characters. Combining this with the .split() string method gives you more splitting powers. The string constructor has many useful methods [https://dillionmegida.com/p/10-useful-string-methods-in-javascript/], one of which is the split() method. You use this method to split a string into an array of substrings]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major discoveries made by mathematicians past age 50 (2010)]]></title>
+        <id>https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty</id>
+        <link href="https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty"/>
+        <updated>2022-05-26T18:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Power Beaming Gets Real]]></title>
+        <id>https://spectrum.ieee.org/power-beaming</id>
+        <link href="https://spectrum.ieee.org/power-beaming"/>
+        <updated>2022-05-26T18:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautify GitHub Profile]]></title>
+        <id>https://css-tricks.com/?p=366107</id>
+        <link href="https://css-tricks.com/beautify-github-profile/"/>
+        <updated>2022-05-26T18:13:28.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …
+Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nghiên cứu của CDC cho thấy 1/5 số người dưới 65 từng mắc virus có triệu chứng covid kéo dài]]></title>
+        <id>https://tinhte.vn/thread/3523053/</id>
+        <link href="https://tinhte.vn/thread/nghien-cuu-cua-cdc-cho-thay-1-5-so-nguoi-duoi-65-tung-mac-virus-co-trieu-chung-covid-keo-dai.3523053/"/>
+        <updated>2022-05-26T17:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Kết quả này có được dựa vào nghiên cứu diện rộng của phía CDC Mỹ để có thể đưa ra định hướng đánh giá hỗ trợ, điều trị những người đã mắc covid. Con số này đối với người trên 65 còn cao hơn khi cứ...]]></summary>
+        <author>
+            <name>Hassler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chưa bao giờ cầm cái USB Dac mini nào nhỏ mà…đắt như em ifi Go Bar này. Tận 8.000.000]]></title>
+        <id>https://tinhte.vn/thread/3520671/</id>
+        <link href="https://tinhte.vn/thread/chua-bao-gio-cam-cai-usb-dac-mini-nao-nho-madat-nhu-em-ifi-go-bar-nay-tan-8-000-000.3520671/"/>
+        <updated>2022-05-26T16:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Chưa bao giờ cầm cái USB Dac mini nào nhỏ mà…đắt như em này. Tận 8.000.000 :joy:
+Anyway, cũng có một số điểm mạnh cần nêu ra:
+- Là DAC Full Balance, có ngõ 4.4mm output và 3.5mm output
+- Hỗ trợ...]]></summary>
+        <author>
+            <name>AudioPsycho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Linux 5.10 patch has caused user-space regressions]]></title>
+        <id>https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/</id>
+        <link href="https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/"/>
+        <updated>2022-05-26T16:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which dinosaurs lived in your hometown?]]></title>
+        <id>https://dinosaurpictures.org/ancient-earth#260</id>
+        <link href="https://dinosaurpictures.org/ancient-earth#260"/>
+        <updated>2022-05-26T16:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESPHome – Connect ESP32 with Sensors to HomeAssistant]]></title>
+        <id>https://esphome.io/index.html</id>
+        <link href="https://esphome.io/index.html"/>
+        <updated>2022-05-26T16:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PyScript – A Python Frontend Framework]]></title>
+        <id>https://www.freecodecamp.org/news/pyscript-python-front-end-framework/</id>
+        <link href="https://www.freecodecamp.org/news/pyscript-python-front-end-framework/"/>
+        <updated>2022-05-26T15:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Python has grown in popularity immensely in recent years. It has a wide range of applications, from its most popular use in Artificial Intelligence, to Data Science, Robotics, and Scripting.  In the web development field, Python is used mainly on the backend with frameworks such as Django and Flask.]]></summary>
+        <author>
+            <name>Ifihanagbara Olusheye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical Scope in JavaScript – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/lexical-scope-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/lexical-scope-in-javascript/"/>
+        <updated>2022-05-26T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to understand what lexical scope is by going through some helpful examples.  We will also have a brief discussion about how JavaScript compiles and executes programs.  Lastly, we will have a look at how you can use lexical scope to explain undeclared]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Đây là hệ thống camera Street View mới sẽ được Google sử dụng trong tương lai]]></title>
+        <id>https://tinhte.vn/thread/3522816/</id>
+        <link href="https://tinhte.vn/thread/day-la-he-thong-camera-street-view-moi-se-duoc-google-su-dung-trong-tuong-lai.3522816/"/>
+        <updated>2022-05-26T15:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Bắt đầu lăn bánh tại 5 thành phố ở Mỹ hồi năm 2007, những chiếc xe Google Street View sau đó xuất hiện khắp nơi trên toàn thế giới, nổi bật với hệ thống camera hầm hố gắn trên nóc nhằm chụp ảnh để...]]></summary>
         <author>
             <name>MinhTriND</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing blur from images – deconvolution and using simple image filters]]></title>
+        <id>https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/</id>
+        <link href="https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/"/>
+        <updated>2022-05-26T15:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[QC] 25 năm dẫn đầu doanh số tải nhẹ, thứ Suzuki bán là sự tin cậy]]></title>
+        <id>https://tinhte.vn/thread/3522674/</id>
+        <link href="https://tinhte.vn/thread/qc-25-nam-dan-dau-doanh-so-tai-nhe-thu-suzuki-ban-la-su-tin-cay.3522674/"/>
+        <updated>2022-05-26T14:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Hơn 25 năm qua, những sản phẩm của Suzuki như Carry Pro, Carry Truck, Blind Van luôn chiếm lĩnh “ngôi vương” thị trường nhờ độ tin cậy và lợi ích kinh tế dài hạn cho các doanh nghiệp.
+ 
+[ATTACH]...]]></summary>
+        <author>
+            <name>TTKM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components]]></title>
+        <id>https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/"/>
+        <updated>2022-05-26T14:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3 Fiddle]]></title>
+        <id>https://sqlite.org/fiddle/</id>
+        <link href="https://sqlite.org/fiddle/"/>
+        <updated>2022-05-26T14:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Life of a Backpacker in Asia in the 1970s]]></title>
+        <id>https://www.perceptivetravel.com/issues/1218/kelly.html</id>
+        <link href="https://www.perceptivetravel.com/issues/1218/kelly.html"/>
+        <updated>2022-05-26T14:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D]]></title>
+        <id>https://css-tricks.com/?p=365946</id>
+        <link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
+        <updated>2022-05-26T14:13:01.000Z</updated>
+        <summary type="html"><![CDATA[We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …
+Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hifiman Sundara- Nữ hoàng của những lời ngợi khen!]]></title>
+        <id>https://tinhte.vn/thread/3492485/</id>
+        <link href="https://tinhte.vn/thread/hifiman-sundara-nu-hoang-cua-nhung-loi-ngoi-khen.3492485/"/>
+        <updated>2022-05-26T14:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Hifiman; cái tên có tiếng trong giới audiophile với các dòng tai nghe sử dụng drivẻ planar và Sundara ắt hẳn không ít lần được nhắc tới với người chơi tai nghe.
+Nhiều trang đánh giá ví von Sundara...]]></summary>
+        <author>
+            <name>Jasmine23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists Rewrite the Fundamental Law That Leads to Disorder]]></title>
+        <id>https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/</id>
+        <link href="https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/"/>
+        <updated>2022-05-26T13:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Mind blowing’ ancient settlements uncovered in the Amazon]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01458-9</id>
+        <link href="https://www.nature.com/articles/d41586-022-01458-9"/>
+        <updated>2022-05-26T13:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-cost gel film can pluck drinking water from desert air]]></title>
+        <id>https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/</id>
+        <link href="https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/"/>
+        <updated>2022-05-26T13:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Collison Brothers Built Stripe into a $95B Unicorn]]></title>
+        <id>https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/</id>
+        <link href="https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/"/>
+        <updated>2022-05-26T12:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Walk Underground from Liverpool Street to Farringdon]]></title>
+        <id>https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html</id>
+        <link href="https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html"/>
+        <updated>2022-05-26T11:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage Accessible Design System Themes With CSS Color-Contrast()]]></title>
+        <id>https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/</id>
+        <link href="https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/"/>
+        <updated>2022-05-26T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Yuschik)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Big Data]]></title>
+        <id>https://benn.substack.com/p/the-end-of-big-data</id>
+        <link href="https://benn.substack.com/p/the-end-of-big-data"/>
+        <updated>2022-05-26T08:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friends don’t let friends train small diffusion models]]></title>
+        <id>https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/</id>
+        <link href="https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/"/>
+        <updated>2022-05-26T02:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -155,96 +576,6 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows Update vs. My Router]]></title>
-        <id>https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php</id>
-        <link href="https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php"/>
-        <updated>2022-05-26T00:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Các trang web dễ gây ám ảnh cần cân nhắc trước khi vào xem]]></title>
-        <id>https://tinhte.vn/thread/3521968/</id>
-        <link href="https://tinhte.vn/thread/cac-trang-web-de-gay-am-anh-can-can-nhac-truoc-khi-vao-xem.3521968/"/>
-        <updated>2022-05-26T00:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Có rất nhiều trang web thú vị cùng nội dung có thể gây ám ảnh từ nhẹ nhàng cho tới “nặng đô”, bạn có bao giờ cố tìm ra chúng để trải nghiệm chưa, sau đây là một số trang thú vị để thưởng thức....]]></summary>
-        <author>
-            <name>Majaaa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple And Terrible Machines]]></title>
-        <id>https://noncombatant.org/2022/05/22/simple-terrible-machines/</id>
-        <link href="https://noncombatant.org/2022/05/22/simple-terrible-machines/"/>
-        <updated>2022-05-25T23:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Original Pong did not have any code or even a microprocessor]]></title>
-        <id>https://www.falstad.com/pong/</id>
-        <link href="https://www.falstad.com/pong/"/>
-        <updated>2022-05-25T22:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We use Dependabot to secure GitHub]]></title>
-        <id>https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/</id>
-        <link href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/"/>
-        <updated>2022-05-25T22:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty MWII: Đây là Soap, Ghost và đại úy Price của năm 2022, anh em có thấy khác nhiều không?]]></title>
-        <id>https://tinhte.vn/thread/3522592/</id>
-        <link href="https://tinhte.vn/thread/call-of-duty-mwii-day-la-soap-ghost-va-dai-uy-price-cua-nam-2022-anh-em-co-thay-khac-nhieu-khong.3522592/"/>
-        <updated>2022-05-25T22:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Gọi trilogy Modern Warfare là ba bản game Call of Duty được nhiều anh em Việt Nam yêu mến nhất, có lẽ cũng sẽ chẳng nhiều người bắt bẻ hay phàn nàn. Vậy nên khi Infinity Ward ra mắt bản reboot của...]]></summary>
-        <author>
-            <name>P.W</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard]]></title>
-        <id>https://tunnel.pyjam.as/</id>
-        <link href="https://tunnel.pyjam.as/"/>
-        <updated>2022-05-25T22:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Apple of the Midwest fell apart]]></title>
-        <id>https://www.grid.news/story/technology/2022/03/15/when-the-midwest-was-a-tech-hub/</id>
-        <link href="https://www.grid.news/story/technology/2022/03/15/when-the-midwest-was-a-tech-hub/"/>
-        <updated>2022-05-25T22:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon]]></title>
-        <id>https://www.nature.com/articles/s41586-022-04780-4</id>
-        <link href="https://www.nature.com/articles/s41586-022-04780-4"/>
-        <updated>2022-05-25T21:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
         <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
@@ -255,30 +586,20 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTC fines Twitter $150M for using 2FA phone numbers for ad targeting]]></title>
-        <id>https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again</id>
-        <link href="https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again"/>
-        <updated>2022-05-25T21:32:46.000Z</updated>
+        <title type="html"><![CDATA[Parsing JSON faster with Intel AVX-512]]></title>
+        <id>https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/</id>
+        <link href="https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/"/>
+        <updated>2022-05-25T21:29:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mời tham dự Workshop "Hướng Dẫn Những Kỹ Thuật Cơ Bản Khi Chụp Chân Dung cùng Hafoto Training"]]></title>
-        <id>https://tinhte.vn/thread/3522607/</id>
-        <link href="https://tinhte.vn/thread/moi-tham-du-workshop-huong-dan-nhung-ky-thuat-co-ban-khi-chup-chan-dung-cung-hafoto-training.3522607/"/>
-        <updated>2022-05-25T21:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Sáng thứ 7, mời anh em tham gia buổi Workshop Hướng Dẩn Những Kỹ Thuật Cơ Bản Khi Chụp Chân Dung cùng Hafoto Training tại Tinhte. Đây là buổi Workshop nhằm hướng dẫn các bạn những kỹ thuật cơ bản...]]></summary>
-        <author>
-            <name>Nhà Của Cáo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)]]></title>
-        <id>https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station</id>
-        <link href="https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station"/>
-        <updated>2022-05-25T21:15:10.000Z</updated>
+        <title type="html"><![CDATA[Missing Link Between Alzheimer’s and Vascular Disease Found?]]></title>
+        <id>https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found</id>
+        <link href="https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found"/>
+        <updated>2022-05-25T21:10:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -295,165 +616,13 @@ Customizing Color Fonts on the Web originally published on CSS-Tricks. You shoul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heroku GitHub integration finally coming back online after a month offline]]></title>
-        <id>https://blog.heroku.com/github-integration-update</id>
-        <link href="https://blog.heroku.com/github-integration-update"/>
-        <updated>2022-05-25T21:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
+        <title type="html"><![CDATA[How to Test React Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-test-react-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications/"/>
+        <updated>2022-05-25T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to make sure that your React apps work as intended, it is important to write comprehensive tests. We just published a React testing course on the freeCodeCamp.org YouTube channel that will teach you how to build, deploy,]]></summary>
         <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a next-gen cloud]]></title>
-        <id>https://www.paperspace.com/careers#open-positions</id>
-        <link href="https://www.paperspace.com/careers#open-positions"/>
-        <updated>2022-05-25T21:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InSight's Final Selfie]]></title>
-        <id>https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie</id>
-        <link href="https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie"/>
-        <updated>2022-05-25T20:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Vulnerability in Tor Browser]]></title>
-        <id>https://darknetlive.com/post/psa-security-vuln-in-tor-browser/</id>
-        <link href="https://darknetlive.com/post/psa-security-vuln-in-tor-browser/"/>
-        <updated>2022-05-25T20:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniformly Sample Points in a Disk]]></title>
-        <id>https://twitter.com/keenanisalive/status/1529490555893428226</id>
-        <link href="https://twitter.com/keenanisalive/status/1529490555893428226"/>
-        <updated>2022-05-25T19:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8-bit number to binary string (2013)]]></title>
-        <id>https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010</id>
-        <link href="https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010"/>
-        <updated>2022-05-25T19:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows]]></title>
-        <id>https://minikube.sigs.k8s.io/docs/</id>
-        <link href="https://minikube.sigs.k8s.io/docs/"/>
-        <updated>2022-05-25T19:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Arctype, a cross-platform database GUI for developers and teams]]></title>
-        <id>https://arctype.com/</id>
-        <link href="https://arctype.com/"/>
-        <updated>2022-05-25T18:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trên tay Đèn khử khuẩn LumiNano405 Mini]]></title>
-        <id>https://tinhte.vn/thread/3517895/</id>
-        <link href="https://tinhte.vn/thread/tren-tay-den-khu-khuan-luminano405-mini.3517895/"/>
-        <updated>2022-05-25T17:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Đây là đèn Luminano 405 mini có khả năng tạo ra ánh sáng với bước sóng 405nm để tiêu diệt mầm bệnh, vi khuẩn,… trong không gian sống. Kích thước có phần cầu kỳ nhưng đây là bản mini, có thể sử...]]></summary>
-        <author>
-            <name>Chill With Dan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Build 2022] Project Volterra: mini PC chạy SoC Snapdragon với Windows ARM dành cho nhà phát triển]]></title>
-        <id>https://tinhte.vn/thread/3522484/</id>
-        <link href="https://tinhte.vn/thread/build-2022-project-volterra-mini-pc-chay-soc-snapdragon-voi-windows-arm-danh-cho-nha-phat-trien.3522484/"/>
-        <updated>2022-05-25T17:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft hôm nay đã giới thiệu chiếc máy tính đầu tiên của mình chạy SoC Snapdragon của Qualcomm dựa trên nền tảng ARM dành cho các lập trình viên, với codename là Project Volterra, trong khuôn...]]></summary>
-        <author>
-            <name>Pnghuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolt announces layoffs]]></title>
-        <id>https://www.bolt.com/blog/message-from-bolt-ceo</id>
-        <link href="https://www.bolt.com/blog/message-from-bolt-ceo"/>
-        <updated>2022-05-25T17:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2022 core update releasing for Google Search]]></title>
-        <id>https://developers.google.com/search/blog/2022/05/may-2022-core-update</id>
-        <link href="https://developers.google.com/search/blog/2022/05/may-2022-core-update"/>
-        <updated>2022-05-25T16:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zettelkasten, linking your thinking, and Nick Milo's search for ground]]></title>
-        <id>https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/</id>
-        <link href="https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/"/>
-        <updated>2022-05-25T16:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python utility for tracking third party dependencies within a library]]></title>
-        <id>https://github.com/IBM/import-tracker</id>
-        <link href="https://github.com/IBM/import-tracker"/>
-        <updated>2022-05-25T16:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[figlet – a program for making large letters out of ordinary text]]></title>
-        <id>http://www.figlet.org/</id>
-        <link href="http://www.figlet.org/"/>
-        <updated>2022-05-25T16:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tranh cãi tháp nhu cầu Maslow không phải do Maslow tạo ra]]></title>
-        <id>https://tinhte.vn/thread/3522499/</id>
-        <link href="https://tinhte.vn/thread/tranh-cai-thap-nhu-cau-maslow-khong-phai-do-maslow-tao-ra.3522499/"/>
-        <updated>2022-05-25T15:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Bài viết kể lại buổi hỏi đáp với ba nhà điều tra về nghi vấn tháp nhu cầu Maslow thực tế không phải do Abraham Maslow tạo ra.
- 
-Abraham Maslow là nhà tâm lý học người Mỹ, được thế giới công nhận...]]></summary>
-        <author>
-            <name>Quyền.Vũ</name>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -467,16 +636,6 @@ Abraham Maslow là nhà tâm lý học người Mỹ, được thế giới côn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DARPA moving forward with nuclear thermal engine design]]></title>
-        <id>https://orbitalindex.com/archive/2022-05-25-Issue-170/</id>
-        <link href="https://orbitalindex.com/archive/2022-05-25-Issue-170/"/>
-        <updated>2022-05-25T15:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript Promises for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/javascript-promises-for-beginners/</id>
         <link href="https://www.freecodecamp.org/news/javascript-promises-for-beginners/"/>
@@ -484,6 +643,16 @@ Abraham Maslow là nhà tâm lý học người Mỹ, được thế giới côn
         <summary type="html"><![CDATA[In JavaScript, a promise is a placeholder (proxy) for the value of an ongoing operation. You typically use a promise to manage situations where you must wait for the outcome of an operation. For example, uploading files to the server and awaiting the response of an API call, or just]]></summary>
         <author>
             <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T14:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -498,36 +667,6 @@ A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: VideoMentions – Search YouTube based on the spoken words in videos]]></title>
-        <id>https://videomentions.com/search</id>
-        <link href="https://videomentions.com/search"/>
-        <updated>2022-05-25T13:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What game do you wish existed?]]></title>
-        <id>https://news.ycombinator.com/item?id=31503201</id>
-        <link href="https://news.ycombinator.com/item?id=31503201"/>
-        <updated>2022-05-25T11:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Review] Elgato Wave Mic Arm bản độ, chiếc Mic Arm tốt hơn cái mức giá 2tr9 của nó.]]></title>
-        <id>https://tinhte.vn/thread/3522294/</id>
-        <link href="https://tinhte.vn/thread/review-elgato-wave-mic-arm-ban-do-chiec-mic-arm-tot-hon-cai-muc-gia-2tr9-cua-no.3522294/"/>
-        <updated>2022-05-25T11:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Elgato Wave mic có một mức giá thật sự khiến hầu hết anh em ở Vn lè lưỡi lắc đầu vì nó chênh lệch gần như gấp 6 lần những cái Arm bình dân và ít nhất là gấp 2.5 lần những cái arm có tên tuổi khác...]]></summary>
-        <author>
-            <name>pro-k</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding Weak Reference In JavaScript]]></title>
         <id>https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/</id>
         <link href="https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/"/>
@@ -538,80 +677,10 @@ A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go: Functional Options Are Slow]]></title>
-        <id>https://www.evanjones.ca/go-functional-options-slow.html</id>
-        <link href="https://www.evanjones.ca/go-functional-options-slow.html"/>
-        <updated>2022-05-25T03:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type 'float' [SOLVED]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/"/>
-        <updated>2022-05-24T23:30:53.000Z</updated>
-        <summary type="html"><![CDATA[When coding, you're likely to encounter errors. Error messages, in most cases, help you understand what the error is about. And understanding an error message is one of the steps in solving an error.  In this article, we'll talk about an error in Python – the "TypeError: can't multiply]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Caps in CSS - How to Uppercase Text with Style]]></title>
-        <id>https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/</id>
-        <link href="https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/"/>
-        <updated>2022-05-24T21:02:28.000Z</updated>
-        <summary type="html"><![CDATA[When you're designing a website or working on a project, you might want to use uppercase text for various reasons. Maybe you want to use an abbreviation or acronym, emphasize certain text, or use it for headings. There are multiple ways to uppercase text in HTML. The first way is]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gödel Metric]]></title>
-        <id>https://en.wikipedia.org/wiki/G%C3%B6del_metric</id>
-        <link href="https://en.wikipedia.org/wiki/G%C3%B6del_metric"/>
-        <updated>2022-05-24T20:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Code Editor with React that Compiles and Executes in 40+ Languages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/"/>
-        <updated>2022-05-24T16:54:28.000Z</updated>
-        <summary type="html"><![CDATA[An online code execution platform lets you write code in your favourite programming language and run that code on the same platform.  You can ideally see an output of the program that you've written (for example, a binary search program written in JavaScript). Today, we are going to build]]></summary>
-        <author>
-            <name>Manu Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Round to Int – How to Round Up or Round Down to the Nearest Whole Number]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/"/>
-        <updated>2022-05-24T16:52:40.000Z</updated>
-        <summary type="html"><![CDATA[When working with float values (numbers with decimal values) in our Python program, we might want to round them up or down, or to the nearest whole number.  In this article, we'll see some built-in functionalities that let us round numbers in Python. And we'll see how to use]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Muse 2.0 with local-first sync]]></title>
-        <id>https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/</id>
-        <link href="https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/"/>
-        <updated>2022-05-24T16:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California parents could soon sue for social media addiction]]></title>
-        <id>https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124</id>
-        <link href="https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124"/>
-        <updated>2022-05-24T15:14:44.000Z</updated>
+        <title type="html"><![CDATA[To learn more quickly, brain cells break their DNA (2021)]]></title>
+        <id>https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/</id>
+        <link href="https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/"/>
+        <updated>2022-05-24T21:52:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -640,16 +709,6 @@ Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Nightmare of Getting Doom Running on a RS/6000 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=XzhCGSE7KKw</id>
-        <link href="https://www.youtube.com/watch?v=XzhCGSE7KKw"/>
-        <updated>2022-05-23T22:27:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
         <id>https://css-tricks.com/?p=365992</id>
         <link href="https://css-tricks.com/first-look-at-the-css-object-view-box-property/"/>
@@ -673,16 +732,6 @@ Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Istio – How to Manage, Monitor, and Secure Microservices]]></title>
-        <id>https://www.freecodecamp.org/news/learn-istio-manage-microservices/</id>
-        <link href="https://www.freecodecamp.org/news/learn-istio-manage-microservices/"/>
-        <updated>2022-05-23T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Three years ago, I wrote an article titled "Back to Microservices with Istio" [https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53]  for Google Cloud Community. I published it there to reach people interested in the latest technologies built on top of Kubernetes.  At that point, Istio was a niche technology. But fast-forward three years, and:]]></summary>
-        <author>
-            <name>Rinor Maloku</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lesser-Known And Underused CSS Features In 2022]]></title>
         <id>https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/</id>
         <link href="https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/"/>
@@ -703,16 +752,6 @@ That would be Glenn Davis and the Verevolf site Zeldman’s talking about. The �
 Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find and Fix Security Vulnerabilities Using Snyk]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/"/>
-        <updated>2022-05-20T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
     <entry>
@@ -873,19 +912,6 @@ COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s Create a Tiny Programming Language]]></title>
-        <id>https://css-tricks.com/?p=365650</id>
-        <link href="https://css-tricks.com/lets-create-a-tiny-programming-language/"/>
-        <updated>2022-05-10T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:
-A programming language is any set of rules that convert 
-…
-Let’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Md Shuvo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Magical SVG Techniques]]></title>
         <id>https://smashingmagazine.com/2022/05/magical-svg-techniques/</id>
         <link href="https://smashingmagazine.com/2022/05/magical-svg-techniques/"/>
@@ -893,17 +919,6 @@ Let’s Create a Tiny Programming Language originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
-        <id>https://css-tricks.com/?p=365579</id>
-        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
-        <updated>2022-05-09T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
-Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
@@ -984,16 +999,6 @@ Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You sh
         <summary type="html"><![CDATA[In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nathan Smith)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting UX With Design KPIs]]></title>
-        <id>https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/</id>
-        <link href="https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/"/>
-        <updated>2022-04-27T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
