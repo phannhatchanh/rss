@@ -6,304 +6,304 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201",
+          "id": "https://jasonmorrissc.github.io/post/2022-02-24_no-code/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201",
-          "publishedOn": "2022-06-22T00:46:34.000Z",
-          "wordCount": 10711,
-          "title": "TerraUSD Crash Led to Vanished Savings, Shattered Dreams",
-          "imageUrl": "https://images.wsj.net/im-552520/social"
-        },
-        {
-          "id": "https://obsproject.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://obsproject.com/",
-          "publishedOn": "2022-06-21T22:55:16.000Z",
-          "wordCount": 563,
-          "title": "OBS – Open Broadcaster Software",
+          "link": "https://jasonmorrissc.github.io/post/2022-02-24_no-code/",
+          "publishedOn": "2022-06-22T23:46:04.000Z",
+          "wordCount": 1627,
+          "title": "Code vs. No-Code",
           "imageUrl": null
         },
         {
-          "id": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md",
+          "id": "https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/",
           "author": null,
           "description": "Comments",
-          "link": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md",
-          "publishedOn": "2022-06-21T22:51:51.000Z",
-          "wordCount": null,
-          "title": "Experimenting with Rust in Chromium",
+          "link": "https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/",
+          "publishedOn": "2022-06-22T23:41:52.000Z",
+          "wordCount": 1154,
+          "title": "Users preferred the less straightforward UX and I finally understand why",
+          "imageUrl": "https://blog.pwego.com/content/images/2022/06/sdsd.jpeg"
+        },
+        {
+          "id": "https://www.exploratorium.edu/files/exhibits/ladle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.exploratorium.edu/files/exhibits/ladle/",
+          "publishedOn": "2022-06-22T21:18:12.000Z",
+          "wordCount": 511,
+          "title": "Ladle Rat Rotten Hut (1940)",
           "imageUrl": null
         },
         {
-          "id": "https://www.aptible.com/careers/",
+          "id": "https://www.crocodile.dev/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.aptible.com/careers/",
-          "publishedOn": "2022-06-21T21:31:57.000Z",
-          "wordCount": 2113,
-          "title": "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
+          "link": "https://www.crocodile.dev/",
+          "publishedOn": "2022-06-22T20:07:32.000Z",
+          "wordCount": 572,
+          "title": "Show HN: Crocodile - Better code review for GitHub",
           "imageUrl": null
         },
         {
-          "id": "https://github.com/sachaos/viddy",
+          "id": "https://lbrito1.github.io/blog/2020/02/repurposing-android.html",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/sachaos/viddy",
-          "publishedOn": "2022-06-21T21:31:13.000Z",
-          "wordCount": 788,
-          "title": "Viddy: A modern watch command. Time machine and pager etc.",
-          "imageUrl": "https://repository-images.githubusercontent.com/395917032/8a8f7385-61b6-4092-9c1d-df762dcae4c3"
+          "link": "https://lbrito1.github.io/blog/2020/02/repurposing-android.html",
+          "publishedOn": "2022-06-22T19:55:50.000Z",
+          "wordCount": 1124,
+          "title": "Repurposing an old Android phone as a web server",
+          "imageUrl": "https://lbrito1.github.io/blog/blog/assets/images/2020/old-android.jpg"
         },
         {
-          "id": "https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house",
+          "id": "https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges",
           "author": null,
           "description": "Comments",
-          "link": "https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house",
-          "publishedOn": "2022-06-21T21:30:39.000Z",
-          "wordCount": 14100,
-          "title": "Jennifer Egan's Fiction and Visions of the Future",
-          "imageUrl": "https://media.newyorker.com/photos/629f6a82092f50447dccc18f/16:9/w_1280,c_limit/tnylive-egan.jpg"
+          "link": "https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges",
+          "publishedOn": "2022-06-22T19:19:55.000Z",
+          "wordCount": 4244,
+          "title": "The Evolution of THC Vape Cartridges",
+          "imageUrl": "https://gentlemantoker.com/storage/1791/conversions/liquid-gold-evolution-thc-vape-cartridges_feature_6-17-22-medium-size.webp"
         },
         {
-          "id": "https://fixphrase.com/",
+          "id": "https://grugbrain.dev/",
           "author": null,
           "description": "Comments",
-          "link": "https://fixphrase.com/",
-          "publishedOn": "2022-06-21T21:22:11.000Z",
-          "wordCount": 175,
-          "title": "FixPhrase – open-source, patent-free what3words alternative",
-          "imageUrl": "https://fixphrase.com/img/socialcard.png"
-        },
-        {
-          "id": "https://mega-awry.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mega-awry.io/",
-          "publishedOn": "2022-06-21T21:09:59.000Z",
-          "wordCount": 4789,
-          "title": "MEGA: Malleable Encryption Goes Awry",
+          "link": "https://grugbrain.dev/",
+          "publishedOn": "2022-06-22T19:00:18.000Z",
+          "wordCount": 3948,
+          "title": "The Grug Brained Developer",
           "imageUrl": null
         },
         {
-          "id": "https://permacomputing.net/",
+          "id": "https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI",
           "author": null,
           "description": "Comments",
-          "link": "https://permacomputing.net/",
-          "publishedOn": "2022-06-21T20:16:02.000Z",
-          "wordCount": 222,
-          "title": "Permacomputing Wiki",
+          "link": "https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI",
+          "publishedOn": "2022-06-22T18:36:38.000Z",
+          "wordCount": 3803,
+          "title": "Dendron (YC W21) is hiring a senior web dev to build a better tool for thought",
           "imageUrl": null
         },
         {
-          "id": "https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/",
+          "id": "https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632",
           "author": null,
           "description": "Comments",
-          "link": "https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/",
-          "publishedOn": "2022-06-21T20:05:54.000Z",
-          "wordCount": 7189,
-          "title": "Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)",
-          "imageUrl": "https://www.statnews.com/wp-content/uploads/2019/06/AlzheimerDrugResearch_v2_Illustration_MollyFerguson_061919-1024x576.jpg"
+          "link": "https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632",
+          "publishedOn": "2022-06-22T18:31:33.000Z",
+          "wordCount": 1386,
+          "title": "Permissive forwarding rule leads to unintentional exposure of containers (2021)",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
-          "id": "https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires",
+          "id": "https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires",
-          "publishedOn": "2022-06-21T19:58:24.000Z",
-          "wordCount": 2400,
-          "title": "Electrocuted birds are sparking wildfires",
-          "imageUrl": "https://www.science.org/do/10.1126/science.add5467/abs/_20220617_on_electrocutedbirds_gettyimages-484683747.jpg"
+          "link": "https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html",
+          "publishedOn": "2022-06-22T18:11:24.000Z",
+          "wordCount": 1129,
+          "title": "How I would sell OpenBSD as a salesperson",
+          "imageUrl": "static/img/clyagLogo.png"
         },
         {
-          "id": "https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/",
+          "id": "https://shipilev.net/jvm/anatomy-quarks/10-string-intern/",
           "author": null,
           "description": "Comments",
-          "link": "https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/",
-          "publishedOn": "2022-06-21T19:42:01.000Z",
-          "wordCount": 2668,
-          "title": "TITO: Electric Argentine car",
-          "imageUrl": "https://argentinareports.com/wp-content/uploads/2022/06/60ddd9c9c92fd_950_534.jpeg"
-        },
-        {
-          "id": "https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md",
-          "publishedOn": "2022-06-21T19:38:00.000Z",
-          "wordCount": 2105,
-          "title": "HDMI Firewall",
-          "imageUrl": "https://git.cuvoodoo.info/avatars/a0a9a5969655692ff8d2070bc0a68c9f"
-        },
-        {
-          "id": "https://deno.com/blog/series-a",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deno.com/blog/series-a",
-          "publishedOn": "2022-06-21T18:33:40.000Z",
-          "wordCount": 796,
-          "title": "Deno raises $21M",
-          "imageUrl": "https://deno.com/series-a/deno-fund-202206.png"
-        },
-        {
-          "id": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
-          "publishedOn": "2022-06-21T18:29:07.000Z",
-          "wordCount": 55965,
-          "title": "The French repairability index – one year after its implementation [pdf]",
+          "link": "https://shipilev.net/jvm/anatomy-quarks/10-string-intern/",
+          "publishedOn": "2022-06-22T17:58:30.000Z",
+          "wordCount": 3047,
+          "title": "JVM Anatomy Quark #10: String.intern (2019)",
           "imageUrl": null
         },
         {
-          "id": "https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/",
+          "id": "https://parti.research.google/",
           "author": null,
           "description": "Comments",
-          "link": "https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/",
-          "publishedOn": "2022-06-21T18:24:53.000Z",
-          "wordCount": 8297,
-          "title": "X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass",
-          "imageUrl": "//developer.x-plane.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-22-at-11.12.30-AM.png"
-        },
-        {
-          "id": "https://www.gatesnotes.com/Energy/Clean-Hydrogen",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gatesnotes.com/Energy/Clean-Hydrogen",
-          "publishedOn": "2022-06-21T17:47:40.000Z",
-          "wordCount": 101498,
-          "title": "Cheap, green hydrogen would be a breakthrough in clean energy",
-          "imageUrl": "https://media.gatesnotes.com/-/media/Images/Articles/Energy/Clean-Hydrogen/be-hydrogen_2022_blogroll_800x494_01.ashx"
-        },
-        {
-          "id": "https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/",
-          "publishedOn": "2022-06-21T17:26:17.000Z",
-          "wordCount": 1672,
-          "title": "Wikimedia Enterprise announces Google and Internet Archive as first customers",
-          "imageUrl": "https://wikimediafoundation.org/wp-content/uploads/2022/06/Piran_Portoroz_Tunnel_Valetta-8031.jpg"
-        },
-        {
-          "id": "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/",
-          "publishedOn": "2022-06-21T17:24:38.000Z",
-          "wordCount": 5258,
-          "title": "A Life of One’s Own: Marion Milner",
-          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2015/02/thewellofbeing_weill0.jpg?fit=600%2C315&ssl=1"
-        },
-        {
-          "id": "https://blog.readwise.io/does-bionic-reading-actually-work/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.readwise.io/does-bionic-reading-actually-work/",
-          "publishedOn": "2022-06-21T16:53:28.000Z",
-          "wordCount": 2454,
-          "title": "An experiment to test if Bionic Reading helps you read faster",
-          "imageUrl": "https://s3.amazonaws.com/readwiseio/2022/06/does-bionic-reading-work-1.png"
-        },
-        {
-          "id": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
-          "publishedOn": "2022-06-21T16:23:21.000Z",
-          "wordCount": 1353,
-          "title": "GitHub Copilot is generally available",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=31825473",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=31825473",
-          "publishedOn": "2022-06-21T16:00:26.000Z",
-          "wordCount": 2092,
-          "title": "Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data",
+          "link": "https://parti.research.google/",
+          "publishedOn": "2022-06-22T17:37:35.000Z",
+          "wordCount": 2011,
+          "title": "Parti: Pathways Autoregressive Text-to-Image Model",
           "imageUrl": null
         },
         {
-          "id": "https://www.cs.cornell.edu/projects/arf/",
+          "id": "https://news.ycombinator.com/item?id=31838764",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cs.cornell.edu/projects/arf/",
-          "publishedOn": "2022-06-21T15:38:57.000Z",
-          "wordCount": 109,
-          "title": "Artistic Radiance Fields",
+          "link": "https://news.ycombinator.com/item?id=31838764",
+          "publishedOn": "2022-06-22T17:07:15.000Z",
+          "wordCount": 7133,
+          "title": "Launch HN: Astro (YC W21) – Build your own dev teams in Latin America",
           "imageUrl": null
         },
         {
-          "id": "https://avohq.io/",
+          "id": "https://asianometry.substack.com/p/designing-billions-of-circuits-with",
           "author": null,
           "description": "Comments",
-          "link": "https://avohq.io/",
-          "publishedOn": "2022-06-21T15:14:02.000Z",
-          "wordCount": 2453,
-          "title": "Show HN: Avo – Build Ruby on Rails apps faster",
-          "imageUrl": "https://avohq.io/img/og-meta-tag.jpg"
+          "link": "https://asianometry.substack.com/p/designing-billions-of-circuits-with",
+          "publishedOn": "2022-06-22T17:02:37.000Z",
+          "wordCount": 4953,
+          "title": "Designing Billions of Circuits with Code",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/ihz2WY-E2C8"
         },
         {
-          "id": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
+          "id": "https://twitter.com/TwitterWrite/status/1539640956915290112",
           "author": null,
           "description": "Comments",
-          "link": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
-          "publishedOn": "2022-06-21T13:59:36.000Z",
-          "wordCount": 566,
-          "title": "One-liner for running queries against CSV files with SQLite",
-          "imageUrl": "https://til.simonwillison.net/-/media/screenshot/sqlite_one-line-csv-operations.md"
-        },
-        {
-          "id": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/",
-          "publishedOn": "2022-06-21T12:39:30.000Z",
-          "wordCount": null,
-          "title": "Cloudflare outage on June 21, 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fchollet/status/1539019133282447360",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/fchollet/status/1539019133282447360",
-          "publishedOn": "2022-06-21T06:39:01.000Z",
+          "link": "https://twitter.com/TwitterWrite/status/1539640956915290112",
+          "publishedOn": "2022-06-22T16:21:42.000Z",
           "wordCount": 352,
-          "title": "One of the ML mistakes that will hurt most: not collecting the right features",
+          "title": "Twitter Notes",
           "imageUrl": null
         },
         {
-          "id": "https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/",
+          "id": "https://github.com/brave/goggles-quickstart",
           "author": null,
           "description": "Comments",
-          "link": "https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/",
-          "publishedOn": "2022-06-20T16:39:32.000Z",
-          "wordCount": 2785,
-          "title": "An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/3Ijhod7SxySYavLvft1JlS6IHtg=/fit-in/1600x0/filters:focal(1074x457:1075x458)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/9f/86/9f86d046-8610-4d04-9823-3643eb5db5bd/gettyimages-458337504.jpg"
+          "link": "https://github.com/brave/goggles-quickstart",
+          "publishedOn": "2022-06-22T16:16:57.000Z",
+          "wordCount": 808,
+          "title": "Brave Search Goggles: Alter search rankings with rules and filters",
+          "imageUrl": "https://opengraph.githubassets.com/072b8ea934256ba5fb76034235bd86fa01dd33032a822d9e9380e3e71e284c75/brave/goggles-quickstart"
         },
         {
-          "id": "https://www.theatlantic.com/books/archive/2022/06/personal-library-book-organization-system/661326/",
+          "id": "https://www.espressif.com/en/news/ESP32-C5",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theatlantic.com/books/archive/2022/06/personal-library-book-organization-system/661326/",
-          "publishedOn": "2022-06-20T10:30:07.000Z",
-          "wordCount": 2589,
-          "title": "The Organization of Your Bookshelves Tells Its Own Story",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/ViLYEuAGZo379equ2FDFEXG2p2M=/0x43:2000x1085/1200x625/media/img/mt/2022/06/Atl_books_soul_v1/original.png"
+          "link": "https://www.espressif.com/en/news/ESP32-C5",
+          "publishedOn": "2022-06-22T15:39:51.000Z",
+          "wordCount": 1094,
+          "title": "ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU",
+          "imageUrl": "https://www.espressif.com/sites/default/files/Screenshot%202022-06-20%20at%2015.52.05.png"
         },
         {
-          "id": "http://www.jaronlanier.com/zombie.html",
+          "id": "https://news.ycombinator.com/item?id=31837307",
           "author": null,
           "description": "Comments",
-          "link": "http://www.jaronlanier.com/zombie.html",
-          "publishedOn": "2022-06-20T08:37:57.000Z",
-          "wordCount": 7947,
-          "title": "You can't argue with a zombie (1995)",
+          "link": "https://news.ycombinator.com/item?id=31837307",
+          "publishedOn": "2022-06-22T15:28:04.000Z",
+          "wordCount": 1114,
+          "title": "Show HN: Data Diff – compare tables of any size across databases",
           "imageUrl": null
+        },
+        {
+          "id": "https://tailscale.com/blog/tailscale-ssh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tailscale.com/blog/tailscale-ssh/",
+          "publishedOn": "2022-06-22T15:14:32.000Z",
+          "wordCount": 1795,
+          "title": "Tailscale SSH",
+          "imageUrl": "https://tailscale.com/blog/tailscale-ssh/social.png"
+        },
+        {
+          "id": "https://survey.stackoverflow.co/2022/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://survey.stackoverflow.co/2022/",
+          "publishedOn": "2022-06-22T15:05:46.000Z",
+          "wordCount": 24307,
+          "title": "Stack Overflow Developer Survey 2022",
+          "imageUrl": "/2022/up_/src/img/dev-survey-2022.png"
+        },
+        {
+          "id": "https://webauthn.guide/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webauthn.guide/",
+          "publishedOn": "2022-06-22T15:02:08.000Z",
+          "wordCount": 2786,
+          "title": "Guide to Web Authentication",
+          "imageUrl": "https://webauthn.guide/dist/images/webauthn-meta-image.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689",
+          "publishedOn": "2022-06-22T13:38:08.000Z",
+          "wordCount": 9924,
+          "title": "FDA to order Juul e-cigarettes off U.S. market",
+          "imageUrl": "https://images.wsj.net/im-568851/social"
+        },
+        {
+          "id": "https://chidiwilliams.com/post/crafting-interpreters-a-review/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chidiwilliams.com/post/crafting-interpreters-a-review/",
+          "publishedOn": "2022-06-22T13:36:09.000Z",
+          "wordCount": 1229,
+          "title": "Crafting Interpreters: A Review",
+          "imageUrl": "https://res.cloudinary.com/cwilliams/image/upload/c_scale,w_800/v1655822011/Blog/crafting-interpreters.webp"
+        },
+        {
+          "id": "https://botblox.io/products/speblox-long",
+          "author": null,
+          "description": "Comments",
+          "link": "https://botblox.io/products/speblox-long",
+          "publishedOn": "2022-06-22T11:21:03.000Z",
+          "wordCount": 5055,
+          "title": "10mbps over 1km on a single pair of wires",
+          "imageUrl": "https://cdn.shopify.com/s/files/1/0577/8705/6295/products/SPEBlox_Long_Front_1200x1200.jpg?v=1650742629"
+        },
+        {
+          "id": "http://www.theoldrobots.com/personal.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.theoldrobots.com/personal.html",
+          "publishedOn": "2022-06-22T04:50:22.000Z",
+          "wordCount": 291,
+          "title": "Educational and personal robots from the 1940s to 1990s",
+          "imageUrl": null
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/story-of-sun-moon-stars/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/story-of-sun-moon-stars/",
+          "publishedOn": "2022-06-22T02:55:27.000Z",
+          "wordCount": 8890,
+          "title": "The Story of the Sun, Moon, and Stars (1898)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/story-of-sun-moon-stars/giberne-thumb.jpg"
+        },
+        {
+          "id": "https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/",
+          "publishedOn": "2022-06-21T23:11:07.000Z",
+          "wordCount": 822,
+          "title": "Mail Merge returns to Pages after nine years",
+          "imageUrl": "https://149426355.v2.pressablecdn.com/wp-content/uploads/2022/06/pages-mailmerge-6c.png"
+        },
+        {
+          "id": "https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril",
+          "publishedOn": "2022-06-21T16:29:06.000Z",
+          "wordCount": 28165,
+          "title": "The Cracked Wisdom of Dril",
+          "imageUrl": "https://media.newyorker.com/photos/62aa5430d9f316eed5354b55/16:9/w_1280,c_limit/Marshall-Dril.jpg"
+        },
+        {
+          "id": "https://news.usc.edu/200185/earth-core-oscillates/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.usc.edu/200185/earth-core-oscillates/",
+          "publishedOn": "2022-06-20T17:29:12.000Z",
+          "wordCount": 1518,
+          "title": "Earth moves far under our feet: Study shows Earth’s inner core oscillates",
+          "imageUrl": "https://customsitesmedia.usc.edu/wp-content/uploads/sites/59/2022/06/09104617/earth_core_structure_AdobeStock_web.jpg"
+        },
+        {
+          "id": "https://virtual-correspondence.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://virtual-correspondence.github.io/",
+          "publishedOn": "2022-06-19T06:41:09.000Z",
+          "wordCount": 593,
+          "title": "Virtual Correspondence",
+          "imageUrl": "https://people.csail.mit.edu/weichium/virtual-correspondence/img/good-will-kobe-4.png"
         }
       ]
     },
@@ -313,204 +313,204 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
-          "id": "https://tinhte.vn/thread/3532588/",
-          "author": "_vphlinh_",
-          "description": "Chính phủ Canada vừa công bố các quy định cuối cùng liên quan đến chính sách cấm đồ nhựa dùng một lần “có hại với môi trường”. Theo đó, lệnh cấm sản xuất và nhập khẩu hầu hết các mặt hàng nhựa...",
-          "link": "https://tinhte.vn/thread/lenh-cam-do-nhua-dung-mot-lan-cua-canada-se-co-hieu-luc-tu-thang-12-2022.3532588/",
-          "publishedOn": "2022-06-22T01:00:22.000Z",
-          "wordCount": 38974,
-          "title": "Lệnh cấm đồ nhựa dùng một lần của Canada sẽ có hiệu lực từ tháng 12/2022",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029635_cover_canada.jpg"
+          "id": "https://tinhte.vn/thread/3533278/",
+          "author": "Pnghuy",
+          "description": "Sau bản dev beta đầu tiên ra mắt ngay sau sự kiện, Apple tiếp tục cập nhật bản dev beta 2, bao gồm các hệ điều hành mà họ đang có, từ iOS 16, macOS 13 Ventura, watchOS 9, tvOS 9, iPadOS 16. Mời...",
+          "link": "https://tinhte.vn/thread/da-co-ios-16-macos-ventura-watchos-9-tvos-16-dev-beta-2-moi-anh-em-len.3533278/",
+          "publishedOn": "2022-06-23T00:51:29.000Z",
+          "wordCount": 52046,
+          "title": "Đã có iOS 16, macOS Ventura, watchOS 9, tvOS 16 dev beta 2, mời anh em lên",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6031601_cover_iOS-16-beta-2.jpeg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532798/",
-          "author": "Mikeknowsme",
-          "description": "Đây là chiếc smartphone đầu tiên của thương hiệu Nothing được trên tay sớm từ YouTuber MKBHD (máy sẽ ra mắt vào ngày 12/07 tới). Chiếc Nothing Phone 1 này có thiết kế rất đặc biệt khi mặt lưng...",
-          "link": "https://tinhte.vn/thread/video-tren-tay-nothing-phone-1-smartphone-co-mat-lung-trong-suot-voi-den-led-cuc-ky-noi-bat.3532798/",
-          "publishedOn": "2022-06-22T00:58:05.000Z",
-          "wordCount": 54799,
-          "title": "Video trên tay Nothing Phone 1: smartphone có mặt lưng trong suốt với đèn LED cực kỳ nổi bật",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030148_cover_nothingphone1.jpg"
+          "id": "https://tinhte.vn/thread/3533059/",
+          "author": "Lê Huyền Vân",
+          "description": "Sony Xperia 1 Mark IV có thiết kế không đổi so với các thế hệ trước. Như đặc trưng từ trước đến nay, Sony tập trung và trang bị khá nhiều vào phần ống kính và trải nghiệm chụp ảnh, quay video theo...",
+          "link": "https://tinhte.vn/thread/tren-tay-may-anh-co-sim-sony-xperia-1-mark-iv.3533059/",
+          "publishedOn": "2022-06-23T00:51:27.000Z",
+          "wordCount": 60148,
+          "title": "Trên tay máy ảnh có SIM Sony Xperia 1 Mark IV",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6031341_Tren_tay_Sony_xperia_1_iv-15.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3531726/",
-          "author": "Mtel",
-          "description": "Chào các bạn, đây là bài review của mình về sản phẩm Ugreen Nexode GaN Charger 100W 4in1. Mình mua với giá khoảng gần 800k. Trước khi review mình muốn nói rằng đây là một sản phẩm True Perfect để...",
-          "link": "https://tinhte.vn/thread/tren-tay-bo-sac-ugreen-100w-dep-my-man-tu-a-z-nhung-hieu-suat-sac-co-cao.3531726/",
-          "publishedOn": "2022-06-22T00:56:33.000Z",
-          "wordCount": 79428,
-          "title": "Trên tay bộ sạc UGREEN 100W: Đẹp mỹ mãn từ A-Z nhưng hiệu suất sạc có cao?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6026870_20220617_162740.jpg"
+          "id": "https://tinhte.vn/thread/3533145/",
+          "author": "Nam Air",
+          "description": "Bộ WORX WX240 này mình được người ta cho, giá mua thì khoảng 800k, mình dùng nó vặn đồ sửa chữa linh tinh vặt trong nhà, và còn dùng nó để xay cà phê nữa.\n \nMời anh em xem video trên tay và dùng...",
+          "link": "https://tinhte.vn/thread/tren-tay-tua-vit-dien-worx-wx240-luc-van-vit-toi-da-8nm-dung-de-xay-cafe-cung-tien.3533145/",
+          "publishedOn": "2022-06-23T00:50:38.000Z",
+          "wordCount": 70312,
+          "title": "Trên tay tua vít điện WORX WX240: Lực vặn vít tối đa 8Nm, dùng để xay cafe cũng tiện",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030959_namair_worx_wx240_6.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532853/",
-          "author": "vn_ninja",
-          "description": "CEO Xiaomi Lei Jun đã chính thức hé lộ trên weibo về sự xuất hiện của một chiếc smartphone chạy chip Snapdragon 8+ Gen 1 mới của công ty, được kỳ vọng sẽ ra mắt vào tháng 7 tới đây.\n \nTrong bài...",
-          "link": "https://tinhte.vn/thread/ceo-xiaomi-flagship-chay-chip-snapdragon-8-gen-1-co-the-ra-mat-vao-thang-toi.3532853/",
-          "publishedOn": "2022-06-22T00:56:30.000Z",
-          "wordCount": 28743,
-          "title": "CEO Xiaomi: flagship chạy chip Snapdragon 8+ Gen 1 có thể ra mắt vào tháng tới",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030221_cover_Lei_Jun_Xiaomi_12_Ultra_tinhte.jpg"
+          "id": "https://tinhte.vn/thread/3533048/",
+          "author": "Thầy giáo Sang",
+          "description": "Mình đã mua và dùng nhiều loại củ sạc, Anker, Ugreen, Baseus, nhưng hiện tại balo mình chỉ còn lại HyperJuice GAN 66W. Sau 1 năm thì đây là củ sạc mang lại cho mình sự tin cậy và khiến mình mua...",
+          "link": "https://tinhte.vn/thread/review-cu-sac-hyperjuice-gan-66w-nho-gon-va-dang-tin-cay.3533048/",
+          "publishedOn": "2022-06-23T00:47:51.000Z",
+          "wordCount": 45560,
+          "title": "Review Củ sạc HyperJuice GAN 66W: nhỏ gọn và đáng tin cậy",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030658_DSC08721.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532616/",
-          "author": "Lê Phú Khương",
-          "description": "Theo thống kê từ ec.europa.eu, tính đến năm 2020, cơ cấu sử dụng năng lượng của các nước châu Âu như sau: 40.8% năng lượng tái tạo, 30.5% năng lượng nhiệt hạt nhân, 14.6% năng lượng hoá thạch rắn,...",
-          "link": "https://tinhte.vn/thread/khung-hoang-nang-luong-khien-chau-au-can-nhac-su-dung-than-da-nhieu-hon.3532616/",
-          "publishedOn": "2022-06-22T00:56:28.000Z",
-          "wordCount": 58022,
-          "title": "Khủng hoảng năng lượng khiến châu Âu cân nhắc sử dụng than đá nhiều hơn",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029658_cover.jpg"
+          "id": "https://tinhte.vn/thread/3524785/",
+          "author": "Trung Dt",
+          "description": "Bên cạnh sự cải tiến về công nghệ hiển thị, các nhà sản xuất TV đang tìm ra những hướng đi mới để mang thêm nhiều giá trị cho người dùng trên một thiết bị giải trí quen thuộc. Việc tích hợp những...",
+          "link": "https://tinhte.vn/thread/xu-huong-smart-tv-tiep-tuc-tro-thanh-trung-tam-cua-ngoi-nha-thong-minh.3524785/",
+          "publishedOn": "2022-06-23T00:47:42.000Z",
+          "wordCount": 33555,
+          "title": "Xu hướng Smart TV tiếp tục trở thành trung tâm của ngôi nhà thông minh",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6010161_cover_mi-tv_smart-tv.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532681/",
-          "author": "Majaaa",
-          "description": "Khi đi ngủ, chúng ta dành ra vài giờ trải nghiệm trong thế giới ảo được tạo nên bởi não bộ, đó chính là giấc mơ. Và đối với hầu hết mọi người, những giấc mơ đa số dễ chịu, đôi khi có thể hơi tiêu...",
-          "link": "https://tinhte.vn/thread/nghien-cuu-moi-cho-thay-ac-mong-co-the-la-dau-hieu-canh-bao-som-ve-benh-parkinson.3532681/",
-          "publishedOn": "2022-06-22T00:54:09.000Z",
-          "wordCount": 39672,
-          "title": "Nghiên cứu mới cho thấy ác mộng có thể là dấu hiệu cảnh báo sớm về bệnh Parkinson",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029800_tinhte_Parkinson_cover.png"
+          "id": "https://tinhte.vn/thread/3533085/",
+          "author": "Nam Air",
+          "description": "Bạn Tuấn có liên lạc với mình hồi tháng 2/2022 về việc màn hình bạn ấy bị chớp chớp trong 1 tình huống rất đặc biệt, cụ thể:\n\nMở khoảng 4,5 app hoặc nhiều hơn, sau đó Minimize - thu nhỏ xuống Dock...",
+          "link": "https://tinhte.vn/thread/anh-em-dung-macbook-chip-m1-pro-m1-max-thu-xem-man-hinh-co-bi-chop-nhu-the-nay-khong.3533085/",
+          "publishedOn": "2022-06-23T00:45:21.000Z",
+          "wordCount": 57809,
+          "title": "Anh em dùng Macbook chip M1 Pro / M1 Max thử xem màn hình có bị chớp như thế này không?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030757_Cover.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532873/",
-          "author": "mig0",
-          "description": "Thế hệ thứ 2 của dòng sản phẩm SoC trung cấp AMD Ryzen Embedded R Series được trang bị số nhân gấp đôi, đồ họa Radeon cải tiến, hỗ trợ Windows 11 và thiết lập đa màn hình linh hoạt. Ryzen Embedded...",
-          "link": "https://tinhte.vn/thread/amd-ryzen-embedded-r2000-series-soc-nhung-cho-cong-nghiep-va-iot.3532873/",
-          "publishedOn": "2022-06-22T00:54:03.000Z",
-          "wordCount": 48287,
-          "title": "AMD Ryzen Embedded R2000 Series - SoC nhúng cho công nghiệp và IoT",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030303_cover_amd_ryzen_embedded_r2000_series_soc_iot_tinhte.jpg"
+          "id": "https://tinhte.vn/thread/3436932/",
+          "author": "nttuan.lab",
+          "description": "Trong mùa dịch do ở nhà quá lâu nên mình có tìm hiểu vài thú vui như ráp tranh-tô tranh số hóa và trong đó có việc lắp ghép mấy món đồ nhỏ nhỏ, vừa giải trí vừa để trang trí nhà cửa cũng như có...",
+          "link": "https://tinhte.vn/thread/lap-thu-block-music-lego-cua-sembo-dep-chac-chan-loa-nghe-tam-gia-re.3436932/",
+          "publishedOn": "2022-06-23T00:41:38.000Z",
+          "wordCount": 25320,
+          "title": "LẮP THỬ BLOCK MUSIC - LEGO CỦA SEMBO - ĐẸP, CHẮC CHẮN, LOA NGHE TẠM, GIÁ RẺ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2021/11/5734653_Untitled-1.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3531978/",
-          "author": "summon_rain",
-          "description": "Khi nói đến giải trí, ưu điểm của iPad đúng là không cần bàn cãi. Tuy nhiên khi đề cập đến khía cạnh làm việc, không ít anh em vẫn giữ quan điểm “iPad không hơn một thiết bị giải trí”. Mình viết...",
-          "link": "https://tinhte.vn/thread/di-day-dung-ipad-co-duoc-viec-khong.3531978/",
-          "publishedOn": "2022-06-22T00:53:59.000Z",
-          "wordCount": 74338,
-          "title": "Đi dạy dùng iPad có được việc không?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6028940_5822179_DSC00879.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3532617/",
+          "id": "https://tinhte.vn/thread/3533100/",
           "author": "P.W",
-          "description": "Chiếc iPhone đầu tiên ra mắt vào năm 2007 hoàn toàn không có tính năng chạm để copy hoặc cut nội dung đang hiển thị trên màn hình, lưu vào clipboard tạm thời để sau đó paste sang những ứng dụng...",
-          "link": "https://tinhte.vn/thread/cuu-ky-su-apple-giai-thich-ly-do-iphone-doi-dau-khong-the-copy-paste-don-gian-vi-khong-lam-kip.3532617/",
-          "publishedOn": "2022-06-22T00:49:32.000Z",
-          "wordCount": 47149,
-          "title": "Cựu kỹ sư Apple giải thích lý do iPhone đời đầu không thể copy/paste, đơn giản vì không làm kịp",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029686_Cover_iPhone.jpg"
+          "description": "Tại sự kiện Embeded World 2022, hãng sản xuất chip nhớ nước Mỹ Micron đã giới thiệu sản phẩm mới nhất dựa trên công nghệ chip nhớ 3D NAND 176 lớp: Chiếc thẻ nhớ i400 Industrial dung lượng 1.5TB....",
+          "link": "https://tinhte.vn/thread/micron-cong-bo-thu-microsd-i400-industrial-dung-luong-khung-1-5tb-vong-doi-van-hanh-lien-tuc-5-nam.3533100/",
+          "publishedOn": "2022-06-23T00:39:19.000Z",
+          "wordCount": 37971,
+          "title": "Micron công bố thử microSD i400 Industrial, dung lượng khủng 1.5TB, vòng đời vận hành liên tục 5 năm",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030859_Cover_SD.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532148/",
-          "author": "Li Guoqing",
-          "description": "ABS bảo vệ tính mạng người chạy xe như thế nào\nKhái niệm “Phương tiện an toàn hơn” có nghĩa là các hoạt động thúc đẩy việc triển khai phổ biến công nghệ an toàn được cải tiến trên phương tiện...",
-          "link": "https://tinhte.vn/thread/abs-giup-bao-ve-tinh-mang-nguoi-di-xe-hai-banh-phan-2-co-the-ngan-ngua-1-3-so-ca-tu-vong-voi-abs.3532148/",
-          "publishedOn": "2022-06-22T00:48:25.000Z",
-          "wordCount": 80413,
-          "title": "ABS giúp bảo vệ tính mạng người đi xe hai bánh - Phần 2: Có thể ngăn ngừa 1/3 số ca tử vong với ABS",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6028333_cover_abssaveslives_2.jpg"
+          "id": "https://tinhte.vn/thread/3533038/",
+          "author": "Thầy giáo Sang",
+          "description": "Mình mua chiếc túi máy ảnh này từ 2020, dùng hằng ngày và mang đi du lịch nhiều nơi, nó không bóng bẩy, đẹp mắt nhưng bền bỉ và được việc.\n \n[ATTACH]\nDiện mạo bên ngoài rất bình thường, chất liệu...",
+          "link": "https://tinhte.vn/thread/review-tui-may-anh-canvas-photoman-co-ban-tien-dung-gia-125k.3533038/",
+          "publishedOn": "2022-06-23T00:38:13.000Z",
+          "wordCount": 45017,
+          "title": "Review túi máy ảnh Canvas Photoman: cơ bản, tiện dụng, giá 125k",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030627_2048_IMG_8770_copy.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532392/",
-          "author": "crazysexycool1981",
-          "description": "[ATTACH]\n \nVốn trung thành với thói quen xài cáp + củ sạc cho bộ ba: Macbook - iPad - smartphone, thói quen này không những giúp mình rút ngắn thời gian sạc mà còn tạo tâm lý thoải mái trước những...",
-          "link": "https://tinhte.vn/thread/review-sau-mot-tuan-trai-nghiem-sac-khong-day-ugreen-50572.3532392/",
-          "publishedOn": "2022-06-22T00:27:19.000Z",
-          "wordCount": 79980,
-          "title": "Review sau một tuần trải nghiệm sạc không dây Ugreen 50572",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6028996_Anh_cover.jpg"
+          "id": "https://tinhte.vn/thread/3533146/",
+          "author": "P.W",
+          "description": "Zhaoxin được thành lập năm 2013, có trụ sở tại Thượng Hải, tập trung sản xuất những chip xử lý x86 phục vụ nhu cầu tiêu dùng và máy chủ. Vừa rồi những benchmark thế hệ chip mới nhất của họ,...",
+          "link": "https://tinhte.vn/thread/trung-quoc-khoe-cpu-zhaoxin-kh-4000-hieu-nang-don-nhan-gan-bang-cpu-may-chu-amd-epyc-doi-dau.3533146/",
+          "publishedOn": "2022-06-23T00:31:55.000Z",
+          "wordCount": 56541,
+          "title": "Trung Quốc khoe CPU Zhaoxin KH-4000, hiệu năng đơn nhân gần bằng CPU máy chủ AMD Epyc đời đầu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030982_Cover_CPU.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532669/",
-          "author": "Lê Phú Khương",
-          "description": "Sau ba năm sử dụng, AirPods Pro của mình lại bị rè lần thứ 2 ở một bên tai khác. Lần đầu mình bị là tai bên phải, vào tầm tháng 8/2019 gì đó. Lúc đó lô AirPods Pro này mình mua thì Apple chưa phát...",
-          "link": "https://tinhte.vn/thread/airpods-pro-bi-re-anh-em-dung-ngan-ngai-mang-di-bao-hanh-qua-han-cung-duoc-khong-can-hoa-don.3532669/",
-          "publishedOn": "2022-06-22T00:25:20.000Z",
-          "wordCount": 41473,
-          "title": "AirPods Pro bị rè, anh em đừng ngần ngại mang đi bảo hành, quá hạn cũng được, không cần hoá đơn",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029783_cover.jpg"
+          "id": "https://tinhte.vn/thread/3533114/",
+          "author": "Knah",
+          "description": "Sennheiser chính thức bán ra mẫu tai nghe true wireless mới nhất của mình tại thị trường Việt Nam hôm nay 22/6. Momentum True Wireless 3 (MTW3) là thế hệ mới nhất, là phiên bản nâng cấp của mẫu...",
+          "link": "https://tinhte.vn/thread/sennheiser-viet-nam-chinh-thuc-ra-mat-momentum-true-wireless-3-gia-6tr999.3533114/",
+          "publishedOn": "2022-06-23T00:29:31.000Z",
+          "wordCount": 30299,
+          "title": "Sennheiser Việt Nam chính thức ra mắt Momentum True Wireless 3, giá 6tr999",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030889_52856F25-ED93-4FAB-AF0E-A7E39816241B.jpeg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532268/",
-          "author": "Rubi Lee",
-          "description": "Mình xem đồng hồ như một món phụ kiện, vì vậy mà mình thường rất hay đổi dây đồng hồ đi kèm để phù hợp với sở thích vào thời điểm đó luôn. Gần đây thì mình có mượn được dây đồng hồ đầy màu sắc...",
-          "link": "https://tinhte.vn/thread/tren-tay-day-dong-ho-switcheasy-candy-braided-nylon-loop-mau-sac-tre-trung-nang-dong.3532268/",
-          "publishedOn": "2022-06-22T00:18:31.000Z",
-          "wordCount": 50145,
-          "title": "Trên tay dây đồng hồ SwitchEasy Candy Braided Nylon Loop: màu sắc trẻ trung, năng động",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029773_trentay-day-apple-watch-switcheasy-14.jpg"
+          "id": "https://tinhte.vn/thread/3533155/",
+          "author": "P.W",
+          "description": "Năm 2009, Ủy ban châu Âu đưa ra án phạt 1,2 tỷ USD (1,06 tỷ Euro) cho Intel. Đó là kết quả cuộc điều tra nghi án Intel trả tiền cho các hãng sản xuất laptop (bao gồm cả Dell, HP và Lenovo) để ưu...",
+          "link": "https://tinhte.vn/thread/duoc-toa-xu-thang-vu-kien-chong-doc-quyen-intel-doi-lai-chau-au-ca-goc-lan-lai-khoan-tien-phat.3533155/",
+          "publishedOn": "2022-06-23T00:27:53.000Z",
+          "wordCount": 56711,
+          "title": "Được tòa xử thắng vụ kiện chống độc quyền, Intel đòi lại châu Âu cả gốc lẫn lãi khoản tiền phạt",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6031057_Cover_Intel.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3532781/",
-          "author": "Nhà Của Cáo",
-          "description": "Honor Magic 4 Pro sở hữu cụm camera hình tròn, với 5 lổ cam và đèn flash được sắp xếp đối xứng cho mình cảm giác khá giống với các máy ảnh PnS. Mình vừa có cơ hội trải nghiệm nhanh và mời anh em...",
-          "link": "https://tinhte.vn/thread/shot-on-honor-magic-4-pro-moi-xem-mot-so-hinh-anh-chup-nhanh-tu-may.3532781/",
-          "publishedOn": "2022-06-21T23:39:26.000Z",
-          "wordCount": 52763,
-          "title": "[Shot on] Honor Magic 4 Pro: mời xem một số hình ảnh chụp nhanh từ máy",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030117_cover_shot_on_Honor_Magic_4_Pro-2.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3532655/",
-          "author": "Mikeknowsme",
-          "description": "Một số trang web có thể yêu cầu bạn phải xác thực “không phải người máy” bằng cách chọn những hình ảnh với chủ đề xe, đèn giao thông,… hay phải nhập các ký tự của mã xác thực CAPTCHA (Completely...",
-          "link": "https://tinhte.vn/thread/ios-16-va-macos-ventura-se-tu-dong-xac-thuc-ma-captcha-cho-nguoi-dung-tren-website-va-app.3532655/",
-          "publishedOn": "2022-06-21T22:44:37.000Z",
-          "wordCount": 34764,
-          "title": "iOS 16 và macOS Ventura sẽ tự động xác thực mã CAPTCHA cho người dùng trên website và app",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029802_cover_ios16_captcha_tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3532727/",
-          "author": "Hassler",
-          "description": "Trong buổi họp diễn ra cuối tuần trước các thành viên của Tổ chức thương mại quốc tế WTO đã đạt 1 thỏa thuận sẽ nới lỏng việc bảo vệ quyền sở hữu trí tuệ đối với các dạng vaccine chống covid-19....",
-          "link": "https://tinhte.vn/thread/cac-thanh-vien-wto-dong-y-noi-long-bao-ve-quyen-so-huu-tri-tue-vaccine-covid-19.3532727/",
-          "publishedOn": "2022-06-21T17:02:52.000Z",
-          "wordCount": 38582,
-          "title": "Các thành viên WTO đồng ý nới lỏng bảo vệ quyền sở hữu trí tuệ vaccine covid-19",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029919_cover_vax.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3532692/",
-          "author": "Minh Dự.",
-          "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
-          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-21-06.3532692/",
-          "publishedOn": "2022-06-21T16:56:52.000Z",
-          "wordCount": 66144,
-          "title": "Tổng hợp deal khuyến mãi 21/06",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029854_cover_Tong_Hop_Khuyen_Mai.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3532708/",
+          "id": "https://tinhte.vn/thread/3533156/",
           "author": "mig0",
-          "description": "Những mẫu bàn phím laptop cao cấp hoặc bàn phím rời siêu mỏng cần sự yên tĩnh sẽ có thêm lựa chọn switch mới từ CHERRY MX. Mới đây, CHERRY bổ sung thêm phiên bản MX Ultra Low Profile Tactile vào...",
-          "link": "https://tinhte.vn/thread/cherry-bo-sung-phien-ban-tactile-cho-mx-ultra-low-profile-switch.3532708/",
-          "publishedOn": "2022-06-21T14:22:08.000Z",
-          "wordCount": 32639,
-          "title": "CHERRY bổ sung phiên bản Tactile cho MX Ultra Low Profile switch",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6029859_cover_cherry_mx_ultra_low_profile_tactile_switch_tinhte.jpg"
+          "description": "PCIe 5.0 còn chưa phổ biến, thế nhưng mà tổ chức chịu trách nhiệm thông qua tiêu chuẩn PCI Express - PCI-SIG - đã công bố thông số kỹ thuật của PCIe 7.0, theo kế hoạch ra mắt vào 2025. Theo đó,...",
+          "link": "https://tinhte.vn/thread/nam-2025-pci-express-7-0-se-hoan-thien-bang-thong-den-512-gbps.3533156/",
+          "publishedOn": "2022-06-23T00:21:37.000Z",
+          "wordCount": 32835,
+          "title": "Năm 2025, PCI Express 7.0 sẽ hoàn thiện, băng thông đến 512 GBps",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6031042_cover_pci_sig_pcie_7_512_gbps_tinhte.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3531760/",
-          "author": "dai_vie199",
-          "description": "Đây là review về Broadlink RM4 Mini và cáp đo nhiệt độ độ ẩm HTS2 của mình. Mình mua nó với giá 625.000 VNĐ. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy...",
-          "link": "https://tinhte.vn/thread/review-broadlink-rm4-mini-va-cap-do-nhiet-do-do-am-hts2.3531760/",
-          "publishedOn": "2022-06-21T13:38:34.000Z",
-          "wordCount": 55141,
-          "title": "Review Broadlink RM4 Mini và cáp đo nhiệt độ độ ẩm HTS2",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6027032_blob.jpg"
+          "id": "https://tinhte.vn/thread/3532386/",
+          "author": "kazuki5011",
+          "description": "Chào anh em, như tiêu đề, đây sẽ là bài viết review về chiếc iPad Mini 6 mà mình đang sử dụng. Một chiếc iPad rõ ràng không phải là tuyệt nhất, từ cấu hình tới cái tên “mini” của nó. Nhưng với một...",
+          "link": "https://tinhte.vn/thread/review-ipad-mini-6-khong-tuyet-nhat-nhung-co-the-la-ipad-dang-mua-nhat.3532386/",
+          "publishedOn": "2022-06-23T00:20:58.000Z",
+          "wordCount": 71600,
+          "title": "Review iPad Mini 6 - không tuyệt nhất, nhưng có thể là iPad đáng mua nhất",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6028986_tempImagedYLYMf.jpg"
         },
         {
-          "id": "https://tinhte.vn/thread/3531578/",
-          "author": "TTKM",
-          "description": "Chuỗi hoạt động trải nghiệm LG Styler chăm sóc áo quần vừa qua đã nhận được sự tham gia đông đảo, nhiều phần quà được trao thông qua những hoạt động hấp dẫn.\n \nVừa qua, LG đã tổ chức chuỗi hoạt...",
-          "link": "https://tinhte.vn/thread/qc-chuoi-su-kien-kham-pha-lg-styler-va-giai-phap-cham-soc-quan-ao-moi.3531578/",
-          "publishedOn": "2022-06-18T02:28:01.000Z",
-          "wordCount": 31776,
-          "title": "[QC] Chuỗi sự kiện khám phá LG Styler và giải pháp chăm sóc quần áo mới",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6026524_CV.jpg"
+          "id": "https://tinhte.vn/thread/3530726/",
+          "author": "MinhTriND",
+          "description": "Tiếp tục hành trình với 3 chiếc xe máy điện. Sau 1 đêm nghỉ ngơi ở thành phố Phan Rang, tụi mình dậy từ rất sớm để khởi hành nhằm đón được bình minh. Chuẩn bị đồ đạc này kia xong là tầm 5h, bọn...",
+          "link": "https://tinhte.vn/thread/tinhte-on-the-road-2022-tap-2-kham-pha-phan-rang-cam-ranh.3530726/",
+          "publishedOn": "2022-06-23T00:19:47.000Z",
+          "wordCount": 41142,
+          "title": "Tinhte On The Road 2022 (Tập 2): Khám phá Phan Rang - Cam Ranh",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6024100_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3533045/",
+          "author": "Rubi Lee",
+          "description": "Huy chương vàng Nobel Hoà bình mà nhà báo người Nga Dmitry Muratov bán đấu giá để quyên góp cho trẻ em Ukraine mất nhà cửa vì chiến tranh đã thu về số tiền 103,5 triệu USD, một con số kỷ lục từ...",
+          "link": "https://tinhte.vn/thread/nha-bao-nga-ban-dau-gia-huy-chuong-vang-giai-nobel-hoa-binh-de-giup-tre-em-ukraine.3533045/",
+          "publishedOn": "2022-06-22T23:48:29.000Z",
+          "wordCount": 54062,
+          "title": "Nhà báo Nga bán đấu giá huy chương vàng giải Nobel Hoà bình để giúp trẻ em Ukraine",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030652_nobel-hoa-binh-1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3532055/",
+          "author": "MinhTriND",
+          "description": "Sự phát triển của TikTok nói riêng và của định dạng video ngắn nói chung khiến cho nhu cầu làm video tăng cao hơn bao giờ hết. Giờ đây, việc edit, dựng phim đã trở nên dễ dàng hơn rất nhiều. Chỉ...",
+          "link": "https://tinhte.vn/thread/anh-em-dung-app-nao-de-dung-phim-tren-smartphone.3532055/",
+          "publishedOn": "2022-06-22T22:28:32.000Z",
+          "wordCount": 36537,
+          "title": "Anh em dùng app nào để dựng phim trên smartphone?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030877_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3533275/",
+          "author": "Pnghuy",
+          "description": "Google vừa cập nhật giao diện mới cho News trên giao diện máy tính. Sự thay đổi theo mình là giúp cho bố cục của trang dễ nhìn hơn, tập trung hơn vào nội dung.\n \n\n[ATTACH]\n[ATTACH]\n\n \nTrước tiên...",
+          "link": "https://tinhte.vn/thread/google-news-tren-trinh-duyet-co-giao-dien-moi-moi-anh-em-thu.3533275/",
+          "publishedOn": "2022-06-22T18:43:38.000Z",
+          "wordCount": 38734,
+          "title": "Google News trên trình duyệt có giao diện mới, mời anh em thử",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6031575_cover_google-news.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3532808/",
+          "author": "iolna",
+          "description": "Đây là review về HDMI Capture to USB của mình.Mình mua nó với giá 128000. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy comment vô bài này nha.\n\nThông tin...",
+          "link": "https://tinhte.vn/thread/review-usb-capture-card-gia-sieu-re.3532808/",
+          "publishedOn": "2022-06-22T17:41:29.000Z",
+          "wordCount": 126950,
+          "title": "Review USB CAPTURE CARD giá siêu rẻ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030159_image.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3533092/",
+          "author": "P.W",
+          "description": "Cơ quan hàng không vũ trụ Mỹ vừa tuyên bố trao hợp đồng cho 3 công ty tư nhân: Lockheed Martin, WestingHouse và IX (liên doanh giữa Intuitive Machines và X-Energy) để phát triển giải pháp lò phản...",
+          "link": "https://tinhte.vn/thread/nasa-trao-hop-dong-cho-3-cong-ty-tu-nhan-de-phat-trien-lo-phan-ung-hat-nhan-dung-tren-mat-trang.3533092/",
+          "publishedOn": "2022-06-22T14:54:46.000Z",
+          "wordCount": 43184,
+          "title": "NASA trao hợp đồng cho 3 công ty tư nhân để phát triển lò phản ứng hạt nhân dùng trên mặt trăng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6030824_Cover_NASA.jpg"
         }
       ]
     },
@@ -520,6 +520,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366452",
+          "author": "Saleh Mubashar",
+          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
+          "publishedOn": "2022-06-22T14:24:37.000Z",
+          "wordCount": 1715,
+          "title": "Different Ways to Write CSS in React",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
+        },
+        {
           "id": "https://css-tricks.com/?p=366342",
           "author": "Temani Afif",
           "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
@@ -527,7 +537,7 @@
           "publishedOn": "2022-06-17T14:47:55.000Z",
           "wordCount": 2406,
           "title": "Single Element Loaders: The Dots",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         },
         {
           "id": "https://css-tricks.com/?p=366252",
@@ -537,7 +547,7 @@
           "publishedOn": "2022-06-15T14:15:50.000Z",
           "wordCount": 2357,
           "title": "Conditionally Styling Selected Elements in a Grid Container",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         },
         {
           "id": "https://css-tricks.com/?p=366388",
@@ -547,7 +557,7 @@
           "publishedOn": "2022-06-14T16:48:34.000Z",
           "wordCount": 2782,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
         },
         {
           "id": "https://css-tricks.com/?p=366260",
@@ -557,7 +567,7 @@
           "publishedOn": "2022-06-13T19:15:26.000Z",
           "wordCount": 2085,
           "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         },
         {
           "id": "https://css-tricks.com/?p=366266",
@@ -565,9 +575,9 @@
           "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
           "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2713,
+          "wordCount": 2724,
           "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         },
         {
           "id": "https://css-tricks.com/?p=366286",
@@ -577,7 +587,7 @@
           "publishedOn": "2022-06-09T15:32:50.000Z",
           "wordCount": 1518,
           "title": "Am I on the IndieWeb yet?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
         },
         {
           "id": "https://css-tricks.com/?p=366147",
@@ -587,7 +597,7 @@
           "publishedOn": "2022-06-08T14:30:53.000Z",
           "wordCount": 1515,
           "title": "Let’s Make a QR Code Generator With a Serverless Function!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         },
         {
           "id": "https://css-tricks.com/?p=366222",
@@ -597,7 +607,7 @@
           "publishedOn": "2022-06-07T13:57:57.000Z",
           "wordCount": 4575,
           "title": "Building Interoperable Web Components That Even Work With React",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
         },
         {
           "id": "https://css-tricks.com/?p=366202",
@@ -607,7 +617,7 @@
           "publishedOn": "2022-06-03T14:39:11.000Z",
           "wordCount": 1259,
           "title": "Please Give Me Some Space",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         },
         {
           "id": "https://css-tricks.com/?p=365841",
@@ -617,7 +627,7 @@
           "publishedOn": "2022-06-01T15:30:15.000Z",
           "wordCount": 4493,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         },
         {
           "id": "https://css-tricks.com/?p=366175",
@@ -627,7 +637,7 @@
           "publishedOn": "2022-06-01T14:12:25.000Z",
           "wordCount": 1296,
           "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         },
         {
           "id": "https://css-tricks.com/?p=366068",
@@ -637,7 +647,7 @@
           "publishedOn": "2022-05-27T14:25:39.000Z",
           "wordCount": 1818,
           "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
         },
         {
           "id": "https://css-tricks.com/?p=366107",
@@ -647,7 +657,7 @@
           "publishedOn": "2022-05-26T18:13:28.000Z",
           "wordCount": 866,
           "title": "Beautify GitHub Profile",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
         },
         {
           "id": "https://css-tricks.com/?p=365946",
@@ -657,17 +667,7 @@
           "publishedOn": "2022-05-26T14:13:01.000Z",
           "wordCount": 3428,
           "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366077",
-          "author": "Geoff Graham",
-          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
-          "publishedOn": "2022-05-26T00:15:29.000Z",
-          "wordCount": 849,
-          "title": "Customizing Color Fonts on the Web",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
         }
       ]
     },
@@ -677,12 +677,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
+          "author": "hello@smashingmagazine.com (Sergey Krasotin)",
+          "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
+          "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
+          "publishedOn": "2022-06-22T09:00:00.000Z",
+          "wordCount": 4723,
+          "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4993,
+          "wordCount": 4999,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -697,7 +712,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5462,
+          "wordCount": 5458,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -712,7 +727,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4598,
+          "wordCount": 4594,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -727,7 +742,7 @@
           "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
           "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4132,
+          "wordCount": 4144,
           "title": "Web Design Done Well: Delightful Data Visualization Examples",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
@@ -742,7 +757,7 @@
           "description": "In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode by using a good set of practices, including the media query `forced-colors` and its toolset.",
           "link": "https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/",
           "publishedOn": "2022-06-15T09:30:00.000Z",
-          "wordCount": 6502,
+          "wordCount": 6498,
           "title": "The Guide To Windows High Contrast Mode",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg",
@@ -802,7 +817,7 @@
           "description": "In this article, Thomas Bohm explains ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/",
           "publishedOn": "2022-06-10T08:00:00.000Z",
-          "wordCount": 6578,
+          "wordCount": 6584,
           "title": "Measuring The Performance Of Typefaces For Users (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/22bde778-9f2e-45d3-97cd-ae5eedf4d0c0/measuring-performance-typaces-users-part2-card.jpg",
@@ -817,7 +832,7 @@
           "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
           "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
           "publishedOn": "2022-06-09T09:00:00.000Z",
-          "wordCount": 4244,
+          "wordCount": 4342,
           "title": "The Future Of Frontend Build Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
@@ -847,7 +862,7 @@
           "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
           "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
           "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 4659,
+          "wordCount": 4761,
           "title": "Digital Museums For Digital History",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
@@ -862,7 +877,7 @@
           "description": "In this article, Sam Poder explores how Prisma integrates with the Jamstack and why it’s a great solution for Serverless databases in JavaScript or TypeScript-based projects.",
           "link": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "publishedOn": "2022-06-06T09:00:00.000Z",
-          "wordCount": 4421,
+          "wordCount": 4315,
           "title": "The Case For Prisma In The Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/30c31583-7e46-4566-b2d3-bef54dd64152/case-prisma-jamstack.jpg",
@@ -877,7 +892,7 @@
           "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
           "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
           "publishedOn": "2022-06-03T10:00:00.000Z",
-          "wordCount": 6595,
+          "wordCount": 6597,
           "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
@@ -892,7 +907,7 @@
           "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
           "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 6551,
+          "wordCount": 6546,
           "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
@@ -907,7 +922,7 @@
           "description": "In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.",
           "link": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "publishedOn": "2022-06-01T10:00:00.000Z",
-          "wordCount": 6562,
+          "wordCount": 6566,
           "title": "Don’t Sink Your Website With Third Parties",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/65099ffa-f954-430f-992a-8078a8331802/dont-sink-website-third-parties.jpg",
@@ -922,7 +937,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2022/05/desktop-wallpaper-calendars-june-2022/",
           "publishedOn": "2022-05-31T12:30:00.000Z",
-          "wordCount": 4998,
+          "wordCount": 5100,
           "title": "Expand Your Horizons (June 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1c6a9a31-4619-4c93-b9ea-65b5f50082cd/june-22-create-your-own-path-preview-opt.png",
@@ -952,7 +967,7 @@
           "description": "How many browser DevTools panels do you commonly use in your day-to-day web development? One? Three? Probably not that many more. In this article, Patrick Brosset shines the spotlight on a number of tools that people don’t use or even know about. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/whats-that-dev-tool/",
           "publishedOn": "2022-05-30T13:30:00.000Z",
-          "wordCount": 5271,
+          "wordCount": 5280,
           "title": "What’s That (Dev) Tool?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a1e15f7-a8bd-4593-b880-c9857e673516/whats-that-dev-tool.jpg",
@@ -967,7 +982,7 @@
           "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
           "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
           "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5024,
           "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
@@ -1005,21 +1020,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "author": "hello@smashingmagazine.com (Kata Nagygyörgy & Diana Lakatos)",
-          "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
-          "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 8284,
-          "title": "Developing An Award-Winning Onboarding Process (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg"
         }
       ]
     },
@@ -1029,6 +1029,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.",
+          "link": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
+          "publishedOn": "2022-06-22T18:30:58.000Z",
+          "wordCount": 1179,
+          "title": "%.2f in Python – What does it Mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a free and open-source version control system. It is the most popular version control system in use today. Git keeps track of the changes made to a project over time. This allows multiple developers to collaborate and work on the same project in parallel, no matter where they",
+          "link": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
+          "publishedOn": "2022-06-22T18:03:49.000Z",
+          "wordCount": 2072,
+          "title": "Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
+          "author": "D.M. Oladele",
+          "description": "Modern web pages are dynamic. This means we need a suitable and convenient way to modify and manipulate a web document's structure.  This modification in an HTML document, for instance, usually takes the form of creating, adding, or removing elements in the document.  In this article, you'll learn",
+          "link": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
+          "publishedOn": "2022-06-22T17:54:50.000Z",
+          "wordCount": 3653,
+          "title": "What is the DOM? The Document Object Model Explained in Plain English",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/DOM-cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "An array is a special variable that we use to store or hold more than one value in a single variable without having to create more variables to store those values.  To create an array in PHP, we use the array function array( ). By default, an array of",
+          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
+          "publishedOn": "2022-06-22T17:30:59.000Z",
+          "wordCount": 1631,
+          "title": "PHP Array – How to Use Arrays in Your PHP Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Arrays-in-PHP-final.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational",
+          "link": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
+          "publishedOn": "2022-06-22T17:06:02.000Z",
+          "wordCount": 4032,
+          "title": "JavaScript Design Patterns –Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
           "author": "Zaira Hira",
           "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
@@ -1036,7 +1086,7 @@
           "publishedOn": "2022-06-21T21:31:23.000Z",
           "wordCount": 1309,
           "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-read-write-files-python--1-.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
@@ -1046,7 +1096,7 @@
           "publishedOn": "2022-06-21T21:09:46.000Z",
           "wordCount": 1526,
           "title": "MVC in Computer Science – The MVC Model",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/mvc-cover.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
@@ -1054,9 +1104,9 @@
           "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
           "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
           "publishedOn": "2022-06-21T20:59:02.000Z",
-          "wordCount": 2309,
+          "wordCount": 2308,
           "title": "How to Customize Bootstrap with Sass",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How_to_customize_Boostrap_with_Sass.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
@@ -1066,7 +1116,7 @@
           "publishedOn": "2022-06-21T17:39:06.000Z",
           "wordCount": 1341,
           "title": "Java Switch Statement – How to Use a Switch Case in Java",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jaye-haych-bPOEB3sy4As-unsplash.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
@@ -1076,60 +1126,10 @@
           "publishedOn": "2022-06-21T16:06:02.000Z",
           "wordCount": 1599,
           "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "author": "Emmanuel Ohans",
-          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
-          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "publishedOn": "2022-06-21T15:55:07.000Z",
-          "wordCount": 2263,
-          "title": "What is TypeScript? A Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "author": "Joel Olawanle",
-          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
-          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "publishedOn": "2022-06-21T15:35:38.000Z",
-          "wordCount": 3789,
-          "title": "How to Consume REST APIs in React – a Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
-          "author": "Beau Carnes",
-          "description": "Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to",
-          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
-          "publishedOn": "2022-06-21T14:05:29.000Z",
-          "wordCount": 924,
-          "title": "Automate Your Life with Python",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/first-programming-language/",
-          "author": "Ophy Boamah",
-          "description": "As a code newbie, one of the most intimidating yet fundamental decisions to make is deciding which programming language to learn first.  There is a wide variety of languages, frameworks, and libraries that you'll easily find if you Google around. You'll agree though that wherever there are a lot",
-          "link": "https://www.freecodecamp.org/news/first-programming-language/",
-          "publishedOn": "2022-06-20T22:35:17.000Z",
-          "wordCount": 2142,
-          "title": "Which Programming Language Should You Learn First?",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/asynchronous-javascript-explained/",
-          "author": "Njong Emy",
-          "description": "If you've been learning JavaScript for a while now, then you've probably heard the term \"asynchronous\" before.  This is because JavaScript is an asynchronous language...but what does that really mean? In this article, I hope to show you that the concept is not as difficult as it sounds. Synchronous",
-          "link": "https://www.freecodecamp.org/news/asynchronous-javascript-explained/",
-          "publishedOn": "2022-06-20T20:10:50.000Z",
-          "wordCount": 2083,
-          "title": "Asynchronous JavaScript – Callbacks, Promises, and Async/Await Explained",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fcc_coverimage.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
